@@ -2,8 +2,6 @@ import nltk
 
 from nltk.tag import hmm
 
-from nltk.corpus import treebank
-
 import re
 
 
@@ -40,9 +38,9 @@ for line in contents:
 
 		
 
-trainer = hmm.HiddenMarkovModelTrainer()
 
-tagger = trainer.train_supervised(train_data)
+
+
 
 
 f = open("Domain1Test.txt", "r")
@@ -74,7 +72,7 @@ for line in contents:
 
 		test_data_line.append(word_and_tag)
 
+tagger = hmm.HiddenMarkovModelTagger.train(train_data,test_data)
 
-print(tagger.evaluate(test_data))
 
 
