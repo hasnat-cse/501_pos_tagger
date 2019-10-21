@@ -20,11 +20,11 @@ model = ../StanfordTagger/TrainedModels/Stanford1
 # If you choose to convert an old file, you must specify 
 # the correct 'arch' parameter used to create the original model.
 #trainFile = format=TSV,../A3DataCleaned/Domain1TrainSample.txt
-#trainFile = ../A3DataCleaned/Domain1TrainSample.txt
+trainFile = ../A3DataCleaned/Domain1TrainSample.txt
 
 # Path to outputFile to write tagged output to.
 # If empty, stdout is used.
-outputFile = output1.txt
+outputFile =
 
 # Output format. One of: slashTags (default), xml, or tsv
 outputFormat = slashTags

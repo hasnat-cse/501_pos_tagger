@@ -1,5 +1,0 @@
-#training
-java -classpath stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -prop ../StanfordTagger/myPropsFile.prop
-
-#testing
-java -classpath stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -prop ../StanfordTagger/myPropsFile.prop -testFile ../A3DataCleaned/Domain1TestSample.txt 
