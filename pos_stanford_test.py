@@ -5,9 +5,9 @@ import shutil
 
 def main():
     stanford_pos_tagger_jar_path = 'StanfordTagger/stanford-postagger.jar'
-    test_file_path = "A3DataCleaned/Domain2Test.txt"
-    model_path = 'StanfordTagger/TrainedModels/Stanford2'
-    output_path = 'StanfordTagger/Domain2TestOutput.txt'
+    test_file_path = "A3DataCleaned/Domain1Test.txt"
+    model_path = 'StanfordTagger/TrainedModels/Stanford1'
+    output_path = 'StanfordTagger/Domain1TestOutput.txt'
 
     f_test = open(test_file_path, "r")
     test_contents = f_test.read()
@@ -31,6 +31,16 @@ def main():
          '-model', model_path,
          '-testFile', temp_test_file_path],
         stdout=open(output_path, 'w'))
+
+    f_read_output = open(output_path, 'r')
+    output_contents = f_read_output.read()
+    f_read_output.close()
+
+    formatted_output_contents = output_contents.replace('/', ' ')
+
+    f_write_output = open(output_path, 'w')
+    f_write_output.write(formatted_output_contents)
+    f_write_output.close()
 
     shutil.rmtree('temp')
 
