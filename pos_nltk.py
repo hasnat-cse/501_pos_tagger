@@ -1,11 +1,15 @@
 import nltk
 
-from nltk.tag import hmm
+from nltk.tag import *
+
+from nltk.tbl.template import Template
+
+
 
 import re
 
 
-f = open("Domain1Train.txt","r")
+f = open("A3DataCleaned/Domain2Train.txt","r")
 
 contents = f.read()
 
@@ -23,6 +27,7 @@ for line in contents:
 		
 		
 
+		
 		train_data.append (train_data_line)
 
 		train_data_line = []
@@ -31,6 +36,10 @@ for line in contents:
 		
 
 		word_and_tag = re.compile("[ ]+").split(line)
+
+		if (len(word_and_tag)!=2):
+
+			print(word_and_tag)
 
 		word_and_tag = tuple(word_and_tag)
 
@@ -43,7 +52,7 @@ for line in contents:
 
 
 
-f = open("Domain1Test.txt", "r")
+f = open("A3DataCleaned/Domain1Test.txt", "r")
 
 contents = f.read()
 
@@ -66,13 +75,37 @@ for line in contents:
 	else:
 		
 
+		if (len(word_and_tag)!=2):
+
+			print(word_and_tag)
+
 		word_and_tag = re.compile("[ ]+").split(line)
 
 		word_and_tag = tuple(word_and_tag)
 
 		test_data_line.append(word_and_tag)
 
-tagger = hmm.HiddenMarkovModelTagger.train(train_data,test_data)
+hmm_tagger = hmm.HiddenMarkovModelTagger.train(train_data,test_data)
+
+
+
+#sentence = ["lone" ,"wolf", "dies", "and", "the", "pack", "survives"]
+
+#print(hmm_tagger.tag(sentence))
+
+#print(hmm_tagger.evaluate(test_data))
+
+Template._cleartemplates() #clear any templates created in earlier tests
+
+
+
+brill_trainer = BrillTaggerTrainer(hmm_tagger, brill.brill24())
+
+brill_tagger = brill_trainer.train(train_data)
+
+print(brill_tagger.evaluate(test_data))
+
+#brill_tagger.evaluate(test_data)
 
 
 
