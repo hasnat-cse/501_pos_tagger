@@ -232,6 +232,8 @@ def main():
 
 	Template._cleartemplates() #clear any templates created in earlier tests
 
+	stanfordTagger = StanfordPOSTagger('StanfordTagger/TrainedModels/Stanford1', 'StanfordTagger/stanford-postagger.jar')
+
 	brill_trainer = BrillTaggerTrainer(hmm_tagger, brill.brill24())
 
 	brill_tagger = brill_trainer.train(train_data)
