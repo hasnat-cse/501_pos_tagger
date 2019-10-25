@@ -4,13 +4,13 @@ import re
 # get file name excluding extension
 def get_file_name_excluding_extension(file_path):
     # gets the file name as "udhr-yao" from "811_a1_dev/udhr-yao.txt.dev" and "811_a1_train/udhr-yao.txt.tra" for unix
-    filename_pattern = r"[/\\](.+)\..*"
+    filename_pattern = r".*[/\\](.+)\..*"
 
     filename = re.findall(filename_pattern, file_path)
 
     if len(filename) == 0:
         # gets the file name as "udhr-yao" from "811_a1_dev/udhr-yao and "811_a1_train/udhr-yao" for unix
-        filename_pattern = r"[/\\](.+)\.?.*"
+        filename_pattern = r".*[/\\](.+)\.?.*"
 
         filename = re.findall(filename_pattern, file_path)
 
