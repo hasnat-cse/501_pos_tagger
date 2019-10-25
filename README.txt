@@ -1,7 +1,7 @@
 Team Members:
     Arnob Mallik (CCID: amallik)
     Arif Hasnat (CCID: hasnat)
-    
+
 
 Execution Instructions:
     To test using stanford pos tagger, run following command from command line:
