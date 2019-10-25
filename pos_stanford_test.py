@@ -2,17 +2,16 @@ import argparse
 import subprocess
 import os
 import shutil
+from util import prepare_output_file_path
 
 
 # for the command:
 # python3 pos_stanford_test.py --jar PATH_TO_STANFORD_TAGGER_JAR --model PATH_TO_MODEL_FILE --test PATH_TO_TEST_FILE
-#             --output PATH_TO_OUTPUT_FILE
 def parse_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument('--jar', dest="jar_path", action="store", required=True)
     parser.add_argument('--model', dest="model_path", action="store", required=True)
     parser.add_argument('--test', dest="test_path", action="store", required=True)
-    parser.add_argument('--output', dest="output_path", action="store", required=True)
 
     args = parser.parse_args()
 
@@ -25,7 +24,7 @@ def main():
     stanford_pos_tagger_jar_path = args.jar_path
     model_file_path = args.model_path
     test_file_path = args.test_path
-    output_file_path = args.output_path
+    output_file_path = prepare_output_file_path('stanford', model_file_path, test_file_path)
 
     # stanford_pos_tagger_jar_path = 'StanfordTagger/stanford-postagger.jar'
     # test_file_path = "A3DataCleaned/ELLTest.txt"

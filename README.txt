@@ -6,12 +6,9 @@ Team Members:
 Execution Instructions:
     To test using stanford pos tagger, run following command from command line:
         python3 pos_stanford_test.py --jar PATH_TO_STANFORD_TAGGER_JAR --model PATH_TO_MODEL_FILE --test PATH_TO_TEST_FILE
-            --output PATH_TO_OUTPUT_FILE
 
         example: python3 pos_stanford_train.py --jar StanfordTagger/stanford-postagger.jar --model StanfordTagger/Stanford1
-                    --test A3DataCleaned/Domain1Test.txt --output Domain1TestOutput.txt
-
-        Note: output will be saved in the output file given as PATH_TO_OUTPUT_FILE
+                    --test A3DataCleaned/Domain1Test.txt
 
 
     To train using stanford pos tagger, run following command from command line:
