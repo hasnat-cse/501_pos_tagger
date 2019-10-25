@@ -3,6 +3,10 @@ Team Members:
     Arif Hasnat (CCID: hasnat)
 
 
+INSTALL:
+
+pip3 install dill
+
 Execution Instructions:
     To test using stanford pos tagger, run following command from command line:
         python3 pos_stanford_test.py --jar PATH_TO_STANFORD_TAGGER_JAR --model PATH_TO_MODEL_FILE --test PATH_TO_TEST_FILE
