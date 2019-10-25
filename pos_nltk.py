@@ -12,6 +12,8 @@ import csv
 
 import numpy as np
 
+import dill
+
 def pre_process(filename):
 
 	f = open(filename, "r")
@@ -143,8 +145,7 @@ def get_confusion_matrix(mapping, test_file, output_file):
 
 
 
-	rows, cols = (len(mapping), len(mapping)) 
-	confusion_matrix = [[0]*cols]*rows
+	confusion_matrix = np.zeros(shape=(len(mapping),len(mapping)))
 
 	
 
@@ -205,16 +206,21 @@ def get_confusion_matrix(mapping, test_file, output_file):
 
 def main():	
 
-
-	train_file = "Domain2Train.txt"
+	
+	train_file = input("Enter train file :")
 	train_data = pre_process (train_file)
 
 
-	test_file = "Domain1Test.txt"
+	test_file = input("Enter test file :")
 	test_data = pre_process (test_file)
 
 	
 	hmm_tagger = hmm.HiddenMarkovModelTagger.train(train_data,test_data)
+
+	print(hmm_tagger)
+
+	with open('my_tagger.dill', 'wb') as f:
+		dill.dump(hmm_tagger, f)
 
 	output_file = "output_hmm_" + train_file + "_" + test_file
 	write_output(output_file, test_data, hmm_tagger)
@@ -231,8 +237,6 @@ def main():
 
 
 	Template._cleartemplates() #clear any templates created in earlier tests
-
-	stanfordTagger = StanfordPOSTagger('StanfordTagger/TrainedModels/Stanford1', 'StanfordTagger/stanford-postagger.jar')
 
 	brill_trainer = BrillTaggerTrainer(hmm_tagger, brill.brill24())
 
