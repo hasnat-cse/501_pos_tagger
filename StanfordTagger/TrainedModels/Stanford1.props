@@ -1,8 +1,8 @@
-## tagger training invoked at Sat Oct 19 19:48:23 MDT 2019 with arguments:
-                   model = ../StanfordTagger/TrainedModels/Stanford1
-                    arch = bidirectional5words,naacl2003unknowns,wordshapes(-1,1)
+## tagger training invoked at Fri Oct 25 01:33:46 MDT 2019 with arguments:
+                   model = StanfordTagger/TrainedModels/Stanford1
+                    arch = bidirectional5words,naacl2003unknowns,allwordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)
             wordFunction = 
-               trainFile = ../A3DataCleaned/Domain1TrainSample.txt
+               trainFile = temp/FormattedTrainFile.txt
          closedClassTags = 
  closedClassTagThreshold = 40
  curWordMinFeatureThresh = 2
@@ -13,13 +13,13 @@
               iterations = 100
                     lang = english
     learnClosedClassTags = false
-        minFeatureThresh = 5
+        minFeatureThresh = 2
            openClassTags = 
 rareWordMinFeatureThresh = 10
           rareWordThresh = 5
                   search = qn
                     sgml = false
-            sigmaSquared = 0.5
+            sigmaSquared = 1.0
                    regL1 = 1.0
                tagInside = 
                 tokenize = false
@@ -29,7 +29,7 @@ rareWordMinFeatureThresh = 10
           verboseResults = true
     veryCommonWordThresh = 250
                 xmlInput = 
-              outputFile = ../StanfordTragger/output1.txt
-            outputFormat = tsv
+              outputFile = 
+            outputFormat = slashTags
      outputFormatOptions = 
                 nthreads = 1

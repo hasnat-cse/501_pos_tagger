@@ -1,0 +1,95 @@
+bidirectional5words,naacl2003unknowns,allwordshapes(-1,1)  Domain1Train Domain1Test
+Results on 12851 sentences and 12382 words, of which 1755 were unknown.
+Total sentences right: 11356 (88.366664%); wrong: 1495 (11.633336%).
+Total tags right: 10887 (87.926022%); wrong: 1495 (12.073978%).
+Unknown words right: 1286 (73.276353%); wrong: 469 (26.723647%).
+
+left3words,naacl2003unknowns,wordshapes(-1,1)  Domain1Train Domain1Test
+Results on 12851 sentences and 12382 words, of which 1755 were unknown.
+Total sentences right: 11102 (86.390164%); wrong: 1749 (13.609836%).
+Total tags right: 10633 (85.874657%); wrong: 1749 (14.125343%).
+Unknown words right: 1291 (73.561254%); wrong: 464 (26.438746%).
+
+left3words,naacl2003unknowns,wordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain1Train Domain1Test
+Results on 12851 sentences and 12382 words, of which 1755 were unknown.
+Total sentences right: 11252 (87.557389%); wrong: 1599 (12.442611%).
+Total tags right: 10783 (87.086093%); wrong: 1599 (12.913907%).
+Unknown words right: 1433 (81.652422%); wrong: 322 (18.347578%).
+
+words(-1,1),order(2),caselessnaacl2003unknowns,wordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain1Train Domain1Test
+Results on 12851 sentences and 12382 words, of which 1755 were unknown.
+Total sentences right: 11237 (87.440666%); wrong: 1614 (12.559334%).
+Total tags right: 10768 (86.964949%); wrong: 1614 (13.035051%).
+Unknown words right: 1423 (81.082621%); wrong: 332 (18.917379%).
+
+bidirectional5words,naacl2003unknowns,allwordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain1Train Domain1Test
+Results on 12851 sentences and 12382 words, of which 1755 were unknown.
+Total sentences right: 11505 (89.526107%); wrong: 1346 (10.473893%).
+Total tags right: 11036 (89.129381%); wrong: 1346 (10.870619%).
+Unknown words right: 1436 (81.823362%); wrong: 319 (18.176638%).
+
+
+
+bidirectional5words,naacl2003unknowns,allwordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain2Train Domain2Test
+Results on 7626 sentences and 7083 words, of which 1003 were unknown.
+Total sentences right: 6748 (88.486756%); wrong: 878 (11.513244%).
+Total tags right: 6205 (87.604123%); wrong: 878 (12.395877%).
+Unknown words right: 832 (82.951147%); wrong: 171 (17.048853%).
+
+words(-1,1),order(2),caselessnaacl2003unknowns,wordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain2Train Domain2Test
+Results on 7626 sentences and 7083 words, of which 1003 were unknown.
+Total sentences right: 6773 (88.814582%); wrong: 853 (11.185418%).
+Total tags right: 6230 (87.957080%); wrong: 853 (12.042920%).
+Unknown words right: 818 (81.555334%); wrong: 185 (18.444666%).
+
+left3words,naacl2003unknowns,wordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain2Train Domain2Test
+Results on 7626 sentences and 7083 words, of which 1003 were unknown.
+Total sentences right: 6789 (89.024390%); wrong: 837 (10.975610%).
+Total tags right: 6246 (88.182973%); wrong: 837 (11.817027%).
+Unknown words right: 836 (83.349950%); wrong: 167 (16.650050%).
+
+
+
+bidirectional5words,naacl2003unknowns,allwordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain1Train Domain2Test
+Results on 7626 sentences and 7083 words, of which 1344 were unknown.
+Total sentences right: 6716 (88.067139%); wrong: 910 (11.932861%).
+Total tags right: 6173 (87.152337%); wrong: 910 (12.847663%).
+Unknown words right: 1025 (76.264881%); wrong: 319 (23.735119%).
+
+
+
+left3words,naacl2003unknowns,wordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain2Train Domain1Test
+Results on 12851 sentences and 12382 words, of which 2667 were unknown.
+Total sentences right: 11240 (87.464011%); wrong: 1611 (12.535989%).
+Total tags right: 10771 (86.989178%); wrong: 1611 (13.010822%).
+Unknown words right: 2103 (78.852643%); wrong: 564 (21.147357%).
+
+
+
+bidirectional5words,naacl2003unknowns,allwordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain1Train ELLTest
+Results on 10091 sentences and 9591 words, of which 1164 were unknown.
+Total sentences right: 8455 (83.787533%); wrong: 1636 (16.212467%).
+Total tags right: 7955 (82.942342%); wrong: 1636 (17.057658%).
+Unknown words right: 841 (72.250859%); wrong: 323 (27.749141%).
+
+
+
+left3words,naacl2003unknowns,wordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  Domain2Train ELLTest
+Results on 10091 sentences and 9591 words, of which 1291 were unknown.
+Total sentences right: 8346 (82.707363%); wrong: 1745 (17.292637%).
+Total tags right: 7846 (81.805860%); wrong: 1745 (18.194140%).
+Unknown words right: 909 (70.410534%); wrong: 382 (29.589466%).
+
+
+
+left3words,naacl2003unknowns,wordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  ELLTrain ELLTest
+Results on 10091 sentences and 9591 words, of which 351 were unknown.
+Total sentences right: 5537 (54.870677%); wrong: 4554 (45.129323%).
+Total tags right: 5037 (52.517986%); wrong: 4554 (47.482014%).
+Unknown words right: 245 (69.800570%); wrong: 106 (30.199430%).
+
+bidirectional5words,naacl2003unknowns,allwordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)  ELLTrain ELLTest
+Results on 10091 sentences and 9591 words, of which 351 were unknown.
+Total sentences right: 6834 (67.723714%); wrong: 3257 (32.276286%).
+Total tags right: 6334 (66.041080%); wrong: 3257 (33.958920%).
+Unknown words right: 241 (68.660969%); wrong: 110 (31.339031%).

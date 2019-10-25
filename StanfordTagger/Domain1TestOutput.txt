@@ -1,4 +1,4 @@
-American JJ 
+American NNP 
 democratic JJ 
 thought NN 
 , , 
@@ -23,9 +23,9 @@ religion NN
 , , 
 which WDT 
 he PRP 
-called VBD 
+called VBN 
 the DT 
-American JJ 
+American NNP 
 Democratic JJ 
 Faith NNP 
 . . 
@@ -33,13 +33,13 @@ Faith NNP
 Those DT 
 familiar JJ 
 with IN 
-his PRP 
+his PRP$ 
 work NN 
 will NN 
 remember VB 
 that IN 
 he PRP 
-placed VBD 
+placed VBN 
 the DT 
 incipience NN 
 of IN 
@@ -57,19 +57,19 @@ describes VBZ
 it PRP 
 as IN 
 a DT 
-balanced VBN 
+balanced JJ 
 polarity NN 
 between IN 
 the DT 
 notions NNS 
 of IN 
 the DT 
-free JJ 
+free RB 
 individual NN 
 and CC 
 what WDT 
 he PRP 
-called VBD 
+called VBN 
 the DT 
 fundamental JJ 
 law NN 
@@ -78,11 +78,11 @@ law NN
 I PRP 
 want NN 
 to TO 
-say VB 
+say VBP 
 more RB 
 about IN 
 Gabriel NNP 
-'s VBZ 
+'s POS 
 so-called JJ 
 fundamental JJ 
 law NN 
@@ -100,7 +100,7 @@ the DT
 relationship NN 
 that IN 
 he PRP 
-found VBD 
+found VBN 
 between IN 
 religion NN 
 and CC 
@@ -116,8 +116,8 @@ it PRP
 . . 
 
 He PRP 
-points VBZ 
-out IN 
+points NNS 
+out RB 
 that IN 
 from IN 
 the DT 
@@ -148,16 +148,16 @@ America NNP
 . . 
 
 He PRP 
-terms VBZ 
+terms NNS 
 this DT 
 early JJ 
 enthusiasm NN 
 `` `` 
-Romantic NNP 
+Romantic JJ 
 Christianity NNP 
 '' '' 
 and CC 
-concludes NNS 
+concludes VBZ 
 that IN 
 its PRP$ 
 similarity NN 
@@ -177,7 +177,7 @@ doctrine NN
 of IN 
 liberty NN 
 seems VBZ 
-but IN 
+but CC 
 a DT 
 secular JJ 
 version NN 
@@ -194,12 +194,12 @@ Let VB
 me PRP 
 quote VB 
 him PRP 
-even JJ 
+even RB 
 more RB 
 fully RB 
 , , 
 for IN 
-his PRP 
+his PRP$ 
 analysis NN 
 is VBZ 
 important JJ 
@@ -220,7 +220,7 @@ of IN
 Progress NN 
 , , 
 as IN 
-expressed VBD 
+expressed VBN 
 in IN 
 radical JJ 
 or CC 
@@ -229,7 +229,7 @@ millenarianism NN
 , , 
 should MD 
 be VB 
-placed VBD 
+placed VBN 
 the DT 
 doctrine NN 
 of IN 
@@ -249,9 +249,9 @@ destiny NN
 of IN 
 the DT 
 United NNP 
-States NNS 
+States NNP 
 to TO 
-assist NN 
+assist VB 
 in IN 
 the DT 
 creation NN 
@@ -270,7 +270,7 @@ democracy NN
 . . 
 
 He PRP 
-specifies NNS 
+specifies VBZ 
 , , 
 `` `` 
 in IN 
@@ -321,7 +321,7 @@ also RB
 . . 
 
 Some DT 
-fourteen VBN 
+fourteen CD 
 or CC 
 fifteen CD 
 years NNS 
@@ -331,7 +331,7 @@ in IN
 an DT 
 essay NN 
 I PRP 
-called VBD 
+called VBN 
 The DT 
 Leader NNP 
 Follows NNP 
@@ -342,10 +342,10 @@ Where NNP
 
 I PRP 
 used VBD 
-his PRP 
+his PRP$ 
 polarity NN 
 to TO 
-illustrate JJ 
+illustrate VB 
 what WDT 
 I PRP 
 thought NN 
@@ -364,7 +364,7 @@ Progressivism NNP
 . . 
 
 It PRP 
-seemed VBD 
+seemed VBN 
 to TO 
 me PRP 
 that IN 
@@ -373,7 +373,7 @@ liberals NNS
 had VBD 
 scrapped VBN 
 the DT 
-balanced VBN 
+balanced JJ 
 polarity NN 
 and CC 
 reposed VBN 
@@ -389,18 +389,18 @@ common NN
 man NN 
 . . 
 
-That IN 
+That DT 
 is VBZ 
 to TO 
-say VB 
+say VBP 
 Gabriel NNP 
-'s VBZ 
+'s POS 
 fundamental JJ 
 law NN 
 had VBD 
 been VBD 
 so IN 
-much DT 
+much RB 
 modified VBN 
 by IN 
 this DT 
@@ -408,7 +408,7 @@ time NN
 that IN 
 it PRP 
 was VBD 
-neither DT 
+neither RB 
 fundamental JJ 
 nor CC 
 law NN 
@@ -422,7 +422,7 @@ a DT
 weakness NN 
 of IN 
 Gabriel NNP 
-'s VBZ 
+'s POS 
 analysis NN 
 that IN 
 he PRP 
@@ -431,7 +431,7 @@ seems VBZ
 to TO 
 realize VB 
 that IN 
-his PRP 
+his PRP$ 
 so-called JJ 
 fundamental JJ 
 law NN 
@@ -455,14 +455,14 @@ And CC
 with IN 
 Progressivism NNP 
 the DT 
-Religion NNP 
+Religion NN 
 of IN 
-Humanity NNP 
+Humanity NN 
 was VBD 
 replacing VBG 
 what WDT 
 Gabriel NNP 
-called VBD 
+called VBN 
 Christian NNP 
 supernaturalism NN 
 . . 
@@ -480,7 +480,7 @@ or CC
 charisma NN 
 , , 
 on IN 
-his PRP 
+his PRP$ 
 own JJ 
 . . 
 
@@ -504,7 +504,7 @@ grew VBD
 uncomfortable JJ 
 as IN 
 the DT 
-Voice NNP 
+Voice NN 
 of IN 
 God NNP 
 and CC 
@@ -516,15 +516,15 @@ Woodrow NNP
 ( ( 
 Wilson NNP 
 ) ) 
-only JJ 
+only RB 
 to TO 
 learn VB 
 from IN 
 Science NN 
 , , 
 to TO 
-his PRP 
-shocked VBD 
+his PRP$ 
+shocked VBN 
 relief NN 
 that IN 
 after IN 
@@ -542,10 +542,10 @@ and CC
 that IN 
 he PRP 
 was VBD 
-just JJ 
+just RB 
 an DT 
 animal NN 
-anyhow NN 
+anyhow RB 
 -- : 
 that IN 
 there RB 
@@ -559,11 +559,11 @@ him PRP
 and CC 
 that IN 
 too RB 
-much DT 
+much RB 
 could MD 
 n't RB 
 be VB 
-expected VBN 
+expected VBD 
 of IN 
 him PRP 
 . . 
@@ -607,7 +607,7 @@ Jacksonian NNP
 frontier NN 
 . . 
 
-What WDT 
+What WP 
 had VBD 
 happened VBD 
 to TO 
@@ -621,7 +621,7 @@ French NNP
 Egalitarianism NN 
 had VBD 
 had VBD 
-only JJ 
+only RB 
 nominal JJ 
 influence NN 
 in IN 
@@ -643,18 +643,18 @@ after IN
 the DT 
 War NNP 
 for IN 
-Southern JJ 
+Southern NNP 
 Independence NNP 
 and CC 
 the DT 
 general NN 
 secular JJ 
-drift NN 
+drift VB 
 to TO 
 the DT 
-Religion NNP 
+Religion NN 
 of IN 
-Humanity NNP 
+Humanity NN 
 , , 
 however RB 
 , , 
@@ -668,7 +668,7 @@ of IN
 the DT 
 French NNP 
 Revolution NNP 
-'s VBZ 
+'s POS 
 socialistic JJ 
 offspring VBG 
 of IN 
@@ -713,7 +713,7 @@ the DT
 dislocations NNS 
 of IN 
 the DT 
-Depression NNP 
+Depression NN 
 , , 
 the DT 
 common NN 
@@ -729,7 +729,7 @@ various JJ
 ways NNS 
 to TO 
 the DT 
-face-lifting JJ 
+face-lifting VBG 
 that IN 
 replaced VBN 
 Mike NNP 
@@ -785,18 +785,18 @@ the DT
 former JJ 
 . . 
 
-That IN 
+That DT 
 John NNP 
 Locke NNP 
-'s VBZ 
+'s POS 
 philosophy NN 
 of IN 
 the DT 
 social JJ 
 contract NN 
-fathered VBN 
+fathered VBD 
 the DT 
-American JJ 
+American NNP 
 Revolution NNP 
 with IN 
 its PRP$ 
@@ -809,7 +809,7 @@ believe VB
 , , 
 we PRP 
 generally RB 
-accept NN 
+accept VB 
 . . 
 
 Yet RB 
@@ -817,7 +817,7 @@ Yet RB
 after IN 
 Rousseau NNP 
 had VBD 
-given VBD 
+given VBN 
 the DT 
 social JJ 
 contract NN 
@@ -825,7 +825,7 @@ a DT
 new JJ 
 twist VB 
 with IN 
-his PRP 
+his PRP$ 
 notion NN 
 of IN 
 the DT 
@@ -841,7 +841,7 @@ may MD
 be VB 
 said VBD 
 , , 
-became VBD 
+became VBN 
 the DT 
 idea NN 
 source NN 
@@ -856,7 +856,7 @@ The DT
 importance NN 
 of IN 
 Rousseau NNP 
-'s VBZ 
+'s POS 
 twist VB 
 has VBZ 
 not RB 
@@ -887,7 +887,7 @@ the DT
 Revolution NNP 
 and CC 
 later JJ 
-brought VBD 
+brought VBN 
 Napoleon NN 
 to TO 
 dictatorship NN 
@@ -897,7 +897,7 @@ And CC
 it PRP 
 is VBZ 
 clearly RB 
-argued VBN 
+argued VBD 
 by IN 
 Lord NNP 
 Percy NNP 
@@ -905,15 +905,15 @@ of IN
 Newcastle NNP 
 , , 
 in IN 
-his PRP 
+his PRP$ 
 remarkable JJ 
-long JJ 
+long RB 
 essay NN 
 , , 
 The DT 
 Heresy NNP 
 Of IN 
-Democracy NNP 
+Democracy NN 
 , , 
 and CC 
 in IN 
@@ -925,7 +925,7 @@ by IN
 Voegelin NNP 
 , , 
 in IN 
-his PRP 
+his PRP$ 
 New NNP 
 Science NN 
 Of IN 
@@ -947,7 +947,7 @@ the DT
 source NN 
 of IN 
 Marx NNP 
-'s VBZ 
+'s POS 
 theory NN 
 of IN 
 the DT 
@@ -967,7 +967,7 @@ position NN
 that IN 
 doctrinaire NN 
 liberals NNS 
-found VBD 
+found VBN 
 themselves PRP 
 in IN 
 after IN 
@@ -981,17 +981,17 @@ great JJ
 democratic JJ 
 victory NN 
 that IN 
-brought VBD 
+brought VBN 
 no DT 
 peace NN 
 . . 
 
 The DT 
-long JJ 
+long RB 
 road NN 
 that IN 
 had VBD 
-taken VBD 
+taken VBN 
 liberals NNS 
 in IN 
 this DT 
@@ -1022,13 +1022,13 @@ society NN
 under IN 
 a DT 
 Socialist JJ 
-State NN 
+State NNP 
 . . 
 
 And CC 
 the DT 
 ussr NN 
-existed VBN 
+existed VBD 
 as IN 
 the DT 
 revolutionary JJ 
@@ -1039,7 +1039,7 @@ socialism NN
 , , 
 the DT 
 ultimate JJ 
-exemplar JJ 
+exemplar NN 
 . . 
 
 And CC 
@@ -1048,7 +1048,7 @@ the DT
 time NN 
 the DT 
 war NN 
-ended VBD 
+ended VBN 
 , , 
 liberal NN 
 leadership NN 
@@ -1066,7 +1066,7 @@ recall VB
 that IN 
 the DT 
 still RB 
-confident NN 
+confident JJ 
 liberals NNS 
 of IN 
 the DT 
@@ -1081,7 +1081,7 @@ in IN
 San NNP 
 Francisco NNP 
 to TO 
-set NN 
+set VBD 
 up IN 
 the DT 
 legal JJ 
@@ -1090,26 +1090,26 @@ framework NN
 finally RB 
 and CC 
 at IN 
-last JJ 
+last RB 
 , , 
 to TO 
-rationalize JJ 
+rationalize VB 
 war NN 
 -- : 
 to TO 
-rationalize JJ 
+rationalize VB 
 want NN 
 and CC 
 fear NN 
 -- : 
-out IN 
+out RB 
 of IN 
 the DT 
 world NN 
 : : 
 the DT 
 United NNP 
-Nations NNS 
+Nations NNP 
 . . 
 
 We PRP 
@@ -1119,7 +1119,7 @@ liberal-led JJ
 world NN 
 got VBD 
 all DT 
-set NN 
+set VBD 
 for IN 
 peace NN 
 and CC 
@@ -1129,7 +1129,7 @@ rehabilitation NN
 Then RB 
 suddenly RB 
 we PRP 
-found VBD 
+found VBN 
 ourselves PRP 
 in IN 
 the DT 
@@ -1159,7 +1159,7 @@ had VBD
 thought NN 
 noblest JJS 
 ) ) 
-ally RB 
+ally NN 
 . . 
 
 During IN 
@@ -1174,7 +1174,7 @@ the DT
 Fair NNP 
 Deal NNP 
 reluctantly RB 
-backed VBD 
+backed VBN 
 down IN 
 from IN 
 the DT 
@@ -1196,7 +1196,7 @@ leaders NNS
 in IN 
 the DT 
 United NNP 
-States NNS 
+States NNP 
 sank NN 
 in IN 
 the DT 
@@ -1221,7 +1221,7 @@ irony NN
 enforced VBN 
 and CC 
 enforceable JJ 
-only JJ 
+only RB 
 by IN 
 threat NN 
 of IN 
@@ -1232,9 +1232,9 @@ we PRP
 felt VBD 
 the DT 
 greatest JJS 
-distaste VB 
+distaste NN 
 for IN 
-but IN 
+but CC 
 could MD 
 not RB 
 abandon VB 
@@ -1312,7 +1312,7 @@ to TO
 him PRP 
 under IN 
 Eisenhower NNP 
-'s VBZ 
+'s POS 
 leadership NN 
 . . 
 
@@ -1332,7 +1332,7 @@ title NN
 of IN 
 one NN 
 of IN 
-his PRP 
+his PRP$ 
 books NNS 
 as IN 
 the DT 
@@ -1343,8 +1343,8 @@ moderates NNS
 . . 
 
 He PRP 
-opens NNS 
-his PRP 
+opens VBZ 
+his PRP$ 
 discourse NN 
 , , 
 however RB 
@@ -1390,7 +1390,7 @@ indeed RB
 , , 
 exuberant JJ 
 , , 
-but IN 
+but CC 
 the DT 
 press VB 
 for IN 
@@ -1398,7 +1398,7 @@ all DT
 its PRP$ 
 assiduity NN 
 could MD 
-detect NN 
+detect VB 
 no DT 
 note NN 
 of IN 
@@ -1411,7 +1411,7 @@ destiny NN
 
 Lubell NNP 
 offers VBZ 
-his PRP 
+his PRP$ 
 book NN 
 as IN 
 an DT 
@@ -1440,10 +1440,10 @@ essence NN
 the DT 
 drama NN 
 of IN 
-his PRP 
+his PRP$ 
 ( ( 
 Eisenhower NNP 
-'s VBZ 
+'s POS 
 ) ) 
 Presidency NNP 
 can NN 
@@ -1455,7 +1455,7 @@ ordeal NN
 of IN 
 a DT 
 nation NN 
-turned VBD 
+turned VBN 
 conservative JJ 
 and CC 
 struggling VBG 
@@ -1463,7 +1463,7 @@ struggling VBG
 thus RB 
 far RB 
 with IN 
-but IN 
+but CC 
 limited JJ 
 and CC 
 precarious JJ 
@@ -1486,7 +1486,7 @@ will NN
 assume VBP 
 that IN 
 we PRP 
-are VB 
+are VBP 
 all DT 
 aware JJ 
 of IN 
@@ -1507,7 +1507,7 @@ conservatism NN
 
 It PRP 
 has VBZ 
-moved VBD 
+moved VBN 
 on IN 
 various JJ 
 levels NNS 
@@ -1528,7 +1528,7 @@ no DT
 agreement NN 
 on IN 
 what WDT 
-American JJ 
+American NNP 
 conservatism NN 
 is VBZ 
 , , 
@@ -1548,13 +1548,13 @@ neglected VBN
 , , 
 not RB 
 to TO 
-say VB 
+say VBP 
 nascent JJ 
 , , 
 when WRB 
 the DT 
 struggle NN 
-began VBD 
+began VBN 
 . . 
 
 I PRP 
@@ -1588,7 +1588,7 @@ conservative JJ
 at IN 
 all DT 
 , , 
-but IN 
+but CC 
 an DT 
 old JJ 
 liberal NN 
@@ -1612,7 +1612,7 @@ define VB
 conservatism NN 
 . . 
 
-What WDT 
+What WP 
 I PRP 
 am VB 
 here RB 
@@ -1636,11 +1636,11 @@ to TO
 self-redefinition NN 
 -- : 
 to TO 
-see VB 
+see VBP 
 if IN 
 we PRP 
 can NN 
-predict JJ 
+predict VBP 
 its PRP$ 
 future NN 
 course NN 
@@ -1659,7 +1659,7 @@ the DT
 basis NN 
 of IN 
 the DT 
-last JJ 
+last RB 
 election NN 
 , , 
 I PRP 
@@ -1689,14 +1689,14 @@ we PRP
 gave VBD 
 Kennedy NNP 
 no DT 
-very JJ 
+very RB 
 positive JJ 
 approval NN 
 in IN 
 the DT 
 margin NN 
 of IN 
-his PRP 
+his PRP$ 
 preferment NN 
 . . 
 
@@ -1715,9 +1715,9 @@ malaise NN
 But CC 
 before IN 
 I PRP 
-try VB 
+try VBP 
 to TO 
-diagnose NN 
+diagnose VB 
 it PRP 
 , , 
 I PRP 
@@ -1740,7 +1740,7 @@ this DT
 malaise NN 
 that IN 
 appeared VBD 
-last JJ 
+last RB 
 year NN 
 . . 
 
@@ -1751,7 +1751,7 @@ them PRP
 was VBD 
 an DT 
 unofficial JJ 
-enterprise JJ 
+enterprise NN 
 , , 
 sponsored VBN 
 by IN 
@@ -1779,9 +1779,9 @@ well-known JJ
 a DT 
 former JJ 
 Democratic JJ 
-candidate JJ 
+candidate NN 
 for IN 
-President NN 
+President NNP 
 , , 
 a DT 
 New NNP 
@@ -1790,9 +1790,9 @@ poet NN
 , , 
 the DT 
 magazine NN 
-'s VBZ 
+'s POS 
 chief JJ 
-editorial JJ 
+editorial NN 
 writer NN 
 , , 
 two CD 
@@ -1813,19 +1813,19 @@ evangelist NN
 , , 
 etc. FW 
 . . 
-What WDT 
+What WP 
 I PRP 
 want NN 
 to TO 
 point NN 
-out IN 
+out RB 
 here RB 
 is VBZ 
 that IN 
 all DT 
 of IN 
 them PRP 
-are VB 
+are VBP 
 ex-liberals NNS 
 , , 
 or CC 
@@ -1842,8 +1842,8 @@ I PRP
 suppose VBP 
 we PRP 
 might MD 
-classify NN 
-Billy RB 
+classify VB 
+Billy NNP 
 Graham NNP 
 as IN 
 an DT 
@@ -1899,7 +1899,7 @@ salvation NN
 
 Adlai NNP 
 Stevenson NNP 
-expressed VBD 
+expressed VBN 
 some DT 
 reservations NNS 
 about IN 
@@ -1907,7 +1907,7 @@ this DT
 return NN 
 . . 
 
-Others NNS 
+Others NNP 
 invoked VBD 
 technology NN 
 and CC 
@@ -1918,7 +1918,7 @@ sense NN
 Only RB 
 Walter NNP 
 Lippman NNP 
-envisioned VBN 
+envisioned VBD 
 the DT 
 possibility NN 
 of IN 
@@ -1939,7 +1939,7 @@ program NN
 of IN 
 our PRP$ 
 national JJ 
-purposes VBZ 
+purposes NNS 
 '' '' 
 . . 
 
@@ -1974,7 +1974,7 @@ the DT
 report NN 
 of IN 
 Eisenhower NNP 
-'s VBZ 
+'s POS 
 Commission NNP 
 on IN 
 National JJ 
@@ -1998,7 +1998,7 @@ their PRP$
 position NN 
 in IN 
 the DT 
-preface VB 
+preface NN 
 where WRB 
 it PRP 
 was VBD 
@@ -2013,11 +2013,11 @@ be VB
 administered VBN 
 by IN 
 the DT 
-American JJ 
-Assembly RB 
+American NNP 
+Assembly NNP 
 of IN 
 Columbia NNP 
-University NN 
+University NNP 
 , , 
 because IN 
 it PRP 
@@ -2041,7 +2041,7 @@ the DT
 unconscious JJ 
 liberal NN 
 , , 
-but IN 
+but CC 
 not RB 
 unconscious JJ 
 enough JJ 
@@ -2064,7 +2064,7 @@ hear VB
 the DT 
 same JJ 
 refrain NN 
-mentioned VBN 
+mentioned VBD 
 above IN 
 : : 
 `` `` 
@@ -2074,9 +2074,9 @@ goal JJ
 of IN 
 the DT 
 United NNP 
-States NNS 
-set NN 
-long JJ 
+States NNP 
+set VBD 
+long RB 
 ago RB 
 was VBD 
 to TO 
@@ -2087,12 +2087,12 @@ of IN
 the DT 
 individual NN 
 , , 
-ensure NN 
-his PRP 
+ensure VB 
+his PRP$ 
 development NN 
 , , 
 enlarge VB 
-his PRP 
+his PRP$ 
 opportunity NN 
 '' '' 
 . . 
@@ -2100,7 +2100,7 @@ opportunity NN
 This DT 
 group NN 
 is VBZ 
-secularist NN 
+secularist JJ 
 and CC 
 their PRP$ 
 program NN 
@@ -2116,7 +2116,7 @@ is VBZ
 the DT 
 need NN 
 to TO 
-undertake JJ 
+undertake VB 
 these DT 
 testaments NNS 
 that IN 
@@ -2130,7 +2130,7 @@ of IN
 the DT 
 common NN 
 man NN 
-'s VBZ 
+'s POS 
 malaise NN 
 . . 
 
@@ -2139,7 +2139,7 @@ let VBD
 me PRP 
 add VB 
 Murray NNP 
-'s VBZ 
+'s POS 
 new JJ 
 book NN 
 as IN 
@@ -2162,7 +2162,7 @@ it PRP
 when WRB 
 it PRP 
 came VBD 
-out IN 
+out RB 
 recently RB 
 . . 
 
@@ -2205,7 +2205,7 @@ however RB
 to TO 
 return NN 
 to TO 
-President NN 
+President NNP 
 Kennedy NNP 
 . . 
 
@@ -2215,7 +2215,7 @@ of IN
 the DT 
 common NN 
 man NN 
-'s VBZ 
+'s POS 
 malaise NN 
 , , 
 he PRP 
@@ -2234,7 +2234,7 @@ by IN
 the DT 
 skin NN 
 of IN 
-his PRP 
+his PRP$ 
 teeth NN 
 . . 
 
@@ -2251,7 +2251,7 @@ uneasy JJ
 , , 
 not RB 
 to TO 
-say VB 
+say VBP 
 confused VBN 
 , , 
 state NN 
@@ -2262,17 +2262,17 @@ mind NN
 ? . 
 ? . 
 
-What WDT 
+What WP 
 is VBZ 
 the DT 
 common NN 
 man NN 
-'s VBZ 
+'s POS 
 complaint NN 
 ? . 
 ? . 
 
-'s VBZ 
+'s POS 
 take VB 
 a DT 
 panoramic JJ 
@@ -2283,7 +2283,7 @@ the DT
 course NN 
 we PRP 
 have VB 
-come VBD 
+come VB 
 . . 
 
 Has VBZ 
@@ -2291,7 +2291,7 @@ not RB
 that IN 
 way NN 
 been VBD 
-lit NN 
+lit VB 
 always RB 
 by IN 
 the DT 
@@ -2338,7 +2338,7 @@ Progress NN
 
 But CC 
 there RB 
-'s VBZ 
+'s POS 
 a DT 
 subjective JJ 
 side NN 
@@ -2352,7 +2352,7 @@ our PRP$
 society NN 
 have VB 
 a DT 
-runaway NN 
+runaway JJ 
 , , 
 uncontrollable JJ 
 growth NN 
@@ -2368,7 +2368,7 @@ or CC
 a DT 
 normal JJ 
 , , 
-healthy NN 
+healthy JJ 
 growth NN 
 ? . 
 ? . 
@@ -2384,7 +2384,7 @@ cancer NN
 : : 
 we PRP 
 can NN 
-detect NN 
+detect VB 
 cancers NNS 
 by IN 
 their PRP$ 
@@ -2393,7 +2393,7 @@ accelerating VBG
 growth NN 
 , , 
 determinable JJ 
-only JJ 
+only RB 
 when WRB 
 related VBN 
 to TO 
@@ -2402,7 +2402,7 @@ more RB
 normal JJ 
 rate NN 
 of IN 
-healthy NN 
+healthy JJ 
 growth NN 
 . . 
 
@@ -2413,7 +2413,7 @@ growth NN
 of IN 
 technology NN 
 then RB 
-warn NN 
+warn VB 
 us PRP 
 ? . 
 ? . 
@@ -2430,7 +2430,7 @@ step NN
 and CC 
 almost RB 
 the DT 
-only JJ 
+only RB 
 `` `` 
 cure VB 
 '' '' 
@@ -2438,7 +2438,7 @@ is VBZ
 early JJ 
 detection NN 
 and CC 
-removal JJ 
+removal NN 
 . . 
 
 One PRP 
@@ -2455,22 +2455,22 @@ technology NN
 would MD 
 be VB 
 to TO 
-check NN 
+check VB 
 the DT 
 strength NN 
 of IN 
 our PRP$ 
 society NN 
-'s VBZ 
+'s POS 
 organs NNS 
 to TO 
-see VB 
+see VBP 
 if IN 
 their PRP$ 
 functioning VBG 
 is VBZ 
 as IN 
-healthy NN 
+healthy JJ 
 as IN 
 before IN 
 . . 
@@ -2527,7 +2527,7 @@ economical JJ
 social JJ 
 , , 
 and CC 
-even JJ 
+even RB 
 medical JJ 
 . . 
 
@@ -2543,9 +2543,9 @@ of IN
 the DT 
 more RB 
 sedentary JJ 
-lives VBZ 
+lives NNS 
 we PRP 
-are VB 
+are VBP 
 now RB 
 living NN 
 ? . 
@@ -2558,7 +2558,7 @@ issue NN
 , , 
 as IN 
 I PRP 
-see VB 
+see VBP 
 it PRP 
 , , 
 is VBZ 
@@ -2566,7 +2566,7 @@ whether IN
 a DT 
 democratic JJ 
 or CC 
-free JJ 
+free RB 
 society NN 
 can NN 
 master NN 
@@ -2600,13 +2600,13 @@ nature NN
 . . 
 
 We PRP 
-are VB 
+are VBP 
 already RB 
 committed VBN 
 to TO 
-establishing NN 
+establishing VBG 
 man NN 
-'s VBZ 
+'s POS 
 supremacy NN 
 over IN 
 nature NN 
@@ -2623,14 +2623,14 @@ limited JJ
 social-political-economical JJ 
 context NN 
 we PRP 
-are VB 
+are VBP 
 fond JJ 
 of IN 
 today NN 
 . . 
 
 we PRP 
-go NN 
+go VB 
 on IN 
 endlessly RB 
 trying VBG 
@@ -2652,8 +2652,8 @@ man NN
 we PRP 
 wish NN 
 to TO 
-see VB 
-dominate JJ 
+see VBP 
+dominate VB 
 . . 
 
 We PRP 
@@ -2662,7 +2662,7 @@ proved VBN
 so IN 
 able JJ 
 to TO 
-solve JJ 
+solve VB 
 technological JJ 
 problems NNS 
 that IN 
@@ -2683,11 +2683,11 @@ is VBZ
 to TO 
 be VB 
 extremely RB 
-shortsighted VBN 
+shortsighted JJ 
 , , 
 if IN 
 nothing NN 
-else JJ 
+else RB 
 . . 
 
 We PRP 
@@ -2705,7 +2705,7 @@ destinies NNS
 : : 
 otherwise RB 
 why WRB 
-try VB 
+try VBP 
 anything NN 
 ? . 
 ? . 
@@ -2727,14 +2727,14 @@ all DT
 means NN 
 which WDT 
 could MD 
-amplify NN 
+amplify VB 
 , , 
 project NN 
 , , 
 or CC 
-augment NN 
+augment VB 
 man NN 
-'s VBZ 
+'s POS 
 control NN 
 over IN 
 himself PRP 
@@ -2785,7 +2785,7 @@ world NN
 , , 
 we PRP 
 must MD 
-employ NN 
+employ VBP 
 these DT 
 resources NNS 
 without IN 
@@ -2819,7 +2819,7 @@ institutions NNS
 foster NN 
 rather RB 
 than IN 
-hamper NN 
+hamper VB 
 man NN 
 ; : 
 ; : 
@@ -2831,12 +2831,12 @@ But CC
 we PRP 
 can NN 
 not RB 
-start NN 
-off IN 
+start VB 
+off RB 
 with IN 
 a DT 
-clean NN 
-slate VB 
+clean JJ 
+slate NN 
 . . 
 
 So RB 
@@ -2856,7 +2856,7 @@ of IN
 each DT 
 on IN 
 man NN 
-'s VBZ 
+'s POS 
 major JJ 
 needs NNS 
 . . 
@@ -2869,7 +2869,7 @@ correction NN
 , , 
 I PRP 
 would MD 
-say VB 
+say VBP 
 the DT 
 corporation NN 
 as IN 
@@ -2896,7 +2896,7 @@ not RB
 America NNP 
 founded VBD 
 by IN 
-rugged VBN 
+rugged JJ 
 individualists NNS 
 who WP 
 established VBN 
@@ -2906,7 +2906,7 @@ way NN
 of IN 
 life NN 
 still RB 
-inspiring VBG 
+inspiring JJ 
 `` `` 
 undeveloped JJ 
 '' '' 
@@ -2923,12 +2923,12 @@ Salisbury NNP
 , , 
 former JJ 
 Moscow NNP 
-correspondent JJ 
+correspondent NN 
 of IN 
 The DT 
 New NNP 
 York NNP 
-Times NNS 
+Times NNP 
 , , 
 and CC 
 author NN 
@@ -2951,7 +2951,7 @@ of IN
 The DT 
 Soviet JJ 
 Cultural JJ 
-Offensive NNP 
+Offensive JJ 
 '' '' 
 , , 
 he PRP 
@@ -2961,7 +2961,7 @@ says VBZ
 Long RB 
 before IN 
 the DT 
-State NN 
+State NNP 
 Department NNP 
 organized VBN 
 its PRP$ 
@@ -2977,16 +2977,16 @@ to TO
 wage NN 
 a DT 
 cultural JJ 
-counter-offensive JJ 
+counter-offensive NN 
 within IN 
 Soviet JJ 
 borders NNS 
 , , 
 the DT 
 sharp JJ 
-cutting-edge NN 
+cutting-edge JJ 
 of IN 
-American JJ 
+American NNP 
 culture NN 
 had VBD 
 carved VBN 
@@ -2995,12 +2995,12 @@ mark NN
 across IN 
 the DT 
 Russian NNP 
-steppes VBZ 
+steppes NNS 
 , , 
 as IN 
 when WRB 
 the DT 
-enterprising VBG 
+enterprising JJ 
 promoters NNS 
 of IN 
 ' '' 
@@ -3010,7 +3010,7 @@ Bess NNP
 ' '' 
 overrode NN 
 the DT 
-State NN 
+State NNP 
 Department NNP 
 to TO 
 carry NN 
@@ -3035,7 +3035,7 @@ jazz NN
 musicians NNS 
 , , 
 or CC 
-even JJ 
+even RB 
 organizers NNS 
 of IN 
 reading-rooms NNS 
@@ -3043,8 +3043,8 @@ and CC
 photo-montage NN 
 displays NNS 
 , , 
-but IN 
-rugged VBN 
+but CC 
+rugged JJ 
 capitalist NN 
 entrepreneurs NNS 
 like IN 
@@ -3060,7 +3060,7 @@ Campbell NNP
 the DT 
 International NNP 
 Harvester NNP 
-Co. NNP 
+Co. FW 
 , , 
 and CC 
 David NNP 
@@ -3070,9 +3070,9 @@ Griffith NNP
 
 Their PRP$ 
 kind NN 
-created VBD 
+created VBN 
 an DT 
-American JJ 
+American NNP 
 culture NN 
 superior JJ 
 to TO 
@@ -3100,10 +3100,10 @@ the DT
 earth NN 
 without IN 
 a DT 
-nickel JJ 
+nickel NN 
 from IN 
 the DT 
-Federal JJ 
+Federal NNP 
 treasury NN 
 or CC 
 a DT 
@@ -3111,7 +3111,7 @@ single JJ
 governmental JJ 
 specialist NN 
 to TO 
-contrive NN 
+contrive VB 
 directives NNS 
 or CC 
 program NN 
@@ -3149,12 +3149,12 @@ propaganda NN
 '' '' 
 corporations NNS 
 now RB 
-outmoded VBN 
+outmoded JJ 
 . . 
 
 the DT 
 public NN 
-'s VBZ 
+'s POS 
 present NN 
 attitude NN 
 toward IN 
@@ -3166,7 +3166,7 @@ fact NN
 that IN 
 the DT 
 `` `` 
-rugged VBN 
+rugged JJ 
 capitalist NN 
 entrepreneur NN 
 '' '' 
@@ -3178,13 +3178,13 @@ America NNP
 . . 
 
 In IN 
-his PRP 
-stead JJ 
+his PRP$ 
+stead NN 
 is VBZ 
 a DT 
-milquetoast NN 
+milquetoast JJ 
 version NN 
-known VBD 
+known VBN 
 as IN 
 `` `` 
 the DT 
@@ -3193,14 +3193,14 @@ corporation NN
 . . 
 
 But CC 
-even JJ 
+even RB 
 if IN 
 we PRP 
 can NN 
 not RB 
-see VB 
+see VBP 
 the DT 
-repulsive VB 
+repulsive JJ 
 characteristics NNS 
 in IN 
 this DT 
@@ -3232,7 +3232,7 @@ amount NN
 of IN 
 ballyhoo NN 
 will NN 
-cover NN 
+cover VB 
 up IN 
 the DT 
 sordid JJ 
@@ -3266,7 +3266,7 @@ whatever WDT
 good NN 
 this DT 
 set-up NN 
-achieved VBD 
+achieved VBN 
 in IN 
 earlier JJR 
 times NNS 
@@ -3275,7 +3275,7 @@ now RB
 the DT 
 corporation NN 
 per IN 
-se VBP 
+se VB 
 can NN 
 not RB 
 take VB 
@@ -3311,22 +3311,22 @@ mind NN
 
 we PRP 
 `` `` 
-forced VBD 
+forced VBN 
 '' '' 
 individuals NNS 
 to TO 
 assume VBP 
 the DT 
-corporate VB 
+corporate NN 
 structure NN 
 by IN 
 means NN 
 of IN 
-taxes NNS 
+taxes VBZ 
 and CC 
 other NN 
 legal JJ 
-statutes VBZ 
+statutes NNS 
 , , 
 we PRP 
 adopted VBN 
@@ -3357,20 +3357,20 @@ course NN
 was VBD 
 the DT 
 individual NN 
-'s VBZ 
+'s POS 
 lessened VBN 
 desire NN 
 and CC 
 ability NN 
 to TO 
 give VB 
-his PRP 
+his PRP$ 
 services NNS 
 to TO 
 the DT 
 growth NN 
 of IN 
-his PRP 
+his PRP$ 
 company NN 
 and CC 
 our PRP$ 
@@ -3396,7 +3396,7 @@ not RB
 complain VB 
 of IN 
 the DT 
-evils VBZ 
+evils NNS 
 of IN 
 capitalism NN 
 by IN 
@@ -3419,7 +3419,7 @@ do VB
 indeed RB 
 work NN 
 -- : 
-superb NN 
+superb JJ 
 organizations NNS 
 , , 
 a DT 
@@ -3471,7 +3471,7 @@ sham NN
 
 It PRP 
 serves VBZ 
-only JJ 
+only RB 
 its PRP$ 
 own JJ 
 stockholders NNS 
@@ -3484,11 +3484,11 @@ that IN
 As IN 
 a DT 
 creative JJ 
-enterprise JJ 
+enterprise NN 
 , , 
 its PRP$ 
 abilities NNS 
-are VB 
+are VBP 
 primarily RB 
 in IN 
 `` `` 
@@ -3496,8 +3496,8 @@ swallowing VBG
 '' '' 
 creative JJ 
 enterprises NNS 
-developed VBD 
-outside IN 
+developed VBN 
+outside NN 
 its PRP$ 
 own JJ 
 organization NN 
@@ -3511,13 +3511,13 @@ us PRP
 , , 
 and CC 
 almost RB 
-mandatory NN 
+mandatory JJ 
 ) ) 
 . . 
 
 As IN 
 to TO 
-benefits VBZ 
+benefits NNS 
 to TO 
 employees NNS 
 , , 
@@ -3561,14 +3561,14 @@ socialistic JJ
 form NN 
 that IN 
 has VBZ 
-emerged VBN 
+emerged VBD 
 within IN 
 governmental JJ 
 bureaucracy NN 
 . . 
 
 But CC 
-while IN 
+while NN 
 the DT 
 corporation NN 
 has VBZ 
@@ -3583,13 +3583,13 @@ of IN
 organization NN 
 ( ( 
 so IN 
-cumbersome NN 
+cumbersome JJ 
 it PRP 
 can NN 
 not RB 
 constructively RB 
 do VB 
-much DT 
+much RB 
 of IN 
 anything NN 
 not RB 
@@ -3604,7 +3604,7 @@ and CC
 maintain VB 
 its PRP$ 
 status NN 
-quo JJ 
+quo VBD 
 ) ) 
 , , 
 unluckily RB 
@@ -3634,7 +3634,7 @@ whole NN
 
 So RB 
 we PRP 
-are VB 
+are VBP 
 faced VBN 
 with IN 
 a DT 
@@ -3668,10 +3668,10 @@ it PRP
 a DT 
 regime NN 
 representing VBG 
-only JJ 
+only RB 
 the DT 
 corporation NN 
-'s VBZ 
+'s POS 
 needs NNS 
 for IN 
 survival NN 
@@ -3699,14 +3699,14 @@ be VB
 allowed VBN 
 to TO 
 operate VB 
-only JJ 
+only RB 
 where WRB 
 the DT 
 public NN 
 has VBZ 
 a DT 
 great JJ 
-stake VB 
+stake NN 
 in IN 
 the DT 
 continuity NN 
@@ -3723,7 +3723,7 @@ of IN
 a DT 
 single JJ 
 proprietor NN 
-are VB 
+are VBP 
 secondary JJ 
 to TO 
 the DT 
@@ -3733,7 +3733,7 @@ society NN
 . . 
 
 Examples NNS 
-are VB 
+are VBP 
 in IN 
 public NN 
 utilities NNS 
@@ -3759,7 +3759,7 @@ too RB
 great JJ 
 for IN 
 a DT 
-much DT 
+much RB 
 needed VBD 
 project NN 
 impossible JJ 
@@ -3771,7 +3771,7 @@ means NN
 other NN 
 than IN 
 the DT 
-corporate VB 
+corporate NN 
 form NN 
 , , 
 e.g. FW 
@@ -3786,7 +3786,7 @@ Thus RB
 , , 
 if IN 
 corporations NNS 
-are VB 
+are VBP 
 not RB 
 to TO 
 run NN 
@@ -3796,7 +3796,7 @@ us PRP
 , , 
 they PRP 
 must MD 
-become VBD 
+become VBN 
 quasi-governmental JJ 
 institutions NNS 
 , , 
@@ -3823,9 +3823,9 @@ proprietorship NN
 type NN 
 should MD 
 be VB 
-urged VBN 
+urged VBD 
 to TO 
-produce VB 
+produce VBP 
 the DT 
 desired VBN 
 goods NNS 
@@ -3835,16 +3835,16 @@ services NNS
 
 Proprietorship NNP 
 Avoiding VBG 
-runaway NN 
+runaway JJ 
 technology NN 
 can NN 
 be VB 
 done VBD 
-only JJ 
+only RB 
 by IN 
 assuring VBG 
 a DT 
-humane NN 
+humane JJ 
 society NN 
 ; : 
 ; : 
@@ -3904,7 +3904,7 @@ quarterly RB
 and CC 
 annual JJ 
 dividend NN 
-reports VBZ 
+reports NNS 
 . . 
 
 Proprietorships NNP 
@@ -3943,7 +3943,7 @@ personality NN
 and CC 
 thus RB 
 establish VB 
-sincere NN 
+sincere JJ 
 relationships NNS 
 with IN 
 customers NNS 
@@ -3952,17 +3952,17 @@ community NN
 . . 
 
 Corporations NNS 
-are VB 
-apt VB 
+are VBP 
+apt JJ 
 by IN 
 nature NN 
 to TO 
 be VB 
 impersonal JJ 
 , , 
-inhumane NN 
+inhumane JJ 
 , , 
-shortsighted VBN 
+shortsighted JJ 
 and CC 
 almost RB 
 exclusively RB 
@@ -3986,13 +3986,13 @@ proprietor NN
 is VBZ 
 able JJ 
 to TO 
-create VB 
+create VBP 
 a DT 
 leadership NN 
 impossible JJ 
 in IN 
 the DT 
-corporate VB 
+corporate NN 
 structure NN 
 with IN 
 its PRP$ 
@@ -4035,7 +4035,7 @@ the DT
 most RB 
 varied VBN 
 , , 
-complicated VBN 
+complicated JJ 
 and CC 
 trying VBG 
 type NN 
@@ -4045,13 +4045,13 @@ at IN
 maturation NN 
 they PRP 
 have VB 
-developed VBD 
+developed VBN 
 the DT 
 competence NN 
 and CC 
 willingness NN 
 to TO 
-accept NN 
+accept VB 
 the DT 
 personal JJ 
 responsibility NN 
@@ -4064,8 +4064,8 @@ now RB
 government NN 
 must MD 
 establish VB 
-greater RBR 
-controls VBZ 
+greater JJR 
+controls NNS 
 upon IN 
 corporations NNS 
 so IN 
@@ -4085,7 +4085,7 @@ interest NN
 
 Proprietorships NNP 
 should MD 
-get VB 
+get VBP 
 the DT 
 tax NN 
 advantages NNS 
@@ -4109,15 +4109,15 @@ growth NN
 Corporations NNS 
 should MD 
 pay VB 
-added VBD 
-taxes NNS 
+added VBN 
+taxes VBZ 
 , , 
 to TO 
 be VB 
 used VBD 
 for IN 
 educational JJ 
-purposes VBZ 
+purposes NNS 
 ( ( 
 not RB 
 necessarily RB 
@@ -4131,12 +4131,12 @@ type NN
 The DT 
 right NN 
 to TO 
-leave VB 
+leave VBP 
 legacies NNS 
 should MD 
 be VB 
 substantially RB 
-reduced VBD 
+reduced VBN 
 and CC 
 ultimately RB 
 eliminated VBN 
@@ -4153,7 +4153,7 @@ groups NNS
 of IN 
 individuals NNS 
 who WP 
-played VBD 
+played VBN 
 no DT 
 role NN 
 in IN 
@@ -4162,7 +4162,7 @@ creation NN
 prevents VBZ 
 those DT 
 with IN 
-real JJ 
+real RB 
 initiative JJ 
 from IN 
 coming VBG 
@@ -4184,13 +4184,13 @@ dies VBZ
 the DT 
 establishment NN 
 should MD 
-become VBD 
+become VBN 
 a DT 
 corporation NN 
 until IN 
 it PRP 
 is VBZ 
-either DT 
+either RB 
 acquired VBN 
 by IN 
 another DT 
@@ -4207,7 +4207,7 @@ it PRP
 Strikes NNP 
 should MD 
 be VB 
-declared VBN 
+declared VBD 
 illegal JJ 
 against IN 
 corporations NNS 
@@ -4249,7 +4249,7 @@ interdependent JJ
 , , 
 as IN 
 they PRP 
-are VB 
+are VBP 
 each DT 
 a DT 
 part NN 
@@ -4272,7 +4272,7 @@ motivated JJ
 , , 
 prevent VB 
 a DT 
-healthy NN 
+healthy JJ 
 relationship NN 
 . . 
 
@@ -4282,9 +4282,9 @@ forces NNS
 should MD 
 not RB 
 be VB 
-applied VBD 
+applied VBN 
 arbitrarily RB 
-out IN 
+out RB 
 of IN 
 mere JJ 
 power NN 
@@ -4311,7 +4311,7 @@ can NN
 we PRP 
 expect VB 
 to TO 
-abolish JJ 
+abolish VB 
 it PRP 
 internationally RB 
 ? . 
@@ -4324,7 +4324,7 @@ proprietorship NN
 These DT 
 proposals NNS 
 would MD 
-go NN 
+go VB 
 far RB 
 toward IN 
 creating VBG 
@@ -4348,11 +4348,11 @@ us PRP
 to TO 
 cope VB 
 with IN 
-runaway NN 
+runaway JJ 
 technology NN 
 . . 
 
-Individual JJ 
+Individual NNP 
 human NN 
 strength NN 
 is VBZ 
@@ -4373,10 +4373,10 @@ easy JJ
 . . 
 
 We PRP 
-are VB 
+are VBP 
 tempted VBN 
 to TO 
-blame JJ 
+blame NN 
 others NNS 
 for IN 
 our PRP$ 
@@ -4392,7 +4392,7 @@ face NN
 and CC 
 realize VB 
 they PRP 
-are VB 
+are VBP 
 of IN 
 our PRP$ 
 own JJ 
@@ -4401,7 +4401,7 @@ and CC
 possible JJ 
 of IN 
 solution NN 
-only JJ 
+only RB 
 by IN 
 ourselves PRP 
 with IN 
@@ -4411,17 +4411,17 @@ of IN
 desperately RB 
 needed VBD 
 , , 
-enlightened VBN 
+enlightened JJ 
 , , 
 competent JJ 
 leaders NNS 
 . . 
 
 Persons NNS 
-developed VBD 
+developed VBN 
 in IN 
 today NN 
-'s VBZ 
+'s POS 
 corporations NNS 
 can NN 
 not RB 
@@ -4443,7 +4443,7 @@ business NN
 and CC 
 in IN 
 activities NNS 
-outside IN 
+outside NN 
 . . 
 
 In IN 
@@ -4485,7 +4485,7 @@ nature NN
 would MD 
 have VB 
 been VBD 
-unable JJ 
+unable NN 
 to TO 
 do VB 
 . . 
@@ -4512,10 +4512,10 @@ I PRP
 would MD 
 have VB 
 been VBD 
-even JJ 
-abler VB 
+even RB 
+abler JJ 
 to TO 
-solve JJ 
+solve VB 
 long-range JJ 
 problems NNS 
 for IN 
@@ -4531,7 +4531,7 @@ I PRP
 may MD 
 have VB 
 were VBD 
-achieved VBD 
+achieved VBN 
 in IN 
 their PRP$ 
 present NN 
@@ -4557,18 +4557,18 @@ family NN
 . . 
 
 This DT 
-combined VBD 
+combined VBN 
 experience NN 
 , , 
 on IN 
 a DT 
 foundation NN 
 of IN 
-very JJ 
+very RB 
 average NN 
 , , 
 I PRP 
-assure VBP 
+assure VB 
 you PRP 
 , , 
 intelligence NN 
@@ -4610,20 +4610,20 @@ here RB
 The DT 
 company NN 
 grew VBD 
-out IN 
+out RB 
 of IN 
 efforts NNS 
 by IN 
 two CD 
 completely RB 
-inexperienced VBN 
+inexperienced JJ 
 men NNS 
 in IN 
 their PRP$ 
 late JJ 
 twenties NNS 
 , , 
-neither DT 
+neither RB 
 having VBG 
 a DT 
 formal JJ 
@@ -4648,7 +4648,7 @@ an DT
 initial JJ 
 investment NN 
 of IN 
-$ CD 
+$ NN 
 1,200 CD 
 in IN 
 1943 CD 
@@ -4672,7 +4672,7 @@ by IN
 some DT 
 as IN 
 exceeding VBG 
-$ CD 
+$ NN 
 10,000,000 CD 
 ( ( 
 we PRP 
@@ -4708,15 +4708,15 @@ evidence NN
 . . 
 
 Our PRP$ 
-pin-curl JJ 
+pin-curl NN 
 clips NNS 
 and CC 
 self-locking JJ 
 nuts NNS 
-achieved VBD 
+achieved VBN 
 dominance NN 
 in IN 
-just JJ 
+just RB 
 a DT 
 few JJ 
 years NNS 
@@ -4731,18 +4731,18 @@ competition NN
 . . 
 
 the DT 
-last JJ 
+last RB 
 years NNS 
 of IN 
 Woodrow NNP 
 Wilson NNP 
-'s VBZ 
+'s POS 
 administration NN 
 , , 
 a DT 
 red JJ 
-scare NN 
-developed VBD 
+scare VB 
+developed VBN 
 in IN 
 our PRP$ 
 country NN 
@@ -4758,7 +4758,7 @@ challenge NN
 of IN 
 Russia NNP 
 and CC 
-turned VBD 
+turned VBN 
 to TO 
 the DT 
 repression NN 
@@ -4771,12 +4771,12 @@ force NN
 Postmaster NNP 
 General NNP 
 Burleson NNP 
-set NN 
+set VBD 
 about IN 
 to TO 
 protect VB 
 the DT 
-American JJ 
+American NNP 
 people NNS 
 against IN 
 radical JJ 
@@ -4787,7 +4787,7 @@ be VB
 spread VBN 
 through IN 
 the DT 
-mails NNS 
+mails VBZ 
 . . 
 
 Attorney NNP 
@@ -4835,20 +4835,20 @@ the DT
 leadership NN 
 of IN 
 Martin NNP 
-Dies NNP 
+Dies VBZ 
 , , 
 pilloried VBN 
 hundreds NNS 
 of IN 
-decent NN 
+decent JJ 
 , , 
 patriotic JJ 
 citizens NNS 
 . . 
 
-Anyone NNP 
+Anyone NN 
 who WP 
-tried VBN 
+tried VBD 
 to TO 
 remedy NN 
 some DT 
@@ -4869,7 +4869,7 @@ a DT
 traitorous JJ 
 red JJ 
 whose WP$ 
-real JJ 
+real RB 
 purpose NN 
 was VBD 
 the DT 
@@ -4897,8 +4897,8 @@ Demagogues NNP
 of IN 
 this DT 
 sort NN 
-found VBD 
-communist NN 
+found VBN 
+communist JJ 
 bogeys NNS 
 lurking VBG 
 behind IN 
@@ -4908,7 +4908,7 @@ idea NN
 that IN 
 would MD 
 run NN 
-counter NN 
+counter VB 
 to TO 
 stereotyped JJ 
 notions NNS 
@@ -4931,14 +4931,14 @@ how WRB
 Those DT 
 who WP 
 would MD 
-suppress JJ 
+suppress VB 
 dangerous JJ 
 thoughts NNS 
 , , 
 credit NN 
 ideas NNS 
 with IN 
-high JJ 
+high RB 
 potency NN 
 . . 
 
@@ -4988,7 +4988,7 @@ new JJ
 Hence NNP 
 , , 
 the DT 
-only JJ 
+only RB 
 defensible JJ 
 procedure NN 
 is VBZ 
@@ -4999,7 +4999,7 @@ and CC
 every DT 
 notion NN 
 , , 
-unless JJ 
+unless NN 
 it PRP 
 gives VBZ 
 evidence NN 
@@ -5016,7 +5016,7 @@ danger NN
 however RB 
 , , 
 we PRP 
-are VB 
+are VBP 
 informed VBN 
 on IN 
 every DT 
@@ -5027,22 +5027,22 @@ ideas NNS
 not RB 
 machines NNS 
 , , 
-are VB 
+are VBP 
 our PRP$ 
 finest JJS 
 tools NNS 
 ; : 
 ; : 
 they PRP 
-are VB 
+are VBP 
 priceless JJ 
-even JJ 
+even RB 
 though IN 
 they PRP 
 can NN 
 not RB 
 be VB 
-recorded VBN 
+recorded VBD 
 on IN 
 a DT 
 ledger NN 
@@ -5050,7 +5050,7 @@ page NN
 ; : 
 ; : 
 they PRP 
-are VB 
+are VBP 
 the DT 
 most RB 
 valuable JJ 
@@ -5064,7 +5064,7 @@ salable JJ
 , , 
 for IN 
 their PRP$ 
-demand VBP 
+demand VB 
 far RB 
 exceeds VBZ 
 supply RB 
@@ -5072,11 +5072,11 @@ supply RB
 
 So RB 
 all-important JJ 
-are VB 
+are VBP 
 ideas NNS 
 , , 
 we PRP 
-are VB 
+are VBP 
 told VBD 
 , , 
 that IN 
@@ -5093,7 +5093,7 @@ usually RB
 fall NN 
 into IN 
 two CD 
-classes VBZ 
+classes NNS 
 : : 
 those DT 
 who WP 
@@ -5107,9 +5107,9 @@ own JJ
 and CC 
 those DT 
 who WP 
-borrow NN 
+borrow VB 
 , , 
-beg NN 
+beg VB 
 , , 
 or CC 
 steal JJ 
@@ -5130,9 +5130,9 @@ well RB
 , , 
 and CC 
 we PRP 
-are VB 
-even JJ 
-assured VBD 
+are VBP 
+even RB 
+assured VBN 
 that IN 
 `` `` 
 an DT 
@@ -5147,7 +5147,7 @@ away RB
 '' '' 
 . . 
 
-That IN 
+That DT 
 , , 
 however RB 
 , , 
@@ -5212,7 +5212,7 @@ more RB
 valuable JJ 
 than IN 
 many DT 
-fuzzy NN 
+fuzzy JJ 
 ones NNS 
 . . 
 
@@ -5234,20 +5234,20 @@ students NNS
 to TO 
 the DT 
 state NN 
-hospital JJ 
+hospital NN 
 for IN 
 the DT 
 mentally RB 
 ill RB 
 in IN 
-St. NNP 
+St. FW 
 Joseph NNP 
 , , 
 Missouri NNP 
 . . 
 
 An DT 
-inmate VB 
+inmate NN 
 , , 
 a DT 
 former JJ 
@@ -5266,7 +5266,7 @@ that IN
 someone NN 
 was VBD 
 pilfering VBG 
-his PRP 
+his PRP$ 
 thoughts NNS 
 . . 
 
@@ -5276,7 +5276,7 @@ to TO
 us PRP 
 to TO 
 bring VB 
-his PRP 
+his PRP$ 
 case NN 
 to TO 
 the DT 
@@ -5295,10 +5295,10 @@ Despite IN
 the DT 
 clarity NN 
 of IN 
-his PRP 
+his PRP$ 
 presentation NN 
 , , 
-his PRP 
+his PRP$ 
 idea NN 
 was VBD 
 not RB 
@@ -5307,15 +5307,15 @@ Einsteinian JJ
 calibre NN 
 . . 
 
-True JJ 
+True NNP 
 , , 
 ideas NNS 
-are VB 
+are VBP 
 important JJ 
 , , 
 perhaps RB 
 life NN 
-'s VBZ 
+'s POS 
 most RB 
 precious JJ 
 treasures NNS 
@@ -5326,7 +5326,7 @@ have VB
 we PRP 
 not RB 
 gone VBD 
-overboard NN 
+overboard RB 
 in IN 
 stressing VBG 
 their PRP$ 
@@ -5338,7 +5338,7 @@ Have NNP
 we PRP 
 not RB 
 actually RB 
-developed VBD 
+developed VBN 
 idea NN 
 worship NN 
 ? . 
@@ -5351,13 +5351,13 @@ have VB
 , , 
 and CC 
 we PRP 
-seek VB 
+seek VBP 
 them PRP 
 everywhere RB 
 . . 
 
 We PRP 
-scour NN 
+scour VB 
 literature NN 
 for IN 
 them PRP 
@@ -5366,7 +5366,7 @@ them PRP
 here RB 
 we PRP 
 find VB 
-stored VBD 
+stored VBN 
 the DT 
 wisdom NN 
 of IN 
@@ -5375,10 +5375,10 @@ minds NNS
 . . 
 
 But CC 
-are VB 
+are VBP 
 all DT 
 these DT 
-works VBZ 
+works NNS 
 worthy JJ 
 of IN 
 consideration NN 
@@ -5394,12 +5394,12 @@ scrutiny NN
 ? . 
 
 Shakespeare NNP 
-'s VBZ 
+'s POS 
 wit NN 
 and CC 
 wisdom NN 
 , , 
-his PRP 
+his PRP$ 
 profound JJ 
 insight NN 
 into IN 
@@ -5424,9 +5424,9 @@ things NNS
 ? . 
 ? . 
 
-What WDT 
+What WP 
 of IN 
-his PRP 
+his PRP$ 
 treatment NN 
 of IN 
 the DT 
@@ -5448,7 +5448,7 @@ picture NN
 of IN 
 Shylock NNP 
 , , 
-but IN 
+but CC 
 probably RB 
 he PRP 
 never RB 
@@ -5456,11 +5456,11 @@ saw VBD
 a DT 
 Jew NNP 
 , , 
-unless JJ 
+unless NN 
 in IN 
 some DT 
 of IN 
-his PRP 
+his PRP$ 
 travels VBZ 
 . . 
 
@@ -5494,7 +5494,7 @@ years NNS
 
 any DT 
 had VBD 
-escaped VBN 
+escaped VBD 
 expulsion NN 
 by IN 
 hiding VBG 
@@ -5516,10 +5516,10 @@ invent VB
 the DT 
 incidents NNS 
 in IN 
-his PRP 
+his PRP$ 
 plays NNS 
 , , 
-but IN 
+but CC 
 borrowed VBN 
 them PRP 
 from IN 
@@ -5540,7 +5540,7 @@ then RB
 breathed VBD 
 into IN 
 them PRP 
-his PRP 
+his PRP$ 
 spark NN 
 of IN 
 life NN 
@@ -5550,13 +5550,13 @@ Rather RB
 than IN 
 from IN 
 a DT 
-first-hand NN 
+first-hand JJ 
 study NN 
 of IN 
-Jewish NNP 
+Jewish JJ 
 people NNS 
 , , 
-his PRP 
+his PRP$ 
 delineation NN 
 of IN 
 Shylock NNP 
@@ -5592,14 +5592,14 @@ hand NN
 from IN 
 books NNS 
 , , 
-but IN 
+but CC 
 could MD 
 not RB 
 thus RB 
 capture NN 
 the DT 
-real JJ 
-Jewish NNP 
+real RB 
+Jewish JJ 
 spirit NN 
 . . 
 
@@ -5610,7 +5610,7 @@ Griston NNP
 in IN 
 Shaking VBG 
 The DT 
-Dust NNP 
+Dust NN 
 From IN 
 Shakespeare NNP 
 ( ( 
@@ -5634,7 +5634,7 @@ would MD
 expect VB 
 from IN 
 a DT 
-real JJ 
+real RB 
 Jew NNP 
 '' '' 
 . . 
@@ -5672,10 +5672,10 @@ on IN
 hand NN 
 to TO 
 boycott NN 
-his PRP 
+his PRP$ 
 financially RB 
 struggling VBG 
-theater RB 
+theater NN 
 . . 
 
 It PRP 
@@ -5691,7 +5691,7 @@ instance NN
 to TO 
 apply VB 
 the DT 
-pound-of-flesh JJ 
+pound-of-flesh NN 
 characterization NN 
 to TO 
 the DT 
@@ -5704,7 +5704,7 @@ as IN
 now RB 
 anyone NN 
 may MD 
-hurl JJ 
+hurl VB 
 insults NNS 
 at IN 
 a DT 
@@ -5713,7 +5713,7 @@ of IN
 Mars NNP 
 , , 
 or CC 
-even JJ 
+even RB 
 of IN 
 Tikopia NNP 
 , , 
@@ -5760,21 +5760,21 @@ group NN
 He PRP 
 tells VBZ 
 of IN 
-his PRP 
+his PRP$ 
 `` `` 
-Jewish NNP 
+Jewish JJ 
 heart NN 
 '' '' 
 -- : 
 not RB 
 a DT 
-Shylockian JJ 
+Shylockian NNP 
 heart NN 
 ; : 
 ; : 
-but IN 
+but CC 
 a DT 
-Jewish NNP 
+Jewish JJ 
 heart NN 
 . . 
 
@@ -5782,14 +5782,14 @@ This DT
 would MD 
 make VB 
 anyone NN 
-crafty NN 
+crafty JJ 
 and CC 
-cruel NN 
+cruel JJ 
 , , 
 capable JJ 
 of IN 
 fiendish JJ 
-revenge VB 
+revenge NN 
 . . 
 
 There EX 
@@ -5817,7 +5817,7 @@ hand NN
 . . 
 
 the DT 
-Old JJ 
+Old NNP 
 Testament NN 
 would MD 
 have VB 
@@ -5837,14 +5837,14 @@ the DT
 Jews NNP 
 . . 
 
-Are VBP 
+Are VB 
 we PRP 
 better RB 
-off IN 
+off RB 
 for IN 
 having VBG 
 Shakespeare NNP 
-'s VBZ 
+'s POS 
 idea NN 
 of IN 
 Shylock NNP 
@@ -5856,12 +5856,12 @@ Merchant NNP
 Of IN 
 Venice NNP 
 in IN 
-high JJ 
+high RB 
 school NN 
 and CC 
 college NN 
 has VBZ 
-given VBD 
+given VBN 
 many DT 
 young JJ 
 people NNS 
@@ -5875,7 +5875,7 @@ Does VBZ
 this DT 
 help NN 
 the DT 
-non-Jew JJ 
+non-Jew RB 
 to TO 
 understand VB 
 this DT 
@@ -5887,7 +5887,7 @@ Thomas NNP
 De NNP 
 Torquemada NNP 
 , , 
-Inquisitor-General JJ 
+Inquisitor-General NNP 
 of IN 
 the DT 
 Spanish NNP 
@@ -5902,7 +5902,7 @@ death NN
 
 His PRP$ 
 name NN 
-became VBD 
+became VBN 
 synonymous JJ 
 with IN 
 cold-blooded JJ 
@@ -5915,12 +5915,12 @@ gain NN
 by IN 
 keeping VBG 
 alive JJ 
-his PRP 
+his PRP$ 
 memory NN 
 and CC 
-besmirching NN 
+besmirching VBG 
 today NN 
-'s VBZ 
+'s POS 
 Roman NNP 
 Catholics NNPS 
 by IN 
@@ -5934,15 +5934,15 @@ heart NN
 ? . 
 
 Let VB 
-his PRP 
+his PRP$ 
 bones NNS 
 and CC 
-his PRP 
+his PRP$ 
 memory NN 
 rest NN 
 in IN 
 the DT 
-fifteenth NN 
+fifteenth JJ 
 century NN 
 where WRB 
 they PRP 
@@ -5951,7 +5951,7 @@ belong VBP
 ; : 
 he PRP 
 is VBZ 
-out IN 
+out RB 
 of IN 
 place NN 
 in IN 
@@ -5960,7 +5960,7 @@ times NNS
 . . 
 
 Shakespeare NNP 
-'s VBZ 
+'s POS 
 Shylock NNP 
 , , 
 too RB 
@@ -5982,7 +5982,7 @@ and CC
 of IN 
 themselves PRP 
 , , 
-are VB 
+are VBP 
 not RB 
 necessarily RB 
 the DT 
@@ -5995,7 +5995,7 @@ successful JJ
 businessman NN 
 recently RB 
 prefaced VBN 
-his PRP 
+his PRP$ 
 address NN 
 to TO 
 a DT 
@@ -6016,7 +6016,7 @@ hospitals NNS
 for IN 
 the DT 
 mentally RB 
-deranged VBN 
+deranged JJ 
 where WRB 
 they PRP 
 and CC 
@@ -6028,9 +6028,9 @@ together RB
 . . 
 
 Will MD 
-his PRP 
+his PRP$ 
 words NNS 
-come VBD 
+come VB 
 to TO 
 be VB 
 treasured VBN 
@@ -6043,8 +6043,8 @@ years NNS
 ? . 
 
 we PRP 
-are VB 
-given VBD 
+are VBP 
+given VBN 
 assurance NN 
 that IN 
 automatically RB 
@@ -6052,14 +6052,14 @@ all DT
 ideas NNS 
 will NN 
 be VB 
-sifted VBD 
+sifted VBN 
 and CC 
 resifted VBN 
 and CC 
 in IN 
 the DT 
 end NN 
-only JJ 
+only RB 
 the DT 
 good NN 
 ones NNS 
@@ -6080,7 +6080,7 @@ laboratory NN
 and CC 
 blindly RB 
 pouring VBG 
-out IN 
+out RB 
 liquids NNS 
 and CC 
 powders NNS 
@@ -6106,7 +6106,7 @@ result NN
 ? . 
 ? . 
 
-What WDT 
+What WP 
 of IN 
 the DT 
 efficiency NN 
@@ -6115,7 +6115,7 @@ this DT
 natural NN 
 instrument NN 
 of IN 
-free JJ 
+free RB 
 discussion NN 
 ? . 
 ? . 
@@ -6127,7 +6127,7 @@ magic NN
 in IN 
 it PRP 
 that IN 
-assures NNS 
+assures VBZ 
 results NNS 
 ? . 
 ? . 
@@ -6136,7 +6136,7 @@ Peter NNP
 B. NNP 
 Kyne NNP 
 ( ( 
-Pride NNP 
+Pride NN 
 Of IN 
 Palomar NNP 
 , , 
@@ -6158,7 +6158,7 @@ Japanese NNP
 , , 
 did VBD 
 the DT 
-heated VBD 
+heated VBN 
 debates NNS 
 of IN 
 the DT 
@@ -6176,12 +6176,12 @@ proposition NN
 
 The DT 
 Leopard NNP 
-'s VBZ 
+'s POS 
 Spots NNS 
 came VBD 
 from IN 
 the DT 
-pen VBN 
+pen NN 
 of IN 
 Thomas NNP 
 Dixon NNP 
@@ -6208,7 +6208,7 @@ a DT
 single JJ 
 drop NN 
 of IN 
-Negro JJ 
+Negro NNP 
 blood NN 
 , , 
 he PRP 
@@ -6240,7 +6240,7 @@ in IN
 years NNS 
 . . 
 
-That IN 
+That DT 
 doctrine NN 
 has VBZ 
 been VBD 
@@ -6248,7 +6248,7 @@ accepted VBN
 by IN 
 many DT 
 , , 
-but IN 
+but CC 
 has VBZ 
 it PRP 
 produced VBN 
@@ -6283,13 +6283,13 @@ a DT
 girl NN 
 who WP 
 has VBZ 
-tell-tale NN 
+tell-tale JJ 
 shadows NNS 
 on IN 
 the DT 
 half-moons NNS 
 of IN 
-her PRP 
+her PRP$ 
 finger NN 
 nails NNS 
 . . 
@@ -6297,12 +6297,12 @@ nails NNS
 time NN 
 she PRP 
 presents VBZ 
-her PRP 
+her PRP$ 
 aristocratic JJ 
 husband NN 
 with IN 
 a DT 
-coal-black NN 
+coal-black JJ 
 child NN 
 . . 
 
@@ -6373,7 +6373,7 @@ scrap NN
 heap NN 
 . . 
 
-False NNP 
+False JJ 
 ideas NNS 
 surfeit NN 
 another DT 
@@ -6386,7 +6386,7 @@ life NN
 For IN 
 several JJ 
 generations NNS 
-much DT 
+much RB 
 fiction NN 
 has VBZ 
 appeared VBD 
@@ -6408,7 +6408,7 @@ been VBD
 presented VBN 
 as IN 
 a DT 
-cruel NN 
+cruel JJ 
 ogress NN 
 . . 
 
@@ -6424,7 +6424,7 @@ have VB
 feared VBD 
 stepmothers NNS 
 , , 
-while IN 
+while NN 
 adults NNS 
 , , 
 by IN 
@@ -6459,13 +6459,13 @@ the DT
 lot NN 
 of IN 
 the DT 
-stepchild JJ 
+stepchild NN 
 a DT 
-happier NN 
+happier JJR 
 one NN 
 . . 
 
-Research NNP 
+Research NN 
 , , 
 on IN 
 the DT 
@@ -6486,7 +6486,7 @@ far RB
 better RB 
 than IN 
 the DT 
-real JJ 
+real RB 
 mothers NNS 
 . . 
 
@@ -6500,7 +6500,7 @@ Psychology NNP
 Of IN 
 Women NNP 
 , , 
-Vol. NNP 
+Vol. FW 
 2 CD 
 , , 
 , , 
@@ -6518,7 +6518,7 @@ stepmother NN
 ' '' 
 automatically RB 
 evokes VBZ 
-deprecatory NN 
+deprecatory JJ 
 implications NNS 
 '' '' 
 , , 
@@ -6536,44 +6536,44 @@ on IN
 that IN 
 proposition NN 
 , , 
-even JJ 
+even RB 
 though IN 
 it PRP 
 be VB 
-free JJ 
+free RB 
 and CC 
 untrammeled VBN 
 , , 
 remove VB 
 the DT 
-dross NNS 
+dross NN 
 and CC 
-leave VB 
+leave VBP 
 a DT 
 residue NN 
 of IN 
-refined VBD 
+refined VBN 
 gold JJ 
 ? . 
 ? . 
 
-That IN 
+That DT 
 is VBZ 
 questionable JJ 
 , , 
 to TO 
-say VB 
+say VBP 
 the DT 
-least RBS 
+least JJS 
 . . 
 
-Research NNP 
+Research NN 
 into IN 
 several JJ 
 cultures NNS 
 has VBZ 
 proven VBN 
-her PRP 
+her PRP$ 
 position NN 
 to TO 
 be VB 
@@ -6583,14 +6583,14 @@ one NN
 . . 
 
 ideas NNS 
-are VB 
+are VBP 
 invaluable JJ 
 . . 
 
 But CC 
 ideas NNS 
 , , 
-just JJ 
+just RB 
 for IN 
 the DT 
 sake NN 
@@ -6598,7 +6598,7 @@ of IN
 having VBG 
 them PRP 
 , , 
-are VB 
+are VBP 
 not RB 
 enough JJ 
 . . 
@@ -6606,14 +6606,14 @@ enough JJ
 In IN 
 the DT 
 1930 CD 
-'s VBZ 
+'s POS 
 , , 
 cures NNS 
 for IN 
 the DT 
 depression NN 
 literally RB 
-flooded VBD 
+flooded VBN 
 Washington NNP 
 . . 
 
@@ -6621,7 +6621,7 @@ For IN
 a DT 
 time NN 
 the DT 
-President NN 
+President NNP 
 received VBN 
 hundreds NNS 
 of IN 
@@ -6669,9 +6669,9 @@ do VB
 not RB 
 turn NN 
 to TO 
-free JJ 
+free RB 
 and CC 
-open JJ 
+open RB 
 discussion NN 
 as IN 
 in IN 
@@ -6682,7 +6682,7 @@ campaign NN
 
 We PRP 
 have VB 
-recourse VB 
+recourse NN 
 to TO 
 the DT 
 scientifically-trained JJ 
@@ -6697,7 +6697,7 @@ merits NNS
 of IN 
 the DT 
 Salk NNP 
-anti-polio JJ 
+anti-polio NN 
 vaccine NN 
 were VBD 
 not RB 
@@ -6711,7 +6711,7 @@ in IN
 newspaper NN 
 editorials NNS 
 , , 
-but IN 
+but CC 
 in IN 
 the DT 
 laboratory NN 
@@ -6731,7 +6731,7 @@ Our PRP$
 presidential JJ 
 campaigns NNS 
 provide VB 
-much DT 
+much RB 
 debate NN 
 and CC 
 argument NN 
@@ -6753,7 +6753,7 @@ we PRP
 can NN 
 with IN 
 confidence NN 
-solve JJ 
+solve VB 
 our PRP$ 
 domestic JJ 
 and CC 
@@ -6765,7 +6765,7 @@ problems NNS
 Man NN 
 , , 
 we PRP 
-are VB 
+are VBP 
 told VBD 
 , , 
 is VBZ 
@@ -6776,7 +6776,7 @@ and CC
 is VBZ 
 capable JJ 
 of IN 
-distinguishing NN 
+distinguishing VBG 
 good NN 
 from IN 
 bad JJ 
@@ -6790,7 +6790,7 @@ task NN
 it PRP 
 is VBZ 
 to TO 
-winnow JJ 
+winnow NN 
 anything NN 
 of IN 
 value NN 
@@ -6823,7 +6823,7 @@ bankruptcy NN
 . . 
 
 We PRP 
-are VB 
+are VBP 
 reminded VBD 
 , , 
 however RB 
@@ -6875,7 +6875,7 @@ restraint NN
 
 No DT 
 holds VBZ 
-are VB 
+are VBP 
 barred VBN 
 . . 
 
@@ -6911,14 +6911,14 @@ security NN
 We PRP 
 must MD 
 not RB 
-forget NN 
+forget VB 
 , , 
 to TO 
 be VB 
 sure JJ 
 , , 
 that IN 
-free JJ 
+free RB 
 discussion NN 
 and CC 
 debate NN 
@@ -6933,7 +6933,7 @@ truth NN
 , , 
 we PRP 
 can NN 
-say VB 
+say VBP 
 that IN 
 this DT 
 broke VBD 
@@ -6953,7 +6953,7 @@ full JJ
 light NN 
 to TO 
 the DT 
-American JJ 
+American NNP 
 people NNS 
 . . 
 
@@ -6971,7 +6971,7 @@ way NN
 he PRP 
 would MD 
 have VB 
-become VBD 
+become VBN 
 a DT 
 martyr NN 
 , , 
@@ -6982,7 +6982,7 @@ for IN
 people NNS 
 who WP 
 shared VBN 
-his PRP 
+his PRP$ 
 ideas NNS 
 . . 
 
@@ -7002,19 +7002,19 @@ But CC
 it PRP 
 is VBZ 
 a DT 
-clumsy NN 
+clumsy JJ 
 and CC 
 wasteful JJ 
 process NN 
 : : 
 it PRP 
 can NN 
-produce VB 
+produce VBP 
 negative NN 
 results NNS 
-but IN 
+but CC 
 not RB 
-much DT 
+much RB 
 that IN 
 is VBZ 
 positive JJ 
@@ -7025,12 +7025,12 @@ rid JJ
 us PRP 
 of IN 
 McCarthy NNP 
-but IN 
+but CC 
 did VBD 
 not RB 
 give VB 
 us PRP 
-much DT 
+much RB 
 that IN 
 is VBZ 
 positive JJ 
@@ -7044,9 +7044,9 @@ clear JJ
 the DT 
 ground NN 
 , , 
-but IN 
+but CC 
 it PRP 
-erected VBN 
+erected VBD 
 no DT 
 striking JJ 
 new JJ 
@@ -7056,11 +7056,11 @@ structure NN
 it PRP 
 did VBD 
 not RB 
-even JJ 
+even RB 
 provide VB 
 the DT 
 architect NN 
-'s VBZ 
+'s POS 
 plan NN 
 for IN 
 anything NN 
@@ -7077,7 +7077,7 @@ sciences NNS
 scientifically RB 
 verified VBN 
 data NNS 
-are VB 
+are VBP 
 quite RB 
 readily RB 
 available JJ 
@@ -7121,7 +7121,7 @@ no DT
 means NN 
 would MD 
 we PRP 
-discourage NN 
+discourage VB 
 the DT 
 production NN 
 of IN 
@@ -7129,7 +7129,7 @@ ideas NNS
 : : 
 they PRP 
 provide VB 
-raw NN 
+raw JJ 
 materials NNS 
 with IN 
 which WDT 
@@ -7141,7 +7141,7 @@ they PRP
 provide VB 
 stimulations NNS 
 that IN 
-lead VB 
+lead VBP 
 to TO 
 further RB 
 production NN 
@@ -7162,18 +7162,18 @@ said VBD
 `` `` 
 Natural JJ 
 or CC 
-man-made NN 
-objects VBZ 
+man-made JJ 
+objects NNS 
 kept VBD 
 coming VBG 
 into IN 
 my PRP$ 
 head NN 
 , , 
-but IN 
+but CC 
 I PRP 
 would MD 
-suppress JJ 
+suppress VB 
 them PRP 
 sternly RB 
 '' '' 
@@ -7186,11 +7186,11 @@ organized VBN
 the DT 
 movement NN 
 of IN 
-his PRP 
+his PRP$ 
 forms NNS 
 , , 
 within IN 
-his PRP 
+his PRP$ 
 rigorously RB 
 shaped VBN 
 space NN 
@@ -7235,7 +7235,7 @@ reproof NN
 `` `` 
 But CC 
 you PRP 
-are VB 
+are VBP 
 really RB 
 an DT 
 artist NN 
@@ -7256,7 +7256,7 @@ at IN
 the DT 
 time NN 
 , , 
-but IN 
+but CC 
 it PRP 
 was VBD 
 true JJ 
@@ -7287,7 +7287,7 @@ tension NN
 , , 
 won VBD 
 Helion NNP 
-much DT 
+much RB 
 acclaim NN 
 during IN 
 the DT 
@@ -7320,7 +7320,7 @@ meditating VBG
 . . 
 
 Helion NNP 
-'s VBZ 
+'s POS 
 work NN 
 showed VBN 
 more RB 
@@ -7338,12 +7338,12 @@ nature NN
 the DT 
 pure JJ 
 abstractionists NNS 
-expressed VBD 
+expressed VBN 
 some DT 
 disapproval NN 
 ; : 
 ; : 
-but IN 
+but CC 
 Leger NNP 
 , , 
 Arp NNP 
@@ -7360,7 +7360,7 @@ time NN
 gave VBD 
 him PRP 
 their PRP$ 
-blessing VBG 
+blessing NN 
 . . 
 
 His PRP$ 
@@ -7374,7 +7374,7 @@ them PRP
 to TO 
 be VB 
 `` `` 
-Figures NNS 
+Figures NNP 
 In IN 
 Space NNP 
 '' '' 
@@ -7423,10 +7423,10 @@ the DT
 new JJ 
 , , 
 more RB 
-elaborated VBN 
+elaborated VBD 
 abstracts NNS 
 were VBD 
-much DT 
+much RB 
 favored VBN 
 in IN 
 the DT 
@@ -7451,7 +7451,7 @@ thirty-year JJ
 old JJ 
 Helion NNP 
 was VBD 
-ranked VBD 
+ranked JJ 
 `` `` 
 as IN 
 one NN 
@@ -7494,7 +7494,7 @@ America NNP
 , , 
 Meyer NNP 
 Schapiro NNP 
-observed VBN 
+observed VBD 
 that IN 
 , , 
 unlike IN 
@@ -7504,7 +7504,7 @@ school NN
 , , 
 Helion NNP 
 `` `` 
-sought VBN 
+sought VBD 
 a DT 
 return NN 
 path NN 
@@ -7536,10 +7536,10 @@ with IN
 admiration NN 
 of IN 
 Cimabue NNP 
-'s VBZ 
+'s POS 
 and CC 
 Poussin NNP 
-'s VBZ 
+'s POS 
 way NN 
 of IN 
 filling VBG 
@@ -7557,7 +7557,7 @@ for IN
 him PRP 
 ; : 
 ; : 
-but IN 
+but CC 
 , , 
 he PRP 
 held VBD 
@@ -7575,7 +7575,7 @@ reduction NN
 , , 
 it PRP 
 must MD 
-grow JJ 
+grow VB 
 , , 
 must MD 
 make VB 
@@ -7586,9 +7586,9 @@ the DT
 contributions NNS 
 of IN 
 the DT 
-Raphaels NNP 
+Raphaels NNS 
 and CC 
-Poussins NNP 
+Poussins NNS 
 as IN 
 well RB 
 as IN 
@@ -7603,7 +7603,7 @@ Mondrian NNP
 . . 
 
 Helion NNP 
-wrote VBD 
+wrote VBN 
 of IN 
 this DT 
 phase NN 
@@ -7612,7 +7612,7 @@ phase NN
 For IN 
 years NNS 
 I PRP 
-built VBD 
+built VBN 
 for IN 
 myself PRP 
 a DT 
@@ -7630,7 +7630,7 @@ name NN
 . . 
 
 I PRP 
-played VBD 
+played VBN 
 on IN 
 it PRP 
 my PRP$ 
@@ -7645,7 +7645,7 @@ peaceful JJ
 '' '' 
 . . 
 
-his PRP 
+his PRP$ 
 own JJ 
 work NN 
 was VBD 
@@ -7657,10 +7657,10 @@ The DT
 extreme NN 
 limitations NNS 
 he PRP 
-sensed VBN 
+sensed VBD 
 in IN 
 all DT 
-current NN 
+current JJ 
 abstract JJ 
 art NN 
 made VBD 
@@ -7691,7 +7691,7 @@ Where NNP
 would MD 
 it PRP 
 all DT 
-lead VB 
+lead VBP 
 ? . 
 ? . 
 
@@ -7740,12 +7740,12 @@ kind NN
 
 the DT 
 1920 CD 
-'s VBZ 
+'s POS 
 the DT 
 Abstractionists NNP 
 , , 
 the DT 
-German JJ 
+German NNP 
 Bauhaus NNP 
 group NN 
 of IN 
@@ -7763,7 +7763,7 @@ dream NN
 of IN 
 some DT 
 well RB 
-ordered VBN 
+ordered VBD 
 utopia NN 
 , , 
 or CC 
@@ -7788,21 +7788,21 @@ But CC
 whereas IN 
 the DT 
 postwar NN 
-American JJ 
+American NNP 
 abstractionists NNS 
 seem VB 
 to TO 
 Helion NNP 
 to TO 
 be VB 
-determined VBD 
+determined VBN 
 to TO 
 `` `` 
 escape NN 
 '' '' 
 from IN 
 the DT 
-real JJ 
+real RB 
 world NN 
 , , 
 or CC 
@@ -7813,20 +7813,20 @@ against IN
 it PRP 
 , , 
 the DT 
-ordered VBN 
+ordered VBD 
 abstractions NNS 
 which WDT 
 he PRP 
 and CC 
-his PRP 
+his PRP$ 
 associates NNS 
 of IN 
 the DT 
 1930 CD 
-'s VBZ 
+'s POS 
 were VBD 
 painting NN 
-embodied VBN 
+embodied VBD 
 the DT 
 hope NN 
 of IN 
@@ -7839,7 +7839,7 @@ things NNS
 `` `` 
 We PRP 
 were VBD 
-possessed VBN 
+possessed VBD 
 by IN 
 visions NNS 
 of IN 
@@ -7847,9 +7847,9 @@ a DT
 new JJ 
 civilization NN 
 to TO 
-come VBD 
+come VB 
 , , 
-very JJ 
+very RB 
 pure JJ 
 and CC 
 elevated VBN 
@@ -7871,7 +7871,7 @@ such DT
 as IN 
 we PRP 
 had VBD 
-dreamed VBN 
+dreamed VBD 
 of IN 
 since IN 
 the DT 
@@ -7884,10 +7884,10 @@ of IN
 this DT 
 the DT 
 1930 CD 
-'s VBZ 
+'s POS 
 witnessed VBN 
 a DT 
-tragic NN 
+tragic JJ 
 economic JJ 
 depression NN 
 , , 
@@ -7908,7 +7908,7 @@ Spain NNP
 . . 
 
 Very JJ 
-much DT 
+much RB 
 the DT 
 political JJ 
 man NN 
@@ -7931,43 +7931,43 @@ Europe NNP
 , , 
 whose WP$ 
 foundations NNS 
-seemed VBD 
+seemed VBN 
 to TO 
 him PRP 
 more RB 
 and CC 
 more RB 
-shaky NN 
+shaky JJ 
 . . 
 
 In IN 
 1936 CD 
 he PRP 
-decided VBN 
+decided VBD 
 to TO 
-migrate JJ 
+migrate NN 
 to TO 
 America NNP 
 . . 
 
 The DT 
-Rooseveltian NNP 
+Rooseveltian JJ 
 America NNP 
 was VBD 
 a DT 
-haven VBN 
+haven NN 
 of IN 
 liberalism NN 
 and CC 
 progress NN 
 and CC 
-seemed VBD 
+seemed VBN 
 to TO 
 him PRP 
 to TO 
 constitute VB 
 the DT 
-last JJ 
+last RB 
 best RBS 
 hope NN 
 for IN 
@@ -7976,10 +7976,10 @@ civilization NN
 
 Helion NNP 
 also RB 
-hoped VBN 
+hoped VBD 
 that IN 
 America NNP 
-'s VBZ 
+'s POS 
 mastery NN 
 of IN 
 technology NN 
@@ -7997,7 +7997,7 @@ new JJ
 and CC 
 beautiful JJ 
 art NN 
-works VBZ 
+works NNS 
 . . 
 
 `` `` 
@@ -8006,12 +8006,12 @@ arrived VBN
 in IN 
 the DT 
 United NNP 
-States NNS 
+States NNP 
 with IN 
 the DT 
 idea NN 
 of IN 
-establishing NN 
+establishing VBG 
 myself PRP 
 there RB 
 more RB 
@@ -8037,7 +8037,7 @@ by IN
 what WDT 
 was VBD 
 then RB 
-only JJ 
+only RB 
 a DT 
 small JJ 
 brave JJ 
@@ -8055,7 +8055,7 @@ K.L. NNP
 Morris NNP 
 , , 
 De NNP 
-Kooning VBG 
+Kooning NNP 
 , , 
 Holty NNP 
 and CC 
@@ -8077,7 +8077,7 @@ Square JJ
 having VBG 
 married VBN 
 an DT 
-American JJ 
+American NNP 
 girl NN 
 who WP 
 was VBD 
@@ -8087,7 +8087,7 @@ of IN
 Virginia NNP 
 , , 
 Helion NNP 
-moved VBD 
+moved VBN 
 to TO 
 a DT 
 village NN 
@@ -8106,7 +8106,7 @@ the DT
 most RB 
 imposing VBG 
 of IN 
-his PRP 
+his PRP$ 
 abstract JJ 
 canvases NNS 
 . . 
@@ -8124,14 +8124,14 @@ the DT
 Munich NNP 
 Pact NNP 
 , , 
-continued VBD 
+continued VBN 
 to TO 
 trouble NN 
-his PRP 
+his PRP$ 
 mind NN 
-even JJ 
+even RB 
 in IN 
-his PRP 
+his PRP$ 
 remote JJ 
 Virginia NNP 
 studio NN 
@@ -8139,7 +8139,7 @@ studio NN
 
 `` `` 
 Fear NNP 
-possessed VBN 
+possessed VBD 
 me PRP 
 , , 
 and CC 
@@ -8157,7 +8157,7 @@ related VBN
 `` `` 
 I PRP 
 truly RB 
-smelled VBN 
+smelled VBD 
 blood NN 
 , , 
 death NN 
@@ -8172,17 +8172,17 @@ everywhere RB
 In IN 
 haste NN 
 he PRP 
-labored VBN 
+labored VBD 
 to TO 
-finish NN 
+finish VB 
 some DT 
-last JJ 
+last RB 
 abstract JJ 
 paintings NNS 
 : : 
 a DT 
 three-panel JJ 
-frieze JJ 
+frieze NN 
 , , 
 with IN 
 a DT 
@@ -8216,7 +8216,7 @@ the DT
 most RB 
 successful JJ 
 of IN 
-his PRP 
+his PRP$ 
 abstracts NNS 
 ; : 
 ; : 
@@ -8231,13 +8231,13 @@ Fallen NNP
 Figure NNP 
 '' '' 
 of IN 
-very JJ 
+very RB 
 ominous JJ 
 character NN 
 , , 
 which WDT 
-concluded VBN 
-his PRP 
+concluded VBD 
+his PRP$ 
 abstract JJ 
 phase NN 
 . . 
@@ -8253,7 +8253,7 @@ with IN
 abstraction NN 
 to TO 
 its PRP$ 
-very JJ 
+very RB 
 end NN 
 -- : 
 for IN 
@@ -8293,8 +8293,8 @@ were VBD
 , , 
 in IN 
 effect NN 
-his PRP 
-last JJ 
+his PRP$ 
+last RB 
 testament NN 
 to TO 
 non-objective JJ 
@@ -8303,16 +8303,16 @@ art NN
 
 He PRP 
 had VBD 
-taken VBD 
-out IN 
+taken VBN 
+out RB 
 first JJ 
 papers NNS 
 for IN 
-American JJ 
+American NNP 
 citizenship NN 
 ; : 
 ; : 
-but IN 
+but CC 
 after IN 
 war NN 
 came VBD 
@@ -8320,7 +8320,7 @@ to TO
 Europe NNP 
 , , 
 he PRP 
-decided VBN 
+decided VBD 
 to TO 
 return NN 
 to TO 
@@ -8336,7 +8336,7 @@ January NNP
 
 `` `` 
 I PRP 
-hated VBN 
+hated VBD 
 the DT 
 war NN 
 '' '' 
@@ -8345,12 +8345,12 @@ he PRP
 said VBD 
 , , 
 `` `` 
-but IN 
+but CC 
 thought NN 
 I PRP 
 ought NN 
 to TO 
-go NN 
+go VB 
 because IN 
 I PRP 
 was VBD 
@@ -8386,12 +8386,12 @@ reserve NN
 troops NNS 
 waiting VBG 
 to TO 
-go NN 
+go VB 
 into IN 
 battle NN 
 , , 
 was VBD 
-sketching VBG 
+sketching NN 
 the DT 
 hills NNS 
 south NN 
@@ -8415,12 +8415,12 @@ first JJ
 apparition NN 
 was VBD 
 a DT 
-long JJ 
+long RB 
 , , 
-gloomy NN 
+gloomy JJ 
 column NN 
 of IN 
-refugees VBZ 
+refugees NNS 
 riding VBG 
 in IN 
 farm NN 
@@ -8435,7 +8435,7 @@ His PRP$
 company NN 
 then RB 
 carried VBN 
-out IN 
+out RB 
 a DT 
 confused VBN 
 retreating VBG 
@@ -8470,12 +8470,12 @@ food NN
 , , 
 Helion NNP 
 and CC 
-his PRP 
+his PRP$ 
 comrades NNS 
 were VBD 
 shipped VBN 
 by IN 
-cattle-car JJ 
+cattle-car NN 
 to TO 
 a DT 
 labor NN 
@@ -8509,21 +8509,21 @@ At IN
 the DT 
 time NN 
 of IN 
-his PRP 
+his PRP$ 
 capture NN 
 Helion NNP 
 had VBD 
 on IN 
-his PRP 
+his PRP$ 
 person NN 
 a DT 
 sketchbook NN 
 he PRP 
 had VBD 
-bought NN 
+bought VBD 
 at IN 
 Woolworth NNP 
-'s VBZ 
+'s POS 
 in IN 
 New NNP 
 York NNP 
@@ -8532,16 +8532,16 @@ York NNP
 When WRB 
 he PRP 
 was VBD 
-stripped VBD 
+stripped VBN 
 , , 
 deloused VBN 
 and CC 
-numbered VBD 
+numbered VBN 
 by IN 
-his PRP 
+his PRP$ 
 guards NNS 
 , , 
-his PRP 
+his PRP$ 
 much-thumbed JJ 
 sketchbook NN 
 was VBD 
@@ -8582,10 +8582,10 @@ within IN
 
 -- : 
 who WP 
-questioned VBN 
+questioned VBD 
 things NNS 
 when WRB 
-given VBD 
+given VBN 
 orders NNS 
 '' '' 
 . . 
@@ -8598,7 +8598,7 @@ artist NN
 who WP 
 had VBD 
 studied VBD 
-German JJ 
+German NNP 
 , , 
 was VBD 
 chosen VBN 
@@ -8629,17 +8629,17 @@ of IN
 the DT 
 prisoners NNS 
 ' '' 
-Central JJ 
+Central NNP 
 Committee NNP 
 , , 
 which WDT 
-plotted VBD 
-sabotage NN 
+plotted VBN 
+sabotage VB 
 , , 
 planned VBD 
 a DT 
 few JJ 
-escapes NNS 
+escapes VBZ 
 , , 
 and CC 
 maintained VBN 
@@ -8662,13 +8662,13 @@ to TO
 know VB 
 and CC 
 love NN 
-his PRP 
+his PRP$ 
 comrades NNS 
 , , 
 most RB 
 of IN 
 them PRP 
-plain NN 
+plain JJ 
 folk NN 
 , , 
 who WP 
@@ -8691,9 +8691,9 @@ other NN
 . . 
 
 How WRB 
-much DT 
+much RB 
 they PRP 
-esteemed VBN 
+esteemed JJ 
 him PRP 
 is VBZ 
 shown VBN 
@@ -8723,30 +8723,30 @@ In IN
 the DT 
 prison NN 
 camp NN 
-'s VBZ 
+'s POS 
 Black NNP 
 Market NN 
 civilian NN 
 clothes NNS 
 were VBD 
 quietly RB 
-bought NN 
+bought VBD 
 and CC 
-forged VBN 
+forged VBD 
 papers NNS 
 were VBD 
-devised VBN 
+devised VBD 
 for IN 
 him PRP 
 ; : 
 ; : 
 during IN 
-long JJ 
+long RB 
 weeks NNS 
 the DT 
 plan NN 
 for IN 
-his PRP 
+his PRP$ 
 flight NN 
 was VBD 
 rehearsed VBN 
@@ -8760,7 +8760,7 @@ prisoners NNS
 would MD 
 be VB 
 sent VBN 
-out IN 
+out RB 
 to TO 
 labor NN 
 in IN 
@@ -8771,13 +8771,13 @@ factories NNS
 One PRP 
 evening NN 
 , , 
-while IN 
+while NN 
 a DT 
 volley-ball JJ 
 game NN 
 was VBD 
 being NN 
-played VBD 
+played VBN 
 in IN 
 the DT 
 yard NN 
@@ -8788,12 +8788,12 @@ remaining VBG
 there RB 
 , , 
 a DT 
-simulated VBN 
+simulated JJ 
 melee NN 
 was VBD 
 staged VBD 
 -- : 
-just JJ 
+just RB 
 as IN 
 the DT 
 gates NNS 
@@ -8810,8 +8810,8 @@ work NN
 
 As IN 
 Helion NNP 
-wrote VBD 
-afterward NN 
+wrote VBN 
+afterward RB 
 : : 
 `` `` 
 Their PRP$ 
@@ -8854,7 +8854,7 @@ and CC
 David NNP 
 held VBD 
 nothing NN 
-but IN 
+but CC 
 their PRP$ 
 fingers NNS 
 . . 
@@ -8893,10 +8893,10 @@ all DT
 rushed VBN 
 up IN 
 to TO 
-intervene NN 
+intervene VB 
 '' '' 
 Shedding VBG 
-his PRP 
+his PRP$ 
 prison NN 
 cloak NN 
 , , 
@@ -8917,12 +8917,12 @@ the DT
 passport NN 
 of IN 
 a DT 
-Flemish NNP 
+Flemish JJ 
 worker NN 
 . . 
 
 Riding VBG 
-trains VBZ 
+trains NNS 
 , , 
 hitching NN 
 hikes NNS 
@@ -8963,7 +8963,7 @@ Virginia NNP
 . . 
 
 He PRP 
-wrote VBD 
+wrote VBN 
 : : 
 `` `` 
 To TO 
@@ -8974,7 +8974,7 @@ prison NN
 camp NN 
 required VBN 
 a DT 
-very JJ 
+very RB 
 special JJ 
 state NN 
 of IN 
@@ -8982,12 +8982,12 @@ mind NN
 ; : 
 ; : 
 not RB 
-only JJ 
-loathing VBG 
+only RB 
+loathing NN 
 of IN 
 captivity NN 
 , , 
-but IN 
+but CC 
 a DT 
 faith NN 
 , , 
@@ -8995,8 +8995,8 @@ a DT
 hope NN 
 that IN 
 is VBZ 
-even JJ 
-stronger NN 
+even RB 
+stronger JJR 
 . . 
 
 I PRP 
@@ -9009,7 +9009,7 @@ men NNS
 whom WP 
 captivity NN 
 had VBD 
-robbed VBD 
+robbed VBN 
 of IN 
 all DT 
 hope NN 
@@ -9021,12 +9021,12 @@ loved VBN
 their PRP$ 
 families NNS 
 , , 
-longed VBN 
+longed VBD 
 for IN 
 their PRP$ 
 villages NNS 
 : : 
-yet RB 
+yet CC 
 lacked VBD 
 the DT 
 faith NN 
@@ -9082,15 +9082,15 @@ knew VBD
 that IN 
 he PRP 
 owed VBN 
-his PRP 
+his PRP$ 
 freedom NN 
 as IN 
-much DT 
+much RB 
 to TO 
 the DT 
-self-sacrifice JJ 
+self-sacrifice NN 
 of IN 
-his PRP 
+his PRP$ 
 fellow-men JJ 
 in IN 
 Arbeitskommando NNP 
@@ -9101,9 +9101,9 @@ Stettin NNP
 , , 
 as IN 
 to TO 
-his PRP 
+his PRP$ 
 own JJ 
-fierce NN 
+fierce JJ 
 will NN 
 and CC 
 love NN 
@@ -9115,7 +9115,7 @@ After IN
 that IN 
 , , 
 he PRP 
-declared VBN 
+declared VBD 
 , , 
 `` `` 
 to TO 
@@ -9127,11 +9127,11 @@ to TO
 fall NN 
 to TO 
 one NN 
-'s VBZ 
+'s POS 
 knees NNS 
 before IN 
 the DT 
-real JJ 
+real RB 
 world NN 
 and CC 
 adore VB 
@@ -9148,15 +9148,15 @@ able JJ
 to TO 
 sketch NN 
 nothing NN 
-but IN 
+but CC 
 figures NNS 
 from IN 
 life NN 
 , , 
-his PRP 
+his PRP$ 
 guards NNS 
 , , 
-his PRP 
+his PRP$ 
 companions NNS 
 in IN 
 misery NN 
@@ -9164,7 +9164,7 @@ misery NN
 
 Now RB 
 all DT 
-his PRP 
+his PRP$ 
 desires NNS 
 centered VBN 
 on IN 
@@ -9176,15 +9176,15 @@ of IN
 the DT 
 prosaic JJ 
 and CC 
-yet RB 
+yet CC 
 beautiful JJ 
 world NN 
 of IN 
 men NNS 
 and CC 
-objects VBZ 
+objects NNS 
 so IN 
-long JJ 
+long RB 
 barred VBN 
 from IN 
 me PRP 
@@ -9199,7 +9199,7 @@ fence NN
 And CC 
 , , 
 he PRP 
-added VBD 
+added VBN 
 : : 
 `` `` 
 During IN 
@@ -9213,7 +9213,7 @@ camp NN
 all DT 
 abstract JJ 
 images NNS 
-vanished VBN 
+vanished VBD 
 from IN 
 my PRP$ 
 mind NN 
@@ -9225,8 +9225,8 @@ America NNP
 he PRP 
 happened VBD 
 to TO 
-see VB 
-his PRP 
+see VBP 
+his PRP$ 
 old JJ 
 friend NN 
 Jean NNP 
@@ -9235,7 +9235,7 @@ and CC
 confided VBN 
 to TO 
 him PRP 
-his PRP 
+his PRP$ 
 new JJ 
 resolutions NNS 
 . . 
@@ -9272,7 +9272,7 @@ Helion NNP
 , , 
 however RB 
 , , 
-clung VBN 
+clung VBD 
 to TO 
 the DT 
 belief NN 
@@ -9286,27 +9286,27 @@ Stalag NNP
 I PRP 
 had VBD 
 also RB 
-escaped VBN 
+escaped VBD 
 from IN 
-Abstraction NNP 
+Abstraction NN 
 '' '' 
 . . 
 
-his PRP 
+his PRP$ 
 Virginia NNP 
 home NN 
 he PRP 
-wrote VBD 
+wrote VBN 
 a DT 
 book NN 
-recording VBG 
-his PRP 
+recording NN 
+his PRP$ 
 prison NN 
 experiences NNS 
 and CC 
 escape NN 
 , , 
-entitled VBD 
+entitled VBN 
 : : 
 They PRP 
 Shall NNP 
@@ -9318,13 +9318,13 @@ originally RB
 in IN 
 ( ( 
 Helion NNP 
-'s VBZ 
+'s POS 
 ) ) 
-English NNP 
+English JJ 
 by IN 
 Dutton NNP 
 & SYM 
-Co. NNP 
+Co. FW 
 of IN 
 New NNP 
 York NNP 
@@ -9366,7 +9366,7 @@ side NN
 
 It PRP 
 was VBD 
-very JJ 
+very RB 
 widely RB 
 read VB 
 , , 
@@ -9378,25 +9378,25 @@ the DT
 author NN 
 , , 
 who WP 
-seemed VBD 
+seemed VBN 
 the DT 
 embodiment NN 
 of IN 
 France NNP 
-'s VBZ 
+'s POS 
 rising VBG 
 spirit NN 
 of IN 
 resistance NN 
 to TO 
-her PRP 
+her PRP$ 
 conquerors NNS 
 , , 
 was VBD 
-much DT 
+much RB 
 complimented VBN 
 for IN 
-his PRP 
+his PRP$ 
 daring VBG 
 military JJ 
 action NN 
@@ -9404,12 +9404,12 @@ action NN
 
 he PRP 
 showed VBN 
-his PRP 
+his PRP$ 
 new JJ 
 figurative JJ 
 pictures NNS 
 to TO 
-his PRP 
+his PRP$ 
 artist NN 
 friends NNS 
 of IN 
@@ -9424,7 +9424,7 @@ no DT
 compliments NNS 
 and CC 
 drew VBN 
-long JJ 
+long RB 
 faces VBZ 
 . . 
 
@@ -9452,7 +9452,7 @@ in IN
 Paris NNP 
 -- : 
 of IN 
-his PRP 
+his PRP$ 
 new JJ 
 realistic JJ 
 pictures NNS 
@@ -9467,12 +9467,12 @@ human NN
 beings NNS 
 banished VBN 
 from IN 
-his PRP 
+his PRP$ 
 canvases NNS 
 since IN 
 the DT 
 1920 CD 
-'s VBZ 
+'s POS 
 . . 
 
 These DT 
@@ -9484,7 +9484,7 @@ the DT
 familiar JJ 
 and CC 
 commonplace JJ 
-objects VBZ 
+objects NNS 
 that IN 
 he PRP 
 had VBD 
@@ -9492,7 +9492,7 @@ heard VBD
 the DT 
 men NNS 
 in IN 
-his PRP 
+his PRP$ 
 prison NN 
 camp NN 
 talking VBG 
@@ -9504,8 +9504,8 @@ they PRP
 missed VBD 
 most RB 
 , , 
-hence NN 
-associated VBD 
+hence RB 
+associated VBN 
 with IN 
 the DT 
 sense NN 
@@ -9542,7 +9542,7 @@ lacked VBD
 , , 
 the DT 
 cigarettes NNS 
-denied VBN 
+denied VBD 
 them PRP 
 . . 
 
@@ -9558,7 +9558,7 @@ with IN
 hat NN 
 drawn VBN 
 over IN 
-his PRP 
+his PRP$ 
 face NN 
 ceremoniously RB 
 lighting VBG 
@@ -9588,17 +9588,17 @@ newspapers NNS
 or CC 
 simply RB 
 showing VBG 
-loaves VBZ 
+loaves NNS 
 of IN 
 bread NN 
 spread VBN 
-out IN 
+out RB 
 . . 
 
 Some DT 
 years NNS 
 ago RB 
-Julian JJ 
+Julian NNP 
 Huxley NNP 
 proposed VBN 
 to TO 
@@ -9620,12 +9620,12 @@ Science NN
 that IN 
 `` `` 
 man NN 
-'s VBZ 
+'s POS 
 supernormal JJ 
 or CC 
 extra-sensory JJ 
 faculties NNS 
-are VB 
+are VBP 
 ( ( 
 now RB 
 ) ) 
@@ -9635,7 +9635,7 @@ same JJ
 case NN 
 as IN 
 were VBD 
-his PRP 
+his PRP$ 
 mathematical JJ 
 faculties NNS 
 during IN 
@@ -9649,7 +9649,7 @@ As IN
 a DT 
 Humanist NNP 
 , , 
-Dr. NNP 
+Dr. FW 
 Huxley NNP 
 interests NNS 
 himself PRP 
@@ -9665,7 +9665,7 @@ one NN
 thing NN 
 we PRP 
 can NN 
-say VB 
+say VBP 
 about IN 
 this DT 
 suggestion NN 
@@ -9706,7 +9706,7 @@ evolution NN
 This DT 
 text NN 
 from IN 
-Dr. NNP 
+Dr. FW 
 Huxley NNP 
 is VBZ 
 sometimes RB 
@@ -9732,7 +9732,7 @@ a DT
 wonderful JJ 
 unfoldment NN 
 of IN 
-psychic JJ 
+psychic NN 
 powers NNS 
 in IN 
 human NN 
@@ -9748,7 +9748,7 @@ of IN
 this DT 
 sort NN 
 , , 
-but IN 
+but CC 
 it PRP 
 is VBZ 
 not RB 
@@ -9756,7 +9756,7 @@ one NN
 we PRP 
 wish NN 
 to TO 
-argue NN 
+argue VBP 
 , , 
 here RB 
 . . 
@@ -9773,12 +9773,12 @@ far RB
 distant JJ 
 future NN 
 , , 
-begin NN 
+begin VBP 
 to TO 
 read VB 
 one NN 
 another DT 
-'s VBZ 
+'s POS 
 minds NNS 
 , , 
 there RB 
@@ -9795,7 +9795,7 @@ find VB
 in IN 
 another DT 
 man NN 
-'s VBZ 
+'s POS 
 mind NN 
 is VBZ 
 especially RB 
@@ -9844,7 +9844,7 @@ them PRP
 to TO 
 live VB 
 better RB 
-lives VBZ 
+lives NNS 
 . . 
 
 There EX 
@@ -9861,7 +9861,7 @@ course NN
 ; : 
 such DT 
 capacities NNS 
-are VB 
+are VBP 
 impressive JJ 
 evidence NN 
 pointing VBG 
@@ -9875,7 +9875,7 @@ being NN
 which WDT 
 does VBZ 
 not RB 
-appear VBP 
+appear VB 
 in IN 
 the DT 
 accounts NNS 
@@ -9886,7 +9886,7 @@ organic JJ
 evolutionists NNS 
 ; : 
 ; : 
-but IN 
+but CC 
 the DT 
 basic NN 
 puzzles NNS 
@@ -9904,7 +9904,7 @@ still RB
 have VB 
 to TO 
 work NN 
-out IN 
+out RB 
 the DT 
 sort NN 
 of IN 
@@ -9922,9 +9922,9 @@ All DT
 we PRP 
 want NN 
 from IN 
-Dr. NNP 
+Dr. FW 
 Huxley NNP 
-'s VBZ 
+'s POS 
 statement NN 
 is VBZ 
 the DT 
@@ -9933,7 +9933,7 @@ that IN
 this DT 
 is VBZ 
 an DT 
-open JJ 
+open RB 
 world NN 
 , , 
 in IN 
@@ -9993,7 +9993,7 @@ is VBZ
 not RB 
 one NN 
 , , 
-but IN 
+but CC 
 many DT 
 . . 
 
@@ -10042,7 +10042,7 @@ and CC
 the DT 
 people NNS 
 of IN 
-his PRP 
+his PRP$ 
 time NN 
 . . 
 
@@ -10054,7 +10054,7 @@ with IN
 a DT 
 child NN 
 to TO 
-nurture NN 
+nurture VB 
 , , 
 here RB 
 and CC 
@@ -10083,7 +10083,7 @@ a DT
 utopian JJ 
 with IN 
 a DT 
-stake VB 
+stake NN 
 in IN 
 tomorrow NN 
 and CC 
@@ -10093,7 +10093,7 @@ a DT
 vulnerable JJ 
 human NN 
 made VBD 
-captive JJ 
+captive NN 
 by IN 
 the DT 
 circumstances NNS 
@@ -10120,13 +10120,13 @@ He PRP
 is VBZ 
 a DT 
 Craig NNP 
-'s VBZ 
+'s POS 
 wife NN 
 who WP 
-agonizes NNS 
+agonizes VBZ 
 about IN 
 tobacco NN 
-ash VB 
+ash NN 
 on IN 
 the DT 
 living NN 
@@ -10140,7 +10140,7 @@ forgetful JJ
 genius NN 
 who WP 
 goes VBZ 
-boating VBG 
+boating NN 
 with IN 
 the DT 
 town NN 
@@ -10152,7 +10152,7 @@ the DT
 local JJ 
 university NN 
 have VB 
-come VBD 
+come VB 
 to TO 
 call NN 
 . . 
@@ -10165,7 +10165,7 @@ guardian NN
 of IN 
 the DT 
 status NN 
-quo JJ 
+quo VBD 
 who WP 
 has VBZ 
 raised VBN 
@@ -10186,12 +10186,12 @@ with IN
 a DT 
 gun NN 
 in IN 
-his PRP 
+his PRP$ 
 hand NN 
 who WP 
 writes NNS 
 a DT 
-tragic NN 
+tragic JJ 
 apologetic JJ 
 to TO 
 posterity NN 
@@ -10200,10 +10200,10 @@ the DT
 men NNS 
 he PRP 
 has VBZ 
-killed VBD 
+killed VBN 
 . . 
 
-What WDT 
+What WP 
 will NN 
 be VB 
 the DT 
@@ -10249,14 +10249,14 @@ of IN
 the DT 
 day NN 
 to TO 
-penetrate JJ 
+penetrate VB 
 these DT 
 questions NNS 
 . . 
 
 The DT 
 pamphlets NNS 
-are VB 
+are VBP 
 about IN 
 law NN 
 , , 
@@ -10281,7 +10281,7 @@ the DT
 various JJ 
 lethargies NNS 
 which WDT 
-overtake NN 
+overtake VB 
 our PRP$ 
 major JJ 
 institutions NNS 
@@ -10299,7 +10299,7 @@ mechanisms NNS
 that IN 
 have VB 
 been VBD 
-set NN 
+set VBD 
 in IN 
 motion NN 
 for IN 
@@ -10344,7 +10344,7 @@ of IN
 human NN 
 life NN 
 , , 
-but IN 
+but CC 
 no DT 
 angry JJ 
 utopian JJ 
@@ -10364,7 +10364,7 @@ now RB
 and CC 
 then RB 
 , , 
-but IN 
+but CC 
 when WRB 
 you PRP 
 look NN 
@@ -10372,22 +10372,22 @@ around IN
 the DT 
 world NN 
 and CC 
-see VB 
+see VBP 
 the DT 
 little JJ 
 volcanos NNS 
 of IN 
-current NN 
+current JJ 
 history NN 
 which WDT 
-partisan NN 
+partisan JJ 
 social JJ 
 passions NNS 
 have VB 
 wrought NN 
 , , 
 you PRP 
-are VB 
+are VBP 
 glad JJ 
 that IN 
 in IN 
@@ -10396,16 +10396,16 @@ pamphlets NNS
 there RB 
 is VBZ 
 at IN 
-least RBS 
+least JJS 
 some DT 
 civilized JJ 
-calm NN 
+calm JJ 
 . . 
 
 You PRP 
 could MD 
 also RB 
-say VB 
+say VBP 
 that IN 
 in IN 
 these DT 
@@ -10429,7 +10429,7 @@ writing NN
 of IN 
 men NNS 
 who WP 
-are VB 
+are VBP 
 not RB 
 angry JJ 
 , , 
@@ -10460,11 +10460,11 @@ kind NN
 of IN 
 sophistication NN 
 has VBZ 
-flowered VBD 
+flowered VBN 
 in IN 
 the DT 
 United NNP 
-States NNS 
+States NNP 
 during IN 
 recent JJ 
 years NNS 
@@ -10479,17 +10479,17 @@ concern NN
 and CC 
 inquiry NN 
 is VBZ 
-found VBD 
+found VBN 
 in IN 
 Joseph NNP 
 P. NNP 
 Lyford NNP 
-'s VBZ 
+'s POS 
 Introduction NNP 
 To TO 
 The DT 
 Agreeable JJ 
-Autocracies NNP 
+Autocracies NNPS 
 , , 
 a DT 
 recent JJ 
@@ -10518,7 +10518,7 @@ we PRP
 think VB 
 , , 
 an DT 
-achieved VBD 
+achieved VBN 
 plateau NN 
 of IN 
 reflective JJ 
@@ -10537,7 +10537,7 @@ this DT
 spirit NN 
 , , 
 we PRP 
-decided VBN 
+decided VBD 
 that IN 
 it PRP 
 would MD 
@@ -10547,7 +10547,7 @@ to TO
 use NN 
 Mr. NNP 
 Lyford NNP 
-'s VBZ 
+'s POS 
 introduction NN 
 as IN 
 an DT 
@@ -10562,12 +10562,12 @@ At IN
 one NN 
 time NN 
 it PRP 
-seemed VBD 
+seemed VBN 
 as IN 
 if IN 
 the DT 
 Soviet JJ 
-Union NN 
+Union NNP 
 had VBD 
 done VBD 
 us PRP 
@@ -10593,8 +10593,8 @@ nations NNS
 
 As IN 
 things NNS 
-turned VBD 
-out IN 
+turned VBN 
+out RB 
 , , 
 however RB 
 , , 
@@ -10628,7 +10628,7 @@ against IN
 whatever WDT 
 Soviet JJ 
 policy NN 
-seemed VBD 
+seemed VBN 
 to TO 
 be VB 
 at IN 
@@ -10647,11 +10647,11 @@ irritated VBN
 the DT 
 Kremlin NNP 
 , , 
-but IN 
+but CC 
 it PRP 
 has VBZ 
 frequently RB 
-condemned VBN 
+condemned VBD 
 America NNP 
 to TO 
 an DT 
@@ -10659,7 +10659,7 @@ unnatural JJ
 defensiveness NN 
 that IN 
 has VBZ 
-undermined JJ 
+undermined VBN 
 our PRP$ 
 effort NN 
 to TO 
@@ -10667,7 +10667,7 @@ give VB
 leadership NN 
 to TO 
 the DT 
-free JJ 
+free RB 
 world NN 
 . . 
 
@@ -10702,11 +10702,11 @@ extent NN
 to TO 
 which WDT 
 they PRP 
-applaud NN 
+applaud VB 
 the DT 
 slogans NNS 
 we PRP 
-circulate JJ 
+circulate VB 
 about IN 
 ourselves PRP 
 . . 
@@ -10720,7 +10720,7 @@ application NN
 to TO 
 reality NN 
 and CC 
-are VB 
+are VBP 
 sanctimonious JJ 
 to TO 
 boot NN 
@@ -10729,7 +10729,7 @@ the DT
 applause NN 
 is VBZ 
 faint JJ 
-even JJ 
+even RB 
 in IN 
 areas NNS 
 of IN 
@@ -10745,11 +10745,11 @@ the DT
 greatest JJS 
 affection NN 
 for IN 
-free JJ 
+free RB 
 government NN 
 . . 
 
-Shocked NNP 
+Shocked JJ 
 at IN 
 the DT 
 response NN 
@@ -10758,7 +10758,7 @@ our PRP$
 proclamations NNS 
 , , 
 we PRP 
-grow JJ 
+grow VB 
 more RB 
 defensive JJ 
 , , 
@@ -10788,12 +10788,12 @@ by IN
 our PRP$ 
 Department NNP 
 of IN 
-State NN 
+State NNP 
 , , 
 and CC 
 an DT 
-American JJ 
-President NN 
+American NNP 
+President NNP 
 observes VBZ 
 sourly RB 
 that IN 
@@ -10818,7 +10818,7 @@ One PRP
 thing NN 
 you PRP 
 can NN 
-say VB 
+say VBP 
 about IN 
 Mr. NNP 
 Lyford NNP 
@@ -10833,13 +10833,13 @@ any DT
 insecurity NN 
 as IN 
 an DT 
-American JJ 
+American NNP 
 . . 
 
 Those DT 
 who WP 
-are VB 
-insecure NN 
+are VBP 
+insecure JJ 
 fear NN 
 to TO 
 be VB 
@@ -10878,7 +10878,7 @@ solved VBN
 without IN 
 being NN 
 clearly RB 
-understood VBD 
+understood VBN 
 . . 
 
 Mr. NNP 
@@ -10892,7 +10892,7 @@ the DT
 self NN 
 portrait NN 
 we PRP 
-distribute JJ 
+distribute VB 
 for IN 
 popular JJ 
 consumption NN 
@@ -10934,11 +10934,11 @@ more RB
 treacherous JJ 
 when WRB 
 it PRP 
-misrepresents NNS 
+misrepresents VBZ 
 the DT 
 facts NNS 
 of IN 
-American JJ 
+American NNP 
 life NN 
 . . 
 
@@ -10983,16 +10983,16 @@ granted VBN
 the DT 
 discrepancy NN 
 can NN 
-only JJ 
+only RB 
 be VB 
-explained VBN 
+explained VBD 
 by IN 
 the DT 
 fact NN 
 that IN 
 we PRP 
 have VB 
-come VBD 
+come VB 
 to TO 
 believe VB 
 hearsay NN 
@@ -11005,25 +11005,25 @@ preference NN
 to TO 
 an DT 
 understanding NN 
-gained VBD 
+gained VBN 
 by IN 
 earnest JJS 
 self-examination NN 
 . . 
 
-What WDT 
+What WP 
 is VBZ 
 more RB 
 , , 
 the DT 
 legends NNS 
 have VB 
-become VBD 
+become VBN 
 so IN 
-sacrosanct NN 
+sacrosanct JJ 
 that IN 
 the DT 
-very JJ 
+very RB 
 habit NN 
 of IN 
 self-examination NN 
@@ -11039,7 +11039,7 @@ men NNS
 who WP 
 practice NN 
 it PRP 
-are VB 
+are VBP 
 defeatists NNS 
 and CC 
 unpatriotic JJ 
@@ -11055,9 +11055,9 @@ conversational JJ
 devotions NNS 
 to TO 
 `` `` 
-free JJ 
+free RB 
 private JJ 
-enterprise JJ 
+enterprise NN 
 '' '' 
 , , 
 `` `` 
@@ -11115,10 +11115,10 @@ is VBZ
 weakening VBG 
 the DT 
 citizen NN 
-'s VBZ 
+'s POS 
 confidence NN 
 in IN 
-his PRP 
+his PRP$ 
 own JJ 
 power NN 
 to TO 
@@ -11148,7 +11148,7 @@ thing NN
 about IN 
 Mr. NNP 
 Lyford NNP 
-'s VBZ 
+'s POS 
 approach NN 
 , , 
 and CC 
@@ -11160,7 +11160,7 @@ contributors NNS
 to TO 
 The DT 
 Agreeable JJ 
-Autocracies NNP 
+Autocracies NNPS 
 ( ( 
 Oceana NNP 
 Publications NNS 
@@ -11171,7 +11171,7 @@ to TO
 the DT 
 situation NN 
 of IN 
-American JJ 
+American NNP 
 civilization NN 
 , , 
 is VBZ 
@@ -11185,13 +11185,13 @@ the DT
 psychological JJ 
 relationships NNS 
 which WDT 
-are VB 
+are VBP 
 having VBG 
 a DT 
 decisive JJ 
 effect NN 
 on IN 
-American JJ 
+American NNP 
 life NN 
 . . 
 
@@ -11206,14 +11206,14 @@ tend VBP
 to TO 
 thump NN 
 the DT 
-table JJ 
+table NN 
 . . 
 
 They PRP 
-are VB 
-determined VBD 
+are VBP 
+determined VBN 
 to TO 
-prove NN 
+prove VB 
 something NN 
 . . 
 
@@ -11227,12 +11227,12 @@ illustrated VBN
 by IN 
 Mr. NNP 
 Lyford NNP 
-'s VBZ 
+'s POS 
 work NN 
 , , 
 is VBZ 
 wholly RB 
-free JJ 
+free RB 
 of IN 
 this DT 
 anxiety NN 
@@ -11244,7 +11244,7 @@ is VBZ
 rather RB 
 to TO 
 find VB 
-out IN 
+out RB 
 what WDT 
 is VBZ 
 actually RB 
@@ -11261,10 +11261,10 @@ reason NN
 that IN 
 `` `` 
 we PRP 
-are VB 
+are VBP 
 busily RB 
 being NN 
-defended VBN 
+defended VBD 
 from IN 
 a DT 
 knowledge NN 
@@ -11275,7 +11275,7 @@ present NN
 sometimes RB 
 by IN 
 the DT 
-very JJ 
+very RB 
 agencies NNS 
 -- : 
 our PRP$ 
@@ -11295,7 +11295,7 @@ we PRP
 have VB 
 had VBD 
 to TO 
-rely RB 
+rely VBP 
 most RB 
 heavily RB 
 for IN 
@@ -11335,7 +11335,7 @@ the DT
 bottle NN 
 , , 
 have VB 
-escaped VBN 
+escaped VBD 
 confinement NN 
 and CC 
 that IN 
@@ -11364,9 +11364,9 @@ union NN
 or CC 
 a DT 
 television NN 
-set NN 
+set VBD 
 , , 
-but IN 
+but CC 
 until IN 
 we PRP 
 have VB 
@@ -11378,7 +11378,7 @@ phenomena NNS
 and CC 
 what WDT 
 they PRP 
-are VB 
+are VBP 
 doing VBG 
 to TO 
 us PRP 
@@ -11395,7 +11395,7 @@ them PRP
 It PRP 
 does VBZ 
 not RB 
-appear VBP 
+appear VB 
 that IN 
 we PRP 
 will NN 
@@ -11414,7 +11414,7 @@ Purpose NNP
 
 The DT 
 Agreeable JJ 
-Autocracies NNP 
+Autocracies NNPS 
 is VBZ 
 an DT 
 attempt NN 
@@ -11433,7 +11433,7 @@ the DT
 character NN 
 of IN 
 the DT 
-free JJ 
+free RB 
 society NN 
 today NN 
 . . 
@@ -11441,7 +11441,7 @@ today NN
 The DT 
 men NNS 
 who WP 
-speculate NN 
+speculate JJ 
 on IN 
 these DT 
 institutions NNS 
@@ -11452,10 +11452,10 @@ the DT
 most RB 
 part NN 
 , , 
-come VBD 
+come VB 
 to TO 
 at IN 
-least RBS 
+least JJS 
 one NN 
 common NN 
 conclusion NN 
@@ -11474,7 +11474,7 @@ our PRP$
 democracy NN 
 is VBZ 
 formed VBN 
-are VB 
+are VBP 
 in IN 
 themselves PRP 
 autocratic JJ 
@@ -11482,7 +11482,7 @@ in IN
 nature NN 
 , , 
 and CC 
-possessed VBN 
+possessed VBD 
 of IN 
 power NN 
 which WDT 
@@ -11490,7 +11490,7 @@ can NN
 be VB 
 used VBD 
 to TO 
-frustrate JJ 
+frustrate VB 
 the DT 
 citizen NN 
 who WP 
@@ -11498,7 +11498,7 @@ is VBZ
 trying VBG 
 to TO 
 assert VB 
-his PRP 
+his PRP$ 
 individuality NN 
 in IN 
 the DT 
@@ -11521,7 +11521,7 @@ autocracies NNS
 where WRB 
 did VBD 
 they PRP 
-come VBD 
+come VB 
 from IN 
 ? . 
 ? . 
@@ -11538,11 +11538,11 @@ they PRP
 were VBD 
 not RB 
 sketched VBD 
-out IN 
+out RB 
 by IN 
 the DT 
 revolutionary JJ 
-theorists NNS 
+theorists VBZ 
 of IN 
 the DT 
 eighteenth JJ 
@@ -11564,7 +11564,7 @@ we PRP
 term NN 
 the DT 
 `` `` 
-free JJ 
+free RB 
 society NN 
 '' '' 
 . . 
@@ -11572,7 +11572,7 @@ society NN
 No DT 
 doubt NN 
 there RB 
-are VB 
+are VBP 
 historians NNS 
 who WP 
 can NN 
@@ -11607,7 +11607,7 @@ of IN
 forces NNS 
 which WDT 
 have VB 
-created VBD 
+created VBN 
 the DT 
 present NN 
 scene NN 
@@ -11616,7 +11616,7 @@ one NN
 of IN 
 the DT 
 tasks NNS 
-undertaken JJ 
+undertaken VBN 
 by IN 
 the DT 
 Center NNP 
@@ -11635,7 +11635,7 @@ Barbara NNP
 But CC 
 however RB 
 we PRP 
-come VBD 
+come VB 
 , , 
 finally RB 
 , , 
@@ -11650,7 +11650,7 @@ present NN
 the DT 
 truth NN 
 we PRP 
-are VB 
+are VBP 
 trying VBG 
 to TO 
 expose VB 
@@ -11676,7 +11676,7 @@ if IN
 not RB 
 impossible JJ 
 to TO 
-anticipate JJ 
+anticipate VB 
 the DT 
 behavior NN 
 of IN 
@@ -11731,10 +11731,10 @@ have VB
 been VBD 
 able JJ 
 to TO 
-leave VB 
+leave VBP 
 room NN 
 in IN 
-his PRP 
+his PRP$ 
 social JJ 
 theory NN 
 for IN 
@@ -11755,11 +11755,11 @@ machines NNS
 How WRB 
 would MD 
 Thomas NNP 
-Jefferson NN 
+Jefferson NNP 
 feel VB 
 after IN 
 reading VBG 
-Factories NNP 
+Factories NNS 
 In IN 
 The DT 
 Field NNP 
@@ -11774,8 +11774,8 @@ sir NN
 , , 
 that IN 
 we PRP 
-are VB 
-free JJ 
+are VBP 
+free RB 
 , , 
 because IN 
 we PRP 
@@ -11792,7 +11792,7 @@ the DT
 other NN 
 a DT 
 stock NN 
-certificate JJ 
+certificate NN 
 . . 
 
 With IN 
@@ -11840,17 +11840,17 @@ Many JJ
 of IN 
 us PRP 
 may MD 
-even JJ 
+even RB 
 be VB 
 secretly RB 
 relieved VBN 
 at IN 
 having VBG 
 a DT 
-plausible NN 
-excuse VBP 
+plausible JJ 
+excuse NN 
 to TO 
-delegate VB 
+delegate NN 
 ancient JJ 
 civic JJ 
 responsibilities NNS 
@@ -11872,14 +11872,14 @@ union NN
 comes VBZ 
 to TO 
 regard NN 
-his PRP 
+his PRP$ 
 officers NNS 
 as IN 
 business NN 
 agents NNS 
 who WP 
 may MD 
-proceed VBP 
+proceed VB 
 without IN 
 interference NN 
 or CC 
@@ -11888,16 +11888,16 @@ recall VB
 ; : 
 the DT 
 stockholder NN 
-delivers NNS 
-his PRP 
+delivers VBZ 
+his PRP$ 
 proxy NN 
 ; : 
 ; : 
 and CC 
 the DT 
 citizen NN 
-narrows NNS 
-his PRP 
+narrows VBZ 
+his PRP$ 
 political JJ 
 participation NN 
 to TO 
@@ -11923,7 +11923,7 @@ major JJ
 effort NN 
 to TO 
 counterbalance NN 
-Existentialism NNP 
+Existentialism NN 
 and CC 
 restore VB 
 some DT 
@@ -11957,7 +11957,7 @@ of IN
 the DT 
 grandeur NN 
 they PRP 
-ignore NN 
+ignore VB 
 in IN 
 themselves PRP 
 '' '' 
@@ -11966,7 +11966,7 @@ themselves PRP
 , , 
 Andre NNP 
 Malraux NNP 
-'s VBZ 
+'s POS 
 The DT 
 Walnut NNP 
 Trees NNS 
@@ -11993,7 +11993,7 @@ leisure NN
 when WRB 
 he PRP 
 was VBD 
-taken VBD 
+taken VBN 
 prisoner NN 
 by IN 
 the DT 
@@ -12006,13 +12006,13 @@ France NNP
 . . 
 
 The DT 
-manuscript JJ 
+manuscript NN 
 , , 
 presumably RB 
 after IN 
 being NN 
 smuggled VBN 
-out IN 
+out RB 
 of IN 
 the DT 
 country NN 
@@ -12037,14 +12037,14 @@ entire JJ
 book NN 
 that IN 
 Malraux NNP 
-wrote VBD 
+wrote VBN 
 at IN 
 that IN 
 time NN 
 -- : 
 it PRP 
 is VBZ 
-only JJ 
+only RB 
 the DT 
 first JJ 
 section NN 
@@ -12052,11 +12052,11 @@ of IN
 a DT 
 three-part JJ 
 novel NN 
-called VBD 
+called VBN 
 La NNP 
 Lutte NNP 
-avec JJ 
-l'Ange NNP 
+avec NN 
+l'Ange FW 
 ; : 
 ; : 
 and CC 
@@ -12068,7 +12068,7 @@ somehow RB
 preserved VBN 
 ( ( 
 there RB 
-are VB 
+are VBP 
 always RB 
 these DT 
 annoying VBG 
@@ -12080,7 +12080,7 @@ actual JJ
 facts NNS 
 of IN 
 Malraux NNP 
-'s VBZ 
+'s POS 
 life NN 
 ) ) 
 when WRB 
@@ -12093,7 +12093,7 @@ rest NN
 
 If IN 
 we PRP 
-are VB 
+are VBP 
 to TO 
 believe VB 
 the DT 
@@ -12103,7 +12103,7 @@ titles NNS
 printed VBN 
 in IN 
 Malraux NNP 
-'s VBZ 
+'s POS 
 latest JJS 
 book NN 
 , , 
@@ -12112,7 +12112,7 @@ Metamorphose NNP
 Des NNP 
 Dieux NNP 
 , , 
-Vol. NNP 
+Vol. FW 
 1 CD 
 ( ( 
 ( ( 
@@ -12129,7 +12129,7 @@ a DT
 large JJ 
 novel NN 
 under IN 
-his PRP 
+his PRP$ 
 original JJ 
 title NN 
 . . 
@@ -12139,8 +12139,8 @@ as IN
 he PRP 
 remarks NNS 
 in IN 
-his PRP 
-preface VB 
+his PRP$ 
+preface NN 
 to TO 
 The DT 
 Walnut NNP 
@@ -12178,12 +12178,12 @@ no DT
 doubt NN 
 be VB 
 radically RB 
-changed VBD 
+changed VBN 
 '' '' 
 . . 
 
 Malraux NNP 
-pretends NNS 
+pretends VBZ 
 , , 
 perhaps RB 
 with IN 
@@ -12195,14 +12195,14 @@ a DT
 modesty NN 
 , , 
 that IN 
-his PRP 
+his PRP$ 
 fragmentary JJ 
 work NN 
 will NN 
 accordingly RB 
 `` `` 
 appeal NN 
-only JJ 
+only RB 
 to TO 
 the DT 
 curiosity NN 
@@ -12234,14 +12234,14 @@ first JJ
 part NN 
 of IN 
 Malraux NNP 
-'s VBZ 
+'s POS 
 unrecoverable JJ 
 novel NN 
 is VBZ 
 among IN 
 the DT 
 greatest JJS 
-works VBZ 
+works NNS 
 of IN 
 mid-twentieth JJ 
 century NN 
@@ -12254,7 +12254,7 @@ should MD
 be VB 
 far RB 
 better RB 
-known VBD 
+known VBN 
 than IN 
 it PRP 
 is VBZ 
@@ -12278,13 +12278,13 @@ immediate JJ
 predecessor JJ 
 in IN 
 Malraux NNP 
-'s VBZ 
+'s POS 
 array NN 
 of IN 
 novels NNS 
 : : 
 Man NN 
-'s VBZ 
+'s POS 
 Hope NNP 
 ( ( 
 1937 CD 
@@ -12293,16 +12293,16 @@ Hope NNP
 
 This DT 
 magnificent JJ 
-but IN 
+but CC 
 greatly RB 
-underestimated JJ 
+underestimated VBD 
 book NN 
 , , 
 which WDT 
 bodies NNS 
 forth RB 
 the DT 
-very JJ 
+very RB 
 form NN 
 and CC 
 pressure NN 
@@ -12357,7 +12357,7 @@ as IN
 W.H. NNP 
 Frohock NNP 
 has VBZ 
-taken VBD 
+taken VBN 
 for IN 
 granted VBN 
 that IN 
@@ -12365,7 +12365,7 @@ the DT
 book NN 
 was VBD 
 originally RB 
-intended VBD 
+intended VBN 
 as IN 
 a DT 
 piece NN 
@@ -12380,7 +12380,7 @@ then RB
 gone VBD 
 on IN 
 to TO 
-argue NN 
+argue VBP 
 , , 
 with IN 
 unimpeachable JJ 
@@ -12395,7 +12395,7 @@ aspects NNS
 of IN 
 the DT 
 book NN 
-are VB 
+are VBP 
 simply RB 
 inadvertent JJ 
 `` `` 
@@ -12409,7 +12409,7 @@ however RB
 , , 
 could MD 
 be VB 
-farther NN 
+farther JJR 
 from IN 
 the DT 
 truth NN 
@@ -12420,13 +12420,13 @@ whole NN
 purpose NN 
 of IN 
 Man NN 
-'s VBZ 
+'s POS 
 Hope NNP 
 is VBZ 
 to TO 
 portray NN 
 the DT 
-tragic NN 
+tragic JJ 
 dialectic NN 
 between IN 
 means NN 
@@ -12440,7 +12440,7 @@ political JJ
 violence NN 
 -- : 
 and CC 
-even JJ 
+even RB 
 when WRB 
 such DT 
 violence NN 
@@ -12449,7 +12449,7 @@ a DT
 necessary JJ 
 and CC 
 legitimate JJ 
-self-defense JJ 
+self-defense NN 
 of IN 
 liberty NN 
 , , 
@@ -12459,15 +12459,15 @@ human NN
 dignity NN 
 . . 
 
-Nowhere RB 
+Nowhere NNP 
 before IN 
 in IN 
 Malraux NNP 
-'s VBZ 
+'s POS 
 pages NNS 
 have VB 
 we PRP 
-met NN 
+met VBD 
 such DT 
 impassioned JJ 
 defenders NNS 
@@ -12485,7 +12485,7 @@ realm NN
 of IN 
 politics NNS 
 and CC 
-even JJ 
+even RB 
 the DT 
 realm NN 
 of IN 
@@ -12497,7 +12497,7 @@ the DT
 action NN 
 of IN 
 Malraux NNP 
-'s VBZ 
+'s POS 
 early JJ 
 anarchist-adventurers NNS 
 like IN 
@@ -12519,14 +12519,14 @@ and CC
 Katow NNP 
 in IN 
 Man NN 
-'s VBZ 
+'s POS 
 Fate NNP 
 . . 
 
 `` `` 
 Man NN 
 engages NNS 
-only JJ 
+only RB 
 a DT 
 small JJ 
 part NN 
@@ -12549,7 +12549,7 @@ the DT
 more RB 
 the DT 
 action NN 
-claims NNS 
+claims VBZ 
 to TO 
 be VB 
 total NN 
@@ -12570,7 +12570,7 @@ lines NNS
 never RB 
 cease VB 
 to TO 
-haunt NN 
+haunt VB 
 the DT 
 book NN 
 amidst IN 
@@ -12578,7 +12578,7 @@ all DT
 the DT 
 exaltations NNS 
 of IN 
-combat NN 
+combat JJ 
 , , 
 and CC 
 to TO 
@@ -12639,7 +12639,7 @@ pulsating VBG
 heart NN 
 of IN 
 Malraux NNP 
-'s VBZ 
+'s POS 
 artistic JJ 
 universe NN 
 . . 
@@ -12658,14 +12658,14 @@ world NN
 of IN 
 violence NN 
 , , 
-combat NN 
+combat JJ 
 and CC 
 sudden JJ 
 death NN 
 which WDT 
 has VBZ 
-become VBD 
-his PRP 
+become VBN 
+his PRP$ 
 hallmark NN 
 as IN 
 a DT 
@@ -12676,14 +12676,14 @@ and CC
 which WDT 
 is VBZ 
 the DT 
-only JJ 
+only RB 
 world NN 
 , , 
 apparently RB 
 , , 
 in IN 
 which WDT 
-his PRP 
+his PRP$ 
 imagination NN 
 can NN 
 flame NN 
@@ -12700,7 +12700,7 @@ includes VBZ
 not RB 
 one NN 
 war NN 
-but IN 
+but CC 
 two CD 
 , , 
 and CC 
@@ -12723,7 +12723,7 @@ measure NN
 . . 
 
 But CC 
-while IN 
+while NN 
 war NN 
 still RB 
 serves VBZ 
@@ -12735,16 +12735,16 @@ the DT
 values NNS 
 that IN 
 Malraux NNP 
-wishes NNS 
+wishes VBZ 
 to TO 
 express VB 
 , , 
 these DT 
 values NNS 
-are VB 
+are VBP 
 no DT 
 longer RB 
-linked VBD 
+linked VBN 
 with IN 
 the DT 
 triumph NN 
@@ -12762,7 +12762,7 @@ individual NN
 assertion NN 
 of IN 
 the DT 
-will-to-power JJ 
+will-to-power NN 
 , , 
 or CC 
 a DT 
@@ -12787,13 +12787,13 @@ the DT
 contrary NN 
 , , 
 the DT 
-frenzy JJ 
+frenzy NN 
 and CC 
 furor NN 
 of IN 
-combat NN 
+combat JJ 
 is VBZ 
-only JJ 
+only RB 
 the DT 
 sombre JJ 
 foil NN 
@@ -12824,7 +12824,7 @@ Trees NNS
 Of IN 
 Altenburg NNP 
 is VBZ 
-composed VBD 
+composed VBN 
 in IN 
 the DT 
 form NN 
