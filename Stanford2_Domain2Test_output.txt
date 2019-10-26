@@ -14,13 +14,13 @@ me PRP
 . . 
 
 It PRP 
-'s IN 
+'s POS 
 late RB 
 and CC 
 you PRP 
 said VBD 
 they PRP 
-'d VBD 
+'d MD 
 be VB 
 here RB 
 by IN 
@@ -148,7 +148,7 @@ anger NN
 ; : 
 ; : 
 against IN 
-this DT 
+this RB 
 bent VBD 
 man NN 
 in IN 
@@ -160,7 +160,7 @@ powerless JJ
 . . 
 
 Gavin NNP 
-'s IN 
+'s POS 
 lips NNS 
 moved VBD 
 so IN 
@@ -176,7 +176,7 @@ words NNS
 . . 
 
 `` `` 
-Do VB 
+Do VBP 
 you PRP 
 remember VB 
 Big NNP 
@@ -201,7 +201,7 @@ years NNS
 Just RB 
 a DT 
 half-breed NN 
-'pache NN 
+'pache VB 
 , , 
 never RB 
 said VBD 
@@ -213,7 +213,7 @@ anythin VBG
 to TO 
 me PRP 
 , , 
-but IN 
+but CC 
 he PRP 
 stuck VBN 
 with IN 
@@ -231,7 +231,7 @@ English NNP
 , , 
 your PRP$ 
 brother NN 
-'s IN 
+'s POS 
 son NN 
 . . 
 
@@ -285,8 +285,8 @@ me PRP
 . . 
 
 Just RB 
-cleared VBN 
-out IN 
+cleared VBD 
+out RB 
 . . 
 
 I PRP 
@@ -301,8 +301,8 @@ Clay NNP
 They PRP 
 just RB 
 all DT 
-cleared VBN 
-out IN 
+cleared VBD 
+out RB 
 . . 
 
 I PRP 
@@ -331,9 +331,9 @@ wonder NN
 . . 
 
 `` `` 
-Do VB 
+Do VBP 
 you PRP 
-mean JJ 
+mean VB 
 '' '' 
 -- : 
 he PRP 
@@ -352,7 +352,7 @@ you PRP
 , , 
 wherever NN 
 you PRP 
-'re VB 
+'re VBP 
 goin VBG 
 '' '' 
 ? . 
@@ -430,7 +430,7 @@ scabbard NN
 He PRP 
 was VBD 
 partially RB 
-uniformed JJ 
+uniformed VBN 
 in IN 
 a DT 
 cavalry NN 
@@ -471,7 +471,7 @@ purpose NN
 They PRP 
 dragged VBD 
 him PRP 
-inside IN 
+inside NN 
 the DT 
 building NN 
 . . 
@@ -569,11 +569,11 @@ later RB
 First NNP 
 , , 
 we PRP 
-'ve VB 
+'ve VBP 
 got VBD 
 to TO 
 get VB 
-out IN 
+out RB 
 of IN 
 here RB 
 '' '' 
@@ -594,15 +594,15 @@ The DT
 main JJ 
 bunch NN 
 is VBZ 
-outside IN 
+outside RB 
 , , 
-but IN 
+but CC 
 there RB 
 are VB 
-some DT 
+some RB 
 over IN 
 there RB 
-inside IN 
+inside NN 
 the DT 
 wall NN 
 '' '' 
@@ -627,7 +627,7 @@ ride NN
 But CC 
 it PRP 
 at IN 
-least RBS 
+least JJS 
 offered VBD 
 him PRP 
 a DT 
@@ -702,7 +702,7 @@ dozen NN
 animals NNS 
 were VBD 
 held VBD 
-inside IN 
+inside NN 
 the DT 
 stockade NN 
 , , 
@@ -711,14 +711,14 @@ best RBS
 Mike NNP 
 could MD 
 make VB 
-out IN 
+out RB 
 in IN 
 the DT 
 moonlight NN 
 . . 
 
 Evidently RB 
-this DT 
+this RB 
 was VBD 
 a DT 
 precaution NN 
@@ -737,7 +737,7 @@ He PRP
 handed VBD 
 the DT 
 guard NN 
-'s IN 
+'s POS 
 rifle NN 
 to TO 
 Fiske NNP 
@@ -751,7 +751,7 @@ will NN
 try VB 
 to TO 
 cut VB 
-out IN 
+out RB 
 horses NNS 
 to TO 
 ride NN 
@@ -794,11 +794,11 @@ added VBD
 , , 
 `` `` 
 If IN 
-this DT 
+this RB 
 does VBZ 
 n't RB 
 work NN 
-out IN 
+out RB 
 , , 
 the DT 
 three CD 
@@ -869,7 +869,7 @@ had VBD
 responded VBD 
 to TO 
 his PRP 
-own JJ 
+own VB 
 kiss NN 
 had VBD 
 n't RB 
@@ -945,7 +945,7 @@ Later RB
 '' '' 
 . . 
 
-McLish NNP 
+McLish VBP 
 '' '' 
 ! . 
 ! . 
@@ -970,7 +970,7 @@ snorted VBD
 
 `` `` 
 Running VBG 
-around IN 
+around RB 
 in IN 
 the DT 
 moonlight NN 
@@ -994,7 +994,7 @@ going VBG
 
 He PRP 
 wanted VBD 
-no DT 
+no RB 
 more NN 
 sentimental JJ 
 scenes NNS 
@@ -1045,7 +1045,7 @@ Fortune NNP
 had VBD 
 taken VBN 
 Dean NNP 
-'s IN 
+'s POS 
 affections NNS 
 from IN 
 her PRP 
@@ -1056,7 +1056,7 @@ using VBG
 him PRP 
 , , 
 Mike NNP 
-McLish NNP 
+McLish VBP 
 , , 
 as IN 
 a DT 
@@ -1092,7 +1092,7 @@ said VBD
 
 `` `` 
 I PRP 
-'m VB 
+'m VBP 
 going VBG 
 to TO 
 walk NN 
@@ -1107,7 +1107,7 @@ brass NN
 , , 
 pretending VBG 
 I PRP 
-'m VB 
+'m VBP 
 one PRP 
 of IN 
 the DT 
@@ -1115,7 +1115,7 @@ guerrillas NNS
 . . 
 
 There EX 
-'s IN 
+'s POS 
 bound VBD 
 to TO 
 be VB 
@@ -1123,7 +1123,7 @@ someone NN
 on IN 
 guard NN 
 , , 
-but IN 
+but CC 
 the DT 
 hat NN 
 might MD 
@@ -1161,13 +1161,13 @@ by IN
 a DT 
 wagon NN 
 gate NN 
-built VBD 
+built VBN 
 of IN 
 two CD 
 wings NNS 
 . . 
 
-One NN 
+One CD 
 wing NN 
 stood VBD 
 open RB 
@@ -1175,7 +1175,7 @@ open RB
 
 Mike NNP 
 passed VBD 
-through IN 
+through RB 
 it PRP 
 and CC 
 moved VBD 
@@ -1207,7 +1207,7 @@ near-at-hand JJ
 
 `` `` 
 Who WP 
-'s IN 
+'s POS 
 that IN 
 '' '' 
 ? . 
@@ -1247,7 +1247,7 @@ the DT
 stockade NN 
 wall NN 
 just RB 
-out IN 
+out RB 
 of IN 
 reach VB 
 of IN 
@@ -1262,9 +1262,9 @@ and CC
 got VBD 
 within IN 
 arm NN 
-'s IN 
+'s POS 
 reach VB 
-before IN 
+before RB 
 the DT 
 man NN 
 became VBD 
@@ -1317,18 +1317,18 @@ to TO
 veer NN 
 the DT 
 rifle NN 
-around IN 
+around RB 
 to TO 
 fire NN 
 into IN 
 Mike NNP 
-'s IN 
+'s POS 
 body NN 
 . . 
 
 Mike NNP 
 , , 
-off IN 
+off NN 
 balance NN 
 , , 
 managed VBD 
@@ -1339,7 +1339,7 @@ muzzle NN
 away RB 
 a DT 
 moment NN 
-before IN 
+before RB 
 it PRP 
 exploded VBD 
 . . 
@@ -1368,7 +1368,7 @@ solidly RB
 on IN 
 the DT 
 man NN 
-'s IN 
+'s POS 
 temple NN 
 , , 
 felling VBG 
@@ -1417,9 +1417,9 @@ up IN
 . . 
 
 `` `` 
-Are VBP 
+Are VB 
 you PRP 
-hit NN 
+hit VBD 
 '' '' 
 ? . 
 ? . 
@@ -1430,7 +1430,7 @@ demanded VBD
 
 the DT 
 fat NN 
-'s IN 
+'s POS 
 in IN 
 the DT 
 fire NN 
@@ -1444,8 +1444,8 @@ said VBD
 
 `` `` 
 There EX 
-'s IN 
-no DT 
+'s POS 
+no RB 
 chance NN 
 now RB 
 of IN 
@@ -1468,7 +1468,7 @@ alone RB
 
 The DT 
 sentry NN 
-'s IN 
+'s POS 
 saddled VBN 
 horse NN 
 stood VBD 
@@ -1491,7 +1491,7 @@ the DT
 bayonet NN 
 from IN 
 Dean NNP 
-'s IN 
+'s POS 
 hand NN 
 and CC 
 slashed VBD 
@@ -1521,7 +1521,7 @@ Ride VB
 Dean NNP 
 resisted VBD 
 Mike NNP 
-'s IN 
+'s POS 
 attempt NN 
 to TO 
 push VB 
@@ -1555,14 +1555,14 @@ frantically RB
 
 `` `` 
 You PRP 
-'re VB 
+'re VBP 
 lighter JJR 
 than IN 
 me PRP 
 . . 
 
 It PRP 
-'s IN 
+'s POS 
 our PRP$ 
 only RB 
 chance NN 
@@ -1596,11 +1596,11 @@ back NN
 . . 
 
 You PRP 
-'re VB 
+'re VBP 
 the DT 
 one PRP 
 that IN 
-'s IN 
+'s POS 
 taking NN 
 the DT 
 big JJ 
@@ -1612,7 +1612,7 @@ Dean NNP
 still RB 
 hesitated VBD 
 , , 
-but IN 
+but CC 
 Mike NNP 
 lifted VBD 
 him PRP 
@@ -1634,7 +1634,7 @@ No DT
 telling VBG 
 how WRB 
 good JJ 
-this DT 
+this RB 
 horse NN 
 is VBZ 
 '' '' 
@@ -1652,12 +1652,12 @@ something NN
 in IN 
 case NN 
 you PRP 
-hit NN 
+hit VBD 
 trouble NN 
 . . 
 
 Watch NNP 
-out IN 
+out RB 
 for IN 
 Apaches NNP 
 when WRB 
@@ -1692,7 +1692,7 @@ able JJ
 to TO 
 round RB 
 up IN 
-some DT 
+some RB 
 more NN 
 . . 
 
@@ -1730,7 +1730,7 @@ back NN
 . . 
 
 `` `` 
-McLish NNP 
+McLish VBP 
 '' '' 
 , , 
 he PRP 
@@ -1745,7 +1745,7 @@ motion NN
 , , 
 `` `` 
 I PRP 
-'d VBD 
+'d MD 
 be VB 
 a DT 
 mighty RB 
@@ -1791,9 +1791,9 @@ war NN
 whoop NN 
 . . 
 
-That IN 
+That DT 
 touched VBD 
-off IN 
+off NN 
 a DT 
 total NN 
 stampede NN 
@@ -1801,7 +1801,7 @@ stampede NN
 
 He PRP 
 darted VBD 
-inside IN 
+inside NN 
 the DT 
 stockade NN 
 and CC 
@@ -1813,7 +1813,7 @@ there RB
 
 These DT 
 poured VBD 
-through IN 
+through RB 
 the DT 
 gate NN 
 and CC 
@@ -1863,7 +1863,7 @@ yelled VBD
 
 `` `` 
 They PRP 
-'re VB 
+'re VBP 
 stealin VBG 
 ' '' 
 the DT 
@@ -1876,9 +1876,9 @@ He PRP
 scuttled VBD 
 in IN 
 shadow NN 
-along IN 
+along RB 
 the DT 
-east JJ 
+east RB 
 wall NN 
 of IN 
 the DT 
@@ -1887,7 +1887,7 @@ and CC
 then RB 
 followed VBD 
 the DT 
-south JJ 
+south NN 
 wall NN 
 until IN 
 he PRP 
@@ -1926,7 +1926,7 @@ the DT
 parade NN 
 ground NN 
 and CC 
-through IN 
+through RB 
 the DT 
 rear NN 
 gate NN 
@@ -1948,7 +1948,7 @@ had VBD
 seized VBD 
 up IN 
 , , 
-but IN 
+but CC 
 they PRP 
 were VBD 
 half-clad JJ 
@@ -1995,7 +1995,7 @@ the DT
 others NNS 
 toward IN 
 the DT 
-east JJ 
+east RB 
 gate NN 
 . . 
 
@@ -2006,7 +2006,7 @@ began VBD
 to TO 
 explode VB 
 as IN 
-some DT 
+some RB 
 of IN 
 the DT 
 guerrillas NNS 
@@ -2047,7 +2047,7 @@ the DT
 buildings NNS 
 and CC 
 peered VBD 
-around IN 
+around RB 
 a DT 
 corner NN 
 . . 
@@ -2076,10 +2076,10 @@ few JJ
 yards NNS 
 to TO 
 Mike NNP 
-'s IN 
+'s POS 
 left VBD 
 , , 
-but IN 
+but CC 
 he PRP 
 , , 
 too RB 
@@ -2099,7 +2099,7 @@ confused VBN
 activity NN 
 at IN 
 the DT 
-east JJ 
+east RB 
 end NN 
 of IN 
 the DT 
@@ -2149,7 +2149,7 @@ corner NN
 . . 
 
 A DT 
-brace VB 
+brace NN 
 of IN 
 pistols NNS 
 , , 
@@ -2162,7 +2162,7 @@ from IN
 a DT 
 peg NN 
 , , 
-along IN 
+along RB 
 with IN 
 ammunition NN 
 pouches NNS 
@@ -2297,7 +2297,7 @@ powder NN
 canister NN 
 and CC 
 ran VBD 
-out IN 
+out RB 
 . . 
 
 Bursting VBG 
@@ -2329,7 +2329,7 @@ blanket NN
 again RB 
 , , 
 backed VBD 
-off IN 
+off NN 
 , , 
 and CC 
 tossed VBD 
@@ -2374,7 +2374,7 @@ lighted VBD
 and CC 
 the DT 
 guerrillas NNS 
-sighted VBN 
+sighted VBD 
 him PRP 
 . . 
 
@@ -2388,11 +2388,11 @@ Bullets NNS
 began VBD 
 to TO 
 snap NN 
-past IN 
+past NN 
 him PRP 
 . . 
 
-One NN 
+One CD 
 struck VBD 
 the DT 
 muzzle NN 
@@ -2413,9 +2413,9 @@ Its PRP$
 force VB 
 spun NN 
 him PRP 
-around IN 
+around RB 
 , , 
-but IN 
+but CC 
 he PRP 
 recovered VBD 
 and CC 
@@ -2484,7 +2484,7 @@ three CD
 of IN 
 them DT 
 floundered VBD 
-through IN 
+through RB 
 the DT 
 door NN 
 into IN 
@@ -2527,9 +2527,9 @@ planks NNS
 Some DT 
 tore VBD 
 entirely RB 
-through IN 
+through RB 
 the DT 
-whipsawed VBN 
+whipsawed VBD 
 post NN 
 oak NN 
 . . 
@@ -2539,7 +2539,7 @@ iron NN
 hinges NNS 
 held VBD 
 , , 
-but IN 
+but CC 
 the DT 
 planks NNS 
 were VBD 
@@ -2560,13 +2560,13 @@ Susan NNP
 , , 
 grasped VBD 
 her PRP 
-around IN 
+around RB 
 the DT 
 knees NNS 
 , , 
 dragging VBG 
 her PRP 
-off IN 
+off NN 
 her PRP 
 feet NNS 
 . . 
@@ -2650,10 +2650,10 @@ and CC
 another DT 
 guerrilla NN 
 was VBD 
-hit NN 
+hit VBD 
 . . 
 
-That IN 
+That DT 
 halted VBD 
 the DT 
 rush NN 
@@ -2707,7 +2707,7 @@ Gawdamighty NNP
 ! . 
 ! . 
 
-One NN 
+One CD 
 screeched VBD 
 . . 
 
@@ -2847,7 +2847,7 @@ Hustle NNP
 ! . 
 ! . 
 
-One NN 
+One CD 
 of IN 
 the DT 
 wagons NNS 
@@ -2867,7 +2867,7 @@ powder NN
 had VBD 
 been VBD 
 touched VBD 
-off IN 
+off NN 
 . . 
 
 The DT 
@@ -2876,7 +2876,7 @@ and CC
 the DT 
 coach NN 
 were VBD 
-beyond IN 
+beyond RB 
 saving VBG 
 and CC 
 so IN 
@@ -2891,7 +2891,7 @@ of IN
 the DT 
 fire NN 
 reached VBD 
-through IN 
+through RB 
 the DT 
 openings NNS 
 in IN 
@@ -2904,7 +2904,7 @@ enough RB
 to TO 
 examine VB 
 Mike NNP 
-'s IN 
+'s POS 
 wound NN 
 . . 
 
@@ -2912,7 +2912,7 @@ The DT
 bullet NN 
 had VBD 
 torn VBN 
-through IN 
+through RB 
 the DT 
 flesh NN 
 just RB 
@@ -2946,7 +2946,7 @@ and CC
 had VBD 
 passed VBD 
 on IN 
-through IN 
+through RB 
 . . 
 
 Susan NNP 
@@ -2975,7 +2975,7 @@ was VBD
 able JJ 
 to TO 
 hobble VB 
-around IN 
+around RB 
 on IN 
 it PRP 
 . . 
@@ -2983,7 +2983,7 @@ it PRP
 Dutch NNP 
 Springs NNS 
 , , 
-this DT 
+this RB 
 mining VBG 
 supply RB 
 town NN 
@@ -3010,7 +3010,7 @@ and CC
 teams NNS 
 were VBD 
 moving VBG 
-about IN 
+about RB 
 . . 
 
 Although IN 
@@ -3023,7 +3023,7 @@ a DT
 sharper JJR 
 watch VB 
 , , 
-this DT 
+this RB 
 activity NN 
 enabled VBD 
 them DT 
@@ -3050,11 +3050,11 @@ holdin VBG
 ' '' 
 forth JJ 
 in IN 
-some DT 
+some RB 
 bar NN 
 if IN 
 he PRP 
-'s IN 
+'s POS 
 here RB 
 at IN 
 all DT 
@@ -3064,7 +3064,7 @@ Cobb NNP
 declared VBD 
 , , 
 glancing VBG 
-along IN 
+along RB 
 the DT 
 street NN 
 as IN 
@@ -3076,7 +3076,7 @@ legs NNS
 
 There EX 
 were VBD 
-no DT 
+no RB 
 less RBR 
 than IN 
 six CD 
@@ -3138,7 +3138,7 @@ Carmer NNP
 give VB 
 a DT 
 yell NN 
-before IN 
+before RB 
 you PRP 
 move NN 
 in IN 
@@ -3146,7 +3146,7 @@ in IN
 . . 
 
 Cobb NNP 
-'s IN 
+'s POS 
 assent NN 
 was VBD 
 tight RB 
@@ -3160,7 +3160,7 @@ same JJ
 . . 
 
 It PRP 
-'s IN 
+'s POS 
 all DT 
 I PRP 
 ask VB 
@@ -3228,7 +3228,7 @@ thief NN
 
 He PRP 
 tramped VBD 
-out IN 
+out RB 
 of IN 
 the DT 
 Miners NNP 
@@ -3253,7 +3253,7 @@ of IN
 any DT 
 consequence NN 
 on IN 
-this DT 
+this RB 
 side NN 
 of IN 
 the DT 
@@ -3264,10 +3264,10 @@ The DT
 Palace NNP 
 was VBD 
 an DT 
-elaborate VB 
+elaborate JJ 
 establishment NN 
 , , 
-built VBD 
+built VBN 
 practically RB 
 on IN 
 stilts NNS 
@@ -3298,7 +3298,7 @@ clung VBD
 like IN 
 a DT 
 bird NN 
-'s IN 
+'s POS 
 nest NN 
 to TO 
 the DT 
@@ -3356,7 +3356,7 @@ batwings NNS
 Cobb NNP 
 glanced VBD 
 perfunctorily RB 
-through IN 
+through RB 
 the DT 
 nearest JJS 
 window NN 
@@ -3386,7 +3386,7 @@ expectation NN
 , , 
 Carmer NNP 
 was VBD 
-inside IN 
+inside NN 
 , , 
 clearly RB 
 enjoying VBG 
@@ -3410,14 +3410,14 @@ note NN
 anything NN 
 or CC 
 anyone NN 
-about IN 
+about RB 
 him PRP 
 . . 
 
 Fierce JJ 
 anger NN 
 surged VBD 
-through IN 
+through RB 
 Russ NNP 
 . . 
 
@@ -3442,7 +3442,7 @@ spot NN
 the DT 
 porch NN 
 rail NN 
-beyond IN 
+beyond RB 
 view NN 
 of IN 
 the DT 
@@ -3494,7 +3494,7 @@ feet NNS
 in IN 
 the DT 
 street NN 
-before IN 
+before RB 
 Pat NNP 
 appeared VBD 
 . . 
@@ -3519,13 +3519,13 @@ upward RB
 
 `` `` 
 He PRP 
-'s IN 
+'s POS 
 there RB 
 '' '' 
 , , 
 he PRP 
 got VBD 
-out IN 
+out RB 
 tersely RB 
 , , 
 curbing VBG 
@@ -3538,7 +3538,7 @@ Hitching VBG
 his PRP 
 cartridge NN 
 belt NN 
-around IN 
+around RB 
 , , 
 Pat NNP 
 glanced VBD 
@@ -3575,12 +3575,12 @@ door NN
 
 Pat NNP 
 pushed VBD 
-through IN 
+through RB 
 first RB 
 . . 
 
 Forced VBD 
-behind IN 
+behind RB 
 him PRP 
 momentarily RB 
 , , 
@@ -3592,7 +3592,7 @@ and CC
 halted VBD 
 two CD 
 steps NNS 
-inside IN 
+inside NN 
 . . 
 
 His PRP$ 
@@ -3631,7 +3631,7 @@ dull JJ
 as IN 
 the DT 
 day NN 
-before IN 
+before RB 
 payday NN 
 . . 
 
@@ -3650,7 +3650,7 @@ knocked VBD
 the DT 
 roulette NN 
 ball NN 
-about IN 
+about RB 
 idly RB 
 in IN 
 its PRP$ 
@@ -3681,7 +3681,7 @@ of IN
 the DT 
 bar NN 
 , , 
-while IN 
+while NN 
 the DT 
 sleek-headed JJ 
 bartender NN 
@@ -3769,7 +3769,7 @@ butt NN
 The DT 
 bartender NN 
 measured VBN 
-this DT 
+this RB 
 situation NN 
 with IN 
 heavy JJ 
@@ -3778,7 +3778,7 @@ and CC
 decided VBD 
 he PRP 
 wanted VBD 
-no DT 
+no RB 
 part NN 
 of IN 
 it PRP 
@@ -3786,7 +3786,7 @@ it PRP
 
 He PRP 
 said VBD 
-no DT 
+no RB 
 more NN 
 . . 
 
@@ -3819,9 +3819,9 @@ for IN
 cards NNS 
 , , 
 opened VBD 
-off IN 
+off NN 
 on IN 
-either DT 
+either RB 
 side NN 
 . . 
 
@@ -3831,7 +3831,7 @@ doors NNS
 were VBD 
 open RB 
 at IN 
-this DT 
+this RB 
 hour NN 
 except IN 
 one PRP 
@@ -3840,7 +3840,7 @@ and CC
 it PRP 
 was VBD 
 toward IN 
-this DT 
+this RB 
 that IN 
 Stevens NNP 
 made VBD 
@@ -3890,7 +3890,7 @@ strike VB
 
 Russ NNP 
 sprang VBD 
-through IN 
+through RB 
 to TO 
 bat NN 
 it PRP 
@@ -3961,7 +3961,7 @@ that IN
 tumbled VBD 
 him PRP 
 over IN 
-flat JJ 
+flat NN 
 on IN 
 his PRP 
 stomach NN 
@@ -3986,13 +3986,13 @@ him PRP
 pinned VBN 
 . . 
 
-Okay JJ 
+Okay NNP 
 , , 
 Stevens NNP 
 . . 
 
 I PRP 
-'ve VB 
+'ve VBP 
 drawn VBN 
 his PRP 
 fangs NNS 
@@ -4004,7 +4004,7 @@ snapped VBD
 
 `` `` 
 Go VB 
-through IN 
+through RB 
 his PRP 
 pockets NNS 
 , , 
@@ -4026,7 +4026,7 @@ and CC
 see VB 
 what WP 
 he PRP 
-'s IN 
+'s POS 
 made VBD 
 of IN 
 '' '' 
@@ -4036,10 +4036,10 @@ of IN
 Pat NNP 
 pulled VBD 
 pocket NN 
-after IN 
+after RB 
 pocket NN 
-inside IN 
-out IN 
+inside NN 
+out RB 
 without IN 
 finding VBG 
 a DT 
@@ -4048,7 +4048,7 @@ thing NN
 
 Cobb NNP 
 watched VBD 
-this DT 
+this RB 
 with IN 
 hunted VBD 
 eyes NNS 
@@ -4078,7 +4078,7 @@ and CC
 lunged VBD 
 toward IN 
 Carmer NNP 
-'s IN 
+'s POS 
 hat NN 
 , , 
 which WDT 
@@ -4107,13 +4107,13 @@ ablaze NN
 , , 
 he PRP 
 held VBD 
-out IN 
+out RB 
 the DT 
 battered VBN 
 Stetson NNP 
 . . 
 
-this DT 
+this RB 
 '' '' 
 ! . 
 ! . 
@@ -4122,7 +4122,7 @@ the DT
 crown NN 
 , , 
 stuffed VBD 
-behind IN 
+behind RB 
 the DT 
 stained VBN 
 sweatband NN 
@@ -4139,7 +4139,7 @@ currency NN
 . . 
 
 Carmer NNP 
-'s IN 
+'s POS 
 ingenious JJ 
 cache NN 
 for IN 
@@ -4166,15 +4166,15 @@ tearing VBG
 the DT 
 loose JJ 
 bills NNS 
-out IN 
+out RB 
 of IN 
 Carmer NNP 
-'s IN 
+'s POS 
 hat NN 
 . . 
 
 `` `` 
-That IN 
+That DT 
 is VBZ 
 , , 
 if IN 
@@ -4182,10 +4182,10 @@ we PRP
 can MD 
 be VB 
 sure RB 
-this DT 
+this RB 
 is VBZ 
 Colcord NNP 
-'s IN 
+'s POS 
 money NN 
 '' '' 
 -- : 
@@ -4206,7 +4206,7 @@ it PRP
 Count VB 
 what WP 
 you PRP 
-'ve VB 
+'ve VBP 
 got VBD 
 there RB 
 , , 
@@ -4222,7 +4222,7 @@ tell VB
 
 Russ NNP 
 ran VBD 
-through IN 
+through RB 
 the DT 
 bills NNS 
 and CC 
@@ -4246,7 +4246,7 @@ nodded VBD
 . . 
 
 It PRP 
-'s IN 
+'s POS 
 within IN 
 a DT 
 hundred CD 
@@ -4265,7 +4265,7 @@ We PRP
 know VB 
 Penny NNP 
 spent VBD 
-some DT 
+some RB 
 -- : 
 and CC 
 Carmer NNP 
@@ -4315,7 +4315,7 @@ disdainful JJ
 Shall MD 
 we PRP 
 get VB 
-out IN 
+out RB 
 of IN 
 here RB 
 '' '' 
@@ -4329,7 +4329,7 @@ room NN
 they PRP 
 moved VBD 
 back NN 
-through IN 
+through RB 
 the DT 
 Palace NNP 
 the DT 
@@ -4347,10 +4347,10 @@ in IN
 the DT 
 bar NN 
 , , 
-but IN 
+but CC 
 there RB 
 was VBD 
-no DT 
+no RB 
 attempt NN 
 to TO 
 halt VB 
@@ -4360,11 +4360,11 @@ them DT
 Pausing VBG 
 in IN 
 the DT 
-outside IN 
+outside RB 
 door NN 
 to TO 
 glance NN 
-behind IN 
+behind RB 
 him PRP 
 , , 
 Pat NNP 
@@ -4374,7 +4374,7 @@ unspoken JJ
 warning NN 
 and CC 
 stepped VBD 
-out IN 
+out RB 
 . . 
 
 He PRP 
@@ -4420,14 +4420,14 @@ for IN
 you PRP 
 to TO 
 return VB 
-this DT 
+this RB 
 money NN 
 to TO 
 Colcord NNP 
 and CC 
 tell VB 
 him PRP 
-about IN 
+about RB 
 it PRP 
 , , 
 Russ NNP 
@@ -4462,7 +4462,7 @@ decidedly RB
 . . 
 
 I PRP 
-'ve VB 
+'ve VBP 
 had VBD 
 enough RB 
 . . 
@@ -4488,7 +4488,7 @@ strictly RB
 I PRP 
 'll MD 
 shove VB 
-along IN 
+along RB 
 home NN 
 '' '' 
 . . 
@@ -4505,7 +4505,7 @@ into IN
 the DT 
 saddle NN 
 , , 
-yet RB 
+yet CC 
 still RB 
 he PRP 
 delayed VBD 
@@ -4566,7 +4566,7 @@ him PRP
 But CC 
 I PRP 
 want VB 
-this DT 
+this RB 
 to TO 
 sink VB 
 in IN 
@@ -4597,13 +4597,13 @@ to TO
 give VB 
 advice NN 
 in IN 
-such DT 
+such JJ 
 affairs NNS 
 . . 
 
 `` `` 
 You PRP 
-'re VB 
+'re VBP 
 the DT 
 doctor NN 
 '' '' 
@@ -4621,7 +4621,7 @@ I PRP
 still RB 
 think VB 
 Penny NNP 
-'s IN 
+'s POS 
 an DT 
 awful JJ 
 nice JJ 
@@ -4655,11 +4655,11 @@ he PRP
 hauled VBD 
 his PRP 
 bronc JJ 
-around IN 
+around RB 
 and CC 
 trotted VBD 
 down IN 
-off IN 
+off NN 
 the DT 
 street NN 
 . . 
@@ -4730,14 +4730,14 @@ and CC
 dismayed JJ 
 by IN 
 his PRP 
-own JJ 
+own VB 
 mixed VBD 
 luck NN 
 . . 
 
 `` `` 
 Penny NNP 
-'s IN 
+'s POS 
 always RB 
 glad JJ 
 to TO 
@@ -4769,7 +4769,7 @@ have VB
 been VBD 
 involved VBN 
 in IN 
-this DT 
+this RB 
 latest JJS 
 tangle NN 
 . . 
@@ -4785,7 +4785,7 @@ suspicion NN
 of IN 
 Chuck NNP 
 Stober NNP 
-'s IN 
+'s POS 
 part NN 
 in IN 
 recent NN 
@@ -4799,9 +4799,9 @@ could MD
 n't RB 
 have VB 
 known VBD 
-about IN 
+about RB 
 Colcord NNP 
-'s IN 
+'s POS 
 money NN 
 unless JJ 
 he PRP 
@@ -4826,7 +4826,7 @@ himself PRP
 
 `` `` 
 It PRP 
-'s IN 
+'s POS 
 the DT 
 second NN 
 time NN 
@@ -4867,7 +4867,7 @@ gun NN
 
 In IN 
 town NN 
-no DT 
+no RB 
 one PRP 
 paid VBD 
 much RB 
@@ -4878,7 +4878,7 @@ occasional JJ
 shot NN 
 ; : 
 ; : 
-but IN 
+but CC 
 on IN 
 the DT 
 range NN 
@@ -4958,7 +4958,7 @@ there RB
 What WP 
 did VBD 
 it PRP 
-mean JJ 
+mean VB 
 ? . 
 ? . 
 
@@ -4969,7 +4969,7 @@ the DT
 bronc JJ 
 he PRP 
 set VBD 
-off IN 
+off NN 
 at IN 
 a DT 
 sharp JJ 
@@ -5003,7 +5003,7 @@ away RB
 , , 
 the DT 
 fresh JJ 
-clap VB 
+clap NN 
 of IN 
 guns NNS 
 only RB 
@@ -5032,7 +5032,7 @@ an DT
 angry JJ 
 bee NN 
 buzzed VBD 
-past IN 
+past NN 
 close RB 
 to TO 
 his PRP 
@@ -5071,7 +5071,7 @@ against IN
 
 Whoever NNP 
 was VBD 
-out IN 
+out RB 
 there RB 
 hiding VBG 
 in IN 
@@ -5095,8 +5095,8 @@ determined VBD
 to TO 
 drive NN 
 him PRP 
-off IN 
-before IN 
+off NN 
+before RB 
 he PRP 
 could MD 
 get VB 
@@ -5109,7 +5109,7 @@ himself PRP
 for IN 
 having VBG 
 ridden VBN 
-out IN 
+out RB 
 the DT 
 last JJ 
 few JJ 
@@ -5155,7 +5155,7 @@ moment NN
 later RB 
 . . 
 
-this DT 
+this RB 
 way NN 
 ! . 
 ! . 
@@ -5194,7 +5194,7 @@ fragments NNS
 from IN 
 the DT 
 brush NN 
-off IN 
+off NN 
 at IN 
 one PRP 
 side NN 
@@ -5215,14 +5215,14 @@ Dismounting VBG
 , , 
 Russ NNP 
 looked VBD 
-about IN 
+about RB 
 hastily RB 
 . . 
 
-Toward IN 
+Toward NNP 
 the DT 
 west RB 
-this DT 
+this RB 
 depression NN 
 led VBD 
 toward IN 
@@ -5274,26 +5274,26 @@ covered VBD
 a DT 
 hundred CD 
 yards NNS 
-before IN 
+before RB 
 a DT 
 gun NN 
 crashed VBD 
 from IN 
 somewhere RB 
-behind IN 
+behind RB 
 . . 
 
 He PRP 
 had VBD 
 been VBD 
-sighted VBN 
+sighted VBD 
 , , 
 and CC 
 his PRP 
 attacker NN 
 pumping VBG 
 shot NN 
-after IN 
+after RB 
 shot NN 
 . . 
 
@@ -5303,7 +5303,7 @@ or CC
 two CD 
 went VBD 
 wild JJ 
-before IN 
+before RB 
 Cobb NNP 
 felt VBD 
 something NN 
@@ -5317,10 +5317,10 @@ A DT
 slug NN 
 had VBD 
 torn VBN 
-half DT 
+half NN 
 of IN 
 his PRP 
-stirrup-guard JJ 
+stirrup-guard NN 
 away RB 
 . . 
 
@@ -5354,9 +5354,9 @@ Jerusalem NNP
 ! . 
 
 Let VB 
-'s IN 
+'s POS 
 get VB 
-out IN 
+out RB 
 of IN 
 here RB 
 '' '' 
@@ -5386,7 +5386,7 @@ draw VB
 The DT 
 long RB 
 minute NN 
-before IN 
+before RB 
 he PRP 
 reached VBD 
 effective JJ 
@@ -5398,7 +5398,7 @@ endless JJ
 Sweeping VBG 
 a DT 
 look NN 
-around IN 
+around RB 
 , , 
 he PRP 
 saw VBD 
@@ -5415,15 +5415,15 @@ He PRP
 heard VBD 
 cries NNS 
 from IN 
-behind IN 
+behind RB 
 him PRP 
 , , 
-but IN 
+but CC 
 he PRP 
 could MD 
 make VB 
-out IN 
-no DT 
+out RB 
+no RB 
 words NNS 
 . . 
 
@@ -5482,7 +5482,7 @@ it PRP
 
 He PRP 
 clambered VBD 
-out IN 
+out RB 
 of IN 
 the DT 
 dwindling VBG 
@@ -5492,24 +5492,24 @@ the DT
 loose JJ 
 dirt NN 
 flying VBG 
-behind IN 
+behind RB 
 him PRP 
 , , 
 and CC 
 flashed VBD 
 a DT 
 look NN 
-about IN 
+about RB 
 . . 
 
-November NNP 
+November NN 
 the DT 
 clouds NNS 
 lifted VBD 
 enough RB 
 to TO 
 carry VB 
-out IN 
+out RB 
 the DT 
 assigned VBN 
 missions NNS 
@@ -5546,12 +5546,12 @@ eight CD
 ships NNS 
 and CC 
 went VBD 
-south JJ 
+south NN 
 across IN 
 the DT 
-Straits NNP 
+Straits NNPS 
 and CC 
-along IN 
+along RB 
 the DT 
 north JJ 
 coast NN 
@@ -5591,7 +5591,7 @@ to TO
 get VB 
 any DT 
 kamikaze NN 
-before IN 
+before RB 
 they PRP 
 got VBD 
 to TO 
@@ -5619,11 +5619,11 @@ for IN
 targets NNS 
 of IN 
 opportunities NNS 
-around IN 
+around RB 
 Ormoc NNP 
 on IN 
 the DT 
-east JJ 
+east RB 
 coast NN 
 of IN 
 Leyte NNP 
@@ -5674,7 +5674,7 @@ a DT
 rough JJ 
 long RB 
 ride NN 
-through IN 
+through RB 
 the DT 
 mud NN 
 and CC 
@@ -5703,7 +5703,7 @@ was VBD
 a DT 
 feeling NN 
 that IN 
-this DT 
+this RB 
 mission NN 
 would MD 
 be VB 
@@ -5714,9 +5714,9 @@ the DT
 others NNS 
 and CC 
 that IN 
-this DT 
+this RB 
 muddy JJ 
-wet VBP 
+wet VB 
 dark NN 
 world NN 
 of IN 
@@ -5731,13 +5731,13 @@ The DT
 truck NN 
 dropped VBD 
 them DT 
-off IN 
+off NN 
 at IN 
 the DT 
 various JJ 
 revetments NNS 
 spread NN 
-through IN 
+through RB 
 the DT 
 jungle NN 
 . . 
@@ -5745,7 +5745,7 @@ jungle NN
 Donovan NNP 
 snatched VBD 
 Greg NNP 
-'s IN 
+'s POS 
 chute NN 
 from IN 
 him PRP 
@@ -5799,7 +5799,7 @@ never RB
 been VBD 
 in IN 
 one PRP 
-before IN 
+before RB 
 . . 
 
 But CC 
@@ -5821,7 +5821,7 @@ procedure NN
 . . 
 
 I PRP 
-'ve VB 
+'ve VBP 
 got VBD 
 her PRP 
 as IN 
@@ -5845,19 +5845,19 @@ Seton NNP
 harness NN 
 over IN 
 Greg NNP 
-'s IN 
+'s POS 
 shoulders NNS 
 . . 
 
 `` `` 
 But CC 
-this DT 
+this RB 
 goddamn JJ 
 climate NN 
 . . 
 
 It PRP 
-'s IN 
+'s POS 
 for IN 
 carabao NN 
 not RB 
@@ -5868,10 +5868,10 @@ airplanes NNS
 We PRP 
 'll MD 
 make VB 
-out IN 
+out RB 
 . . 
 
-Do VB 
+Do VBP 
 n't RB 
 you PRP 
 worry VB 
@@ -5898,9 +5898,9 @@ the DT
 divan NN 
 , , 
 turned VBD 
-off IN 
+off NN 
 the DT 
-TV NNP 
+TV CD 
 , , 
 faced VBD 
 her PRP 
@@ -5979,7 +5979,7 @@ face NN
 , , 
 too RB 
 , , 
-but IN 
+but CC 
 I PRP 
 could MD 
 n't RB 
@@ -5994,7 +5994,7 @@ I PRP
 said VBD 
 , , 
 `` `` 
-Do VB 
+Do VBP 
 we PRP 
 know VB 
 each DT 
@@ -6008,7 +6008,7 @@ Miss NNP
 I PRP 
 remembered VBD 
 reading VBG 
-about IN 
+about RB 
 you PRP 
 in IN 
 the DT 
@@ -6044,7 +6044,7 @@ herself PRP
 
 `` `` 
 I PRP 
-'m VB 
+'m VBP 
 sorry JJ 
 . . 
 
@@ -6100,7 +6100,7 @@ hugging VBG
 the DT 
 stained VBN 
 coat NN 
-around IN 
+around RB 
 her PRP 
 , , 
 so IN 
@@ -6148,18 +6148,18 @@ started VBD
 to TO 
 slide NN 
 it PRP 
-off IN 
+off NN 
 , , 
 then RB 
 let VBD 
-out IN 
+out RB 
 a DT 
 high-pitched JJ 
 scream VB 
 and CC 
 I PRP 
 let VBD 
-out IN 
+out RB 
 a DT 
 low-pitched JJ 
 , , 
@@ -6169,7 +6169,7 @@ like IN
 a DT 
 muffler NN 
 blowing VBG 
-out IN 
+out RB 
 . . 
 
 She PRP 
@@ -6190,11 +6190,11 @@ on IN
 and CC 
 squeezed VBD 
 it PRP 
-around IN 
+around RB 
 her PRP 
 again RB 
 , , 
-but IN 
+but CC 
 not RB 
 soon RB 
 enough RB 
@@ -6215,7 +6215,7 @@ muffler NN
 had VBD 
 been VBD 
 blowing VBG 
-out IN 
+out RB 
 , , 
 and CC 
 now RB 
@@ -6223,11 +6223,11 @@ I PRP
 was VBD 
 certain JJ 
 I PRP 
-'d VBD 
+'d MD 
 seen VBD 
 her PRP 
 somewhere RB 
-before IN 
+before RB 
 . . 
 
 I PRP 
@@ -6249,7 +6249,7 @@ me PRP
 . . 
 
 I PRP 
-'m VB 
+'m VBP 
 sorry JJ 
 '' '' 
 ! . 
@@ -6260,8 +6260,8 @@ forgive VB
 '' '' 
 -- : 
 `` `` 
-That IN 
-'s IN 
+That DT 
+'s POS 
 what WP 
 started VBD 
 all DT 
@@ -6278,7 +6278,7 @@ Oh UH
 dear NN 
 , , 
 I PRP 
-'m VB 
+'m VBP 
 all DT 
 unstrung JJ 
 '' '' 
@@ -6303,11 +6303,11 @@ you PRP
 . . 
 
 I PRP 
-mean JJ 
+mean VB 
 , , 
 surely RB 
 we PRP 
-'ve VB 
+'ve VBP 
 '' '' 
 -- : 
 `` `` 
@@ -6317,7 +6317,7 @@ have VB
 seen VBD 
 me PRP 
 on IN 
-TV NNP 
+TV CD 
 '' '' 
 , , 
 she PRP 
@@ -6326,7 +6326,7 @@ said VBD
 
 `` `` 
 I PRP 
-'ve VB 
+'ve VBP 
 done VBN 
 several JJ 
 filmed VBD 
@@ -6336,7 +6336,7 @@ for IN
 -- : 
 Then RB 
 it PRP 
-hit NN 
+hit VBD 
 me PRP 
 . . 
 
@@ -6361,7 +6361,7 @@ The DT
 enemy NN 
 came VBD 
 looming VBG 
-around IN 
+around RB 
 a DT 
 bend NN 
 in IN 
@@ -6455,7 +6455,7 @@ meadow NN
 
 For IN 
 a DT 
-while IN 
+while NN 
 he PRP 
 was VBD 
 content NN 
@@ -6471,7 +6471,7 @@ time NN
 
 He PRP 
 had VBD 
-no DT 
+no RB 
 doubt NN 
 the DT 
 marine NN 
@@ -6484,7 +6484,7 @@ a DT
 column NN 
 , , 
 and CC 
-while IN 
+while NN 
 his PRP 
 shot NN 
 had VBD 
@@ -6521,7 +6521,7 @@ today RB
 ; : 
 tomorrow NN 
 : : 
-no DT 
+no RB 
 surrender NN 
 . . 
 
@@ -6530,7 +6530,7 @@ remembering VBG
 the DT 
 self-dictate JJ 
 brought VBD 
-no DT 
+no RB 
 peace NN 
 -- : 
 only RB 
@@ -6570,7 +6570,7 @@ superiors NNS
 had VBD 
 also RB 
 preached VBD 
-this DT 
+this RB 
 , , 
 saying VBG 
 it PRP 
@@ -6600,7 +6600,7 @@ dead NN
 
 He PRP 
 had VBD 
-no DT 
+no RB 
 rice NN 
 . . 
 
@@ -6624,7 +6624,7 @@ he PRP
 would MD 
 rot NN 
 in IN 
-this DT 
+this RB 
 vast JJ 
 choking VBG 
 green NN 
@@ -6684,7 +6684,7 @@ his PRP
 belt NN 
 . . 
 
-Besides IN 
+Besides RB 
 the DT 
 belt NN 
 he PRP 
@@ -6735,7 +6735,7 @@ and CC
 stayed VBD 
 , , 
 as IN 
-though IN 
+though RB 
 debating VBG 
 whether IN 
 to TO 
@@ -6814,7 +6814,7 @@ were VBD
 events NNS 
 of IN 
 the DT 
-past IN 
+past NN 
 day NN 
 when WRB 
 his PRP 
@@ -6840,7 +6840,7 @@ resorted VBD
 to TO 
 burning VBG 
 them DT 
-out IN 
+out RB 
 . . 
 
 Even RB 
@@ -6870,7 +6870,7 @@ wave NN
 of IN 
 flame NN 
 rippling VBG 
-through IN 
+through RB 
 their PRP$ 
 cave NN 
 had VBD 
@@ -6887,7 +6887,7 @@ shriek NN
 the DT 
 man NN 
 bolted VBD 
-through IN 
+through RB 
 the DT 
 entrance NN 
 , , 
@@ -6949,7 +6949,7 @@ corpses NNS
 , , 
 both DT 
 the DT 
-burned VBN 
+burned VBD 
 and CC 
 the DT 
 unburned JJ 
@@ -6972,10 +6972,10 @@ laughed VBD
 at IN 
 each DT 
 other JJ 
-'s IN 
+'s POS 
 retching VBG 
 , , 
-while IN 
+while NN 
 stacking VBG 
 bodies NNS 
 . . 
@@ -6985,7 +6985,7 @@ repeatedly RB
 choked VBD 
 down IN 
 his PRP 
-own JJ 
+own VB 
 nausea NN 
 . . 
 
@@ -7035,7 +7035,7 @@ marines NNS
 must MD 
 be VB 
 deploying VBG 
-around IN 
+around RB 
 the DT 
 meadow NN 
 , , 
@@ -7159,7 +7159,7 @@ as IN
 if IN 
 it PRP 
 was VBD 
-some DT 
+some RB 
 dull JJ 
 maneuver NN 
 . . 
@@ -7168,7 +7168,7 @@ aim NN
 at IN 
 the DT 
 man NN 
-'s IN 
+'s POS 
 face NN 
 , , 
 Matsuo NNP 
@@ -7351,7 +7351,7 @@ he PRP
 tumbled VBD 
 ; : 
 ; : 
-but IN 
+but CC 
 jumping NN 
 right NN 
 up IN 
@@ -7359,14 +7359,14 @@ up IN
 he PRP 
 staggered VBD 
 in IN 
-no DT 
+no RB 
 particular NN 
 direction NN 
 . . 
 
 He PRP 
 wore VBD 
-no DT 
+no RB 
 head NN 
 cover VB 
 of IN 
@@ -7378,7 +7378,7 @@ more NN
 odd JJ 
 , , 
 had VBD 
-no DT 
+no RB 
 visible JJ 
 weapon NN 
 . . 
@@ -7390,7 +7390,7 @@ he PRP
 lurched VBD 
 in IN 
 Matsuo NNP 
-'s IN 
+'s POS 
 direction NN 
 , , 
 crossing VBG 
@@ -7538,7 +7538,7 @@ The DT
 marine NN 
 was VBD 
 sprawled VBN 
-some DT 
+some RB 
 thirty CD 
 yards NNS 
 away RB 
@@ -7552,10 +7552,10 @@ Matsuo NNP
 jumped VBD 
 when WRB 
 the DT 
-hidden VBN 
+hidden JJ 
 arm NN 
 flopped VBD 
-out IN 
+out RB 
 . . 
 
 Reflex NNP 
@@ -7580,7 +7580,7 @@ in IN
 the DT 
 sunlight NN 
 , , 
-pressed VBN 
+pressed VBD 
 in IN 
 like IN 
 an DT 
@@ -7621,6 +7621,6 @@ the DT
 marine NN 
 over IN 
 on IN 
-his PRP$ NNP 
+his PRP$ JJ 
 back NN 
 . . 

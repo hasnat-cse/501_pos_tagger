@@ -51,7 +51,7 @@ you PRP
 buy VB 
 it PRP 
 , , 
-but IN 
+but CC 
 , , 
 when WRB 
 you PRP 
@@ -59,7 +59,7 @@ come VBD
 back NN 
 home NN 
 take VB 
-out IN 
+out RB 
 you PRP 
 purse NN 
 , , 
@@ -115,14 +115,14 @@ he PRP
 was VBD 
 40 CD 
 year-old JJ 
-but IN 
+but CC 
 still RB 
 well-looking JJ 
 and CC 
 all DT 
 my PRP 
 girls NNS 
-school-mates NNS 
+school-mates VBZ 
 fell VBD 
 suddenly RB 
 in IN 
@@ -170,9 +170,9 @@ and CC
 then RB 
 we PRP 
 think VB 
-about IN 
+about RB 
 our PRP$ 
-'s IN 
+'s POS 
 conference NN 
 plane NN 
 . . 
@@ -184,16 +184,16 @@ now RB
 . . 
 
 I PRP 
-'m VB 
+'m VBP 
 sorry JJ 
 I PRP 
 did VBD 
 n't RB 
 write VB 
 you PRP 
-before IN 
+before RB 
 , , 
-but IN 
+but CC 
 I PRP 
 was VBD 
 so IN 
@@ -237,7 +237,7 @@ tennis NNS
 quite RB 
 well RB 
 , , 
-but IN 
+but CC 
 I PRP 
 have VB 
 never RB 
@@ -280,7 +280,7 @@ ca MD
 n't RB 
 even RB 
 think VB 
-about IN 
+about RB 
 how WRB 
 it PRP 
 would MD 
@@ -296,7 +296,7 @@ was VBD
 very RB 
 frightened JJ 
 with IN 
-this DT 
+this RB 
 situation NN 
 . . 
 
@@ -329,7 +329,7 @@ and CC
 I PRP 
 have VB 
 won VBD 
-some DT 
+some RB 
 competitions NNS 
 in IN 
 my PRP 
@@ -351,7 +351,7 @@ lives VBZ
 
 I PRP 
 think VB 
-this DT 
+this RB 
 way NN 
 is VBZ 
 better RB 
@@ -366,7 +366,7 @@ nature NN
 
 There EX 
 are VB 
-some DT 
+some RB 
 of IN 
 the DT 
 modern JJ 
@@ -375,10 +375,10 @@ that IN
 most RBS 
 help NN 
 me PRP 
-but IN 
+but CC 
 there RB 
 are VB 
-some DT 
+some RB 
 others NNS 
 which WDT 
 are VB 
@@ -403,7 +403,7 @@ would MD
 like IN 
 to TO 
 take VB 
-some DT 
+some RB 
 picture NN 
 of IN 
 beautiful JJ 
@@ -436,8 +436,8 @@ any DT
 possibility NN 
 to TO 
 learn VB 
-about IN 
-this DT 
+about RB 
+this RB 
 . . 
 
 She PRP 
@@ -445,7 +445,7 @@ was VBD
 the DT 
 head NN 
 in IN 
-this DT 
+this RB 
 story NN 
 . . 
 
@@ -468,7 +468,7 @@ decided VBD
 to TO 
 buy VB 
 my PRP 
-own JJ 
+own VB 
 computer NN 
 and CC 
 every DT 
@@ -482,13 +482,13 @@ knowledge NN
 
 The DT 
 Marine NNP 
-'s IN 
+'s POS 
 real JJ 
 father NN 
 want VB 
 her PRP 
 back NN 
-but IN 
+but CC 
 the DT 
 other JJ 
 cuples NNS 
@@ -539,7 +539,7 @@ advertisement NN
 promised VBD 
 stars NNS 
 from IN 
-around IN 
+around RB 
 the DT 
 world NN 
 . . 
@@ -635,7 +635,7 @@ of IN
 her PRP 
 best RBS 
 friend NN 
-before IN 
+before RB 
 three CD 
 year NN 
 . . 
@@ -760,7 +760,7 @@ my PRP
 holidays NNS 
 in IN 
 tent NN 
-but IN 
+but CC 
 my PRP 
 father NN 
 has VBZ 
@@ -771,7 +771,7 @@ the DT
 permission NN 
 , , 
 and CC 
-this DT 
+this RB 
 would MD 
 be VB 
 an DT 
@@ -781,13 +781,13 @@ for IN
 me PRP 
 to TO 
 learn VB 
-about IN 
+about RB 
 camp NN 
 life NN 
 . . 
 
 I PRP 
-'ve VB 
+'ve VBP 
 received VBD 
 your PRP$ 
 letter NN 
@@ -796,7 +796,7 @@ days NNS
 ago RB 
 and CC 
 I PRP 
-'m VB 
+'m VBP 
 quite RB 
 happy JJ 
 to TO 
@@ -842,7 +842,7 @@ as IN
 you PRP 
 expect VB 
 , , 
-but IN 
+but CC 
 recently RB 
 I PRP 
 have VB 
@@ -852,7 +852,7 @@ in IN
 those DT 
 . . 
 
-That IN 
+That DT 
 is VBZ 
 really RB 
 intresting VBG 
@@ -893,7 +893,7 @@ York NNP
 to TO 
 discover VB 
 how WRB 
-some DT 
+some RB 
 people NNS 
 from IN 
 government NN 
@@ -928,7 +928,7 @@ code NN
 
 At IN 
 8 CD 
-pm NN 
+pm VB 
 Metallica NNP 
 started VBD 
 and CC 
@@ -999,7 +999,7 @@ wagon NN
 I PRP 
 prefer NN 
 to TO 
-live JJ 
+live VB 
 in IN 
 log NN 
 cabin NN 
@@ -1007,7 +1007,7 @@ because IN
 I PRP 
 think VB 
 it PRP 
-'s IN 
+'s POS 
 more NN 
 comfortable JJ 
 . . 
@@ -1026,7 +1026,7 @@ my PRP
 friend NN 
 , , 
 it PRP 
-'s IN 
+'s POS 
 quite RB 
 helpful JJ 
 by IN 
@@ -1048,7 +1048,7 @@ side NN
 of IN 
 shopping NN 
 , , 
-such DT 
+such JJ 
 as IN 
 pleasures NNS 
 of IN 
@@ -1070,15 +1070,15 @@ time NN
 you PRP 
 also RB 
 have VB 
-some DT 
+some RB 
 unpleasant JJ 
 moments NNS 
 to TO 
 get VB 
-through IN 
+through RB 
 . . 
 
-Besides IN 
+Besides RB 
 , , 
 I PRP 
 would MD 
@@ -1112,12 +1112,12 @@ Sue VB
 asked VBD 
 to TO 
 Francis NNP 
-some DT 
+some RB 
 help NN 
 for IN 
 their PRP$ 
 exam NN 
-'s IN 
+'s POS 
 subjets NNS 
 and CC 
 Francis NNP 
@@ -1155,7 +1155,7 @@ else RB
 This DT 
 show NN 
 is VBZ 
-about IN 
+about RB 
 the DT 
 latest JJS 
 fashions NNS 
@@ -1194,7 +1194,7 @@ party NN
 on IN 
 the DT 
 day NN 
-before IN 
+before RB 
 your PRP$ 
 departure NN 
 . . 
@@ -1202,7 +1202,7 @@ departure NN
 Finally RB 
 , , 
 the DT 
-TV NNP 
+TV CD 
 is VBZ 
 in IN 
 my PRP 
@@ -1246,7 +1246,7 @@ good JJ
 to TO 
 travel NN 
 during IN 
-this DT 
+this RB 
 time NN 
 . . 
 
@@ -1260,7 +1260,7 @@ good JJ
 I PRP 
 can MD 
 sing VB 
-but IN 
+but CC 
 I PRP 
 really RB 
 like IN 
@@ -1316,7 +1316,7 @@ again RB
 When WRB 
 you PRP 
 go VB 
-out IN 
+out RB 
 of IN 
 the DT 
 Hotel NN 
@@ -1348,11 +1348,11 @@ tell VB
 you PRP 
 that IN 
 I PRP 
-'ve VB 
+'ve VBP 
 never RB 
 had VBD 
 a DT 
-such DT 
+such JJ 
 good JJ 
 time NN 
 in IN 
@@ -1390,7 +1390,7 @@ to TO
 give VB 
 my PRP 
 opinions NNS 
-about IN 
+about RB 
 it PRP 
 . . 
 
@@ -1407,7 +1407,7 @@ always RB
 be VB 
 even RB 
 if IN 
-this DT 
+this RB 
 story NN 
 happened VBD 
 a DT 
@@ -1449,12 +1449,12 @@ n't RB
 interested JJ 
 in IN 
 it PRP 
-but IN 
+but CC 
 when WRB 
 I PRP 
 started VBD 
 studying VBG 
-about IN 
+about RB 
 internet NN 
 and CC 
 playing NN 
@@ -1477,7 +1477,7 @@ us PRP
 students NNS 
 , , 
 it PRP 
-'s IN 
+'s POS 
 a DT 
 great JJ 
 chance NN 
@@ -1503,7 +1503,7 @@ to TO
 say VB 
 that IN 
 I PRP 
-'m VB 
+'m VBP 
 very RB 
 glad JJ 
 to TO 
@@ -1517,7 +1517,7 @@ do VB
 my PRP 
 best RBS 
 for IN 
-this DT 
+this RB 
 competition NN 
 . . 
 
@@ -1529,21 +1529,21 @@ of IN
 classical JJ 
 music NN 
 , , 
-but IN 
-this DT 
+but CC 
+this RB 
 concert NN 
 was VBD 
 too RB 
 small JJ 
 that IN 
-'s IN 
+'s POS 
 why WRB 
 many JJ 
 people NNS 
 had VBD 
 to TO 
 miss VB 
-this DT 
+this RB 
 classical JJ 
 concert NN 
 . . 
@@ -1595,7 +1595,7 @@ I PRP
 have VB 
 n't RB 
 had VBD 
-before IN 
+before RB 
 . . 
 
 How WRB 
@@ -1649,7 +1649,7 @@ is VBZ
 great JJ 
 . . 
 
-- CD 
+- NN 
 About IN 
 the DT 
 accomodation NN 
@@ -1739,7 +1739,7 @@ solution NN
 to TO 
 get VB 
 a DT 
-friendlier RB 
+friendlier NN 
 service NN 
 is VBZ 
 of IN 
@@ -1800,10 +1800,10 @@ I PRP
 will NN 
 give VB 
 you PRP 
-some DT 
+some RB 
 more NN 
 detail NN 
-about IN 
+about RB 
 the DT 
 student NN 
 conference NN 
@@ -1813,7 +1813,7 @@ For IN
 me PRP 
 , , 
 It PRP 
-'s IN 
+'s POS 
 not RB 
 easy JJ 
 to TO 
@@ -1841,7 +1841,7 @@ shop NN
 assistants NNS 
 and CC 
 looking VBG 
-around IN 
+around RB 
 the DT 
 shops NNS 
 , , 
@@ -1894,7 +1894,7 @@ right NN
 and CC 
 then RB 
 walk NN 
-along IN 
+along RB 
 Denl-a-Lion NNP 
 Road NNP 
 . . 
@@ -1923,7 +1923,7 @@ Manuel NNP
 knew VBD 
 the DT 
 truth NN 
-about IN 
+about RB 
 the DT 
 feelings NNS 
 that IN 
@@ -1942,7 +1942,7 @@ angry JJ
 she PRP 
 almost RB 
 kill VB 
-but IN 
+but CC 
 , , 
 she PRP 
 could MD 
@@ -2018,7 +2018,7 @@ than IN
 it PRP 
 was VBD 
 written JJ 
-out IN 
+out RB 
 . . 
 
 At IN 
@@ -2037,7 +2037,7 @@ you PRP
 really RB 
 like IN 
 , , 
-but IN 
+but CC 
 they PRP 
 are VB 
 all DT 
@@ -2052,7 +2052,7 @@ decided VBD
 to TO 
 write VB 
 you PRP 
-this DT 
+this RB 
 letter NN 
 to TO 
 note NN 
@@ -2130,7 +2130,7 @@ an DT
 hour NN 
 due NN 
 to TO 
-some DT 
+some RB 
 railtrack NN 
 repairs NNS 
 , , 
@@ -2162,7 +2162,7 @@ distanation NN
 Let VB 
 me PRP 
 answer NN 
-this DT 
+this RB 
 question NN 
 . . 
 
@@ -2180,7 +2180,7 @@ happy JJ
 to TO 
 have VB 
 won VBD 
-this DT 
+this RB 
 prize NN 
 and CC 
 I PRP 
@@ -2190,8 +2190,8 @@ thank VB
 you PRP 
 . . 
 
-i VBP 
-'m VB 
+i RB 
+'m VBP 
 hope NN 
 that IN 
 it PRP 
@@ -2251,7 +2251,7 @@ friends NNS
 After IN 
 all DT 
 of IN 
-this DT 
+this RB 
 we PRP 
 saw VBD 
 the DT 
@@ -2266,7 +2266,7 @@ of IN
 the DT 
 stage NN 
 and CC 
-after IN 
+after RB 
 , , 
 the DT 
 thing NN 
@@ -2392,7 +2392,7 @@ of IN
 view NN 
 , , 
 people NNS 
-'s IN 
+'s POS 
 home NN 
 in IN 
 the DT 
@@ -2410,7 +2410,7 @@ in IN
 every DT 
 machine NN 
 , , 
-TV NNP 
+TV CD 
 , , 
 cooker NN 
 and CC 
@@ -2447,7 +2447,7 @@ you PRP
 to TO 
 give VB 
 you PRP 
-some DT 
+some RB 
 informations NNS 
 from IN 
 me PRP 
@@ -2483,7 +2483,7 @@ time NN
 even RB 
 at IN 
 weekdays NNS 
-while IN 
+while NN 
 shopping NN 
 . . 
 
@@ -2521,8 +2521,8 @@ national JJ
 art NN 
 gallery NN 
 , , 
-but IN 
-after IN 
+but CC 
+after RB 
 that IN 
 we PRP 
 can MD 
@@ -2557,7 +2557,7 @@ give VB
 us PRP 
 more NN 
 information NN 
-about IN 
+about RB 
 the DT 
 main JJ 
 transformation NN 
@@ -2565,7 +2565,7 @@ in IN
 nowdays NNS 
 in IN 
 England NNP 
-about IN 
+about RB 
 fashions NNS 
 , , 
 Leisure NNP 
@@ -2581,7 +2581,7 @@ In IN
 other JJ 
 hand NN 
 , , 
-after IN 
+after RB 
 shopping NN 
 you PRP 
 'll MD 
@@ -2611,7 +2611,7 @@ I PRP
 saw VBD 
 the DT 
 advertisement NN 
-about IN 
+about RB 
 one PRP 
 of IN 
 the DT 
@@ -2676,7 +2676,7 @@ you PRP
 give VB 
 me PRP 
 details NNS 
-about IN 
+about RB 
 how WRB 
 does VBZ 
 the DT 
@@ -2696,12 +2696,12 @@ bringh NN
 ? . 
 
 If IN 
-no DT 
+no RB 
 , , 
 what WP 
 do VB 
 you PRP 
-sugest JJS 
+sugest NN 
 ? . 
 
 So IN 
@@ -2713,7 +2713,7 @@ choose VB
 these DT 
 two CD 
 activities NNS 
-while IN 
+while NN 
 I PRP 
 am VB 
 at IN 
@@ -2858,7 +2858,7 @@ anything NN
 I PRP 
 think VB 
 that IN 
-this DT 
+this RB 
 kind NN 
 of IN 
 people NNS 
@@ -2886,7 +2886,7 @@ a DT
 lot NN 
 of IN 
 things NNS 
-about IN 
+about RB 
 them DT 
 . . 
 
@@ -2907,7 +2907,7 @@ want VB
 to TO 
 do VB 
 , , 
-but IN 
+but CC 
 I PRP 
 dicided VBD 
 to TO 
@@ -2950,7 +2950,7 @@ with IN
 ill-fitted JJ 
 clothes NNS 
 taking NN 
-off IN 
+off NN 
 and CC 
 putting VBG 
 on IN 
@@ -2972,7 +2972,7 @@ way NN
 of IN 
 future NN 
 people NNS 
-'s IN 
+'s POS 
 life NN 
 . . 
 
@@ -3001,7 +3001,7 @@ have VB
 an DT 
 argument NN 
 with IN 
-class-mates NNS 
+class-mates VBZ 
 and CC 
 not RB 
 allowed VBN 
@@ -3031,7 +3031,7 @@ to TO
 take VB 
 . . 
 
-Besides IN 
+Besides RB 
 , , 
 I PRP 
 really RB 
@@ -3075,7 +3075,7 @@ could MD
 . . 
 
 I PRP 
-'d VBD 
+'d MD 
 rather RB 
 sleep NN 
 in IN 
@@ -3085,7 +3085,7 @@ I PRP
 want VB 
 to TO 
 enjoy VB 
-this DT 
+this RB 
 wild JJ 
 experience NN 
 ! . 
@@ -3115,7 +3115,7 @@ advertisment NN
 
 So IN 
 that IN 
-'s IN 
+'s POS 
 why WRB 
 they PRP 
 have VB 
@@ -3159,7 +3159,7 @@ can MD
 take VB 
 attention NN 
 on IN 
-this DT 
+this RB 
 . . 
 
 Last NNP 
@@ -3177,13 +3177,13 @@ is VBZ
 a DT 
 theatre NN 
 restaurant NN 
-after IN 
+after RB 
 the DT 
 show NN 
-but IN 
+but CC 
 it PRP 
 turned VBD 
-out IN 
+out RB 
 to TO 
 be VB 
 closed VBD 
@@ -3192,7 +3192,7 @@ it PRP
 was VBD 
 redecorating VBG 
 and CC 
-no DT 
+no RB 
 annocement NN 
 was VBD 
 made VBD 
@@ -3203,7 +3203,7 @@ Finally RB
 I PRP 
 am VB 
 considering VBG 
-about IN 
+about RB 
 what WP 
 kind NN 
 of IN 
@@ -3222,7 +3222,7 @@ About IN
 the DT 
 acommodation NN 
 , , 
-out IN 
+out RB 
 of IN 
 the DT 
 two CD 
@@ -3297,7 +3297,7 @@ away RB
 . . 
 
 It PRP 
-'s IN 
+'s POS 
 connected VBN 
 with IN 
 our PRP$ 
@@ -3306,7 +3306,7 @@ house NN
 our PRP$ 
 workplace NN 
 and CC 
-e.t.c JJ 
+e.t.c RB 
 . . 
 
 On IN 
@@ -3314,7 +3314,7 @@ the DT
 tale NN 
 " CD 
 It PRP 
-'s IN 
+'s POS 
 a DT 
 good JJ 
 life NN 
@@ -3341,7 +3341,7 @@ story NN
 
 Seeing VBG 
 that IN 
-this DT 
+this RB 
 is VBZ 
 the DT 
 first RB 
@@ -3383,7 +3383,7 @@ comfortable JJ
 speaking VBG 
 in IN 
 Spanish NNP 
-but IN 
+but CC 
 I PRP 
 guess VB 
 to TO 
@@ -3424,7 +3424,7 @@ travel NN
 You PRP 
 asked VBD 
 me PRP 
-about IN 
+about RB 
 accommodations NNS 
 or CC 
 Camp NNP 
@@ -3473,8 +3473,8 @@ secrets NNS
 After IN 
 having VBG 
 thought NN 
-about IN 
-this DT 
+about RB 
+this RB 
 video NN 
 and CC 
 asked VBD 
@@ -3518,7 +3518,7 @@ day NN
 at IN 
 school NN 
 ; : 
-this DT 
+this RB 
 being NN 
 in IN 
 three CD 
@@ -3526,7 +3526,7 @@ parts NNS
 . . 
 
 I PRP 
-'ve VB 
+'ve VBP 
 asked VBD 
 my PRP 
 mom NN 
@@ -3593,23 +3593,23 @@ the DT
 school NN 
 . . 
 
-Do VB 
+Do VBP 
 you PRP 
 know VB 
 what WP 
 Kim NNP 
 , , 
 I PRP 
-'ve VB 
+'ve VBP 
 never RB 
 thought NN 
-before IN 
+before RB 
 , , 
 that IN 
 enjoying VBG 
 yourself PRP 
 like IN 
-this DT 
+this RB 
 , , 
 could MD 
 be VB 
@@ -3660,13 +3660,13 @@ reply NN
 ! . 
 
 AFTER IN 
-THE NNP 
+THE CD 
 MEETING NNP 
-WE NNP 
-RECIEVED NNP 
+WE VBD 
+RECIEVED VBD 
 ALL NNP 
-THE NNP 
-SAME NNP 
+THE CD 
+SAME JJ 
 CLOTHES NNP 
 . . 
 
@@ -3714,7 +3714,7 @@ to TO
 myself PRP 
 learn VB 
 spanish JJ 
-this DT 
+this RB 
 sommar RB 
 at IN 
 the DT 
@@ -3746,7 +3746,7 @@ at IN
 instead RB 
 of IN 
 20:15 CD 
-!! CD 
+!! NN 
 
 I PRP 
 ca MD 
@@ -3786,7 +3786,7 @@ sport NN
 reading VBG 
 , , 
 chating NN 
-about IN 
+about RB 
 ideas NNS 
 which WDT 
 make VB 
@@ -3900,7 +3900,7 @@ begin VB
 at IN 
 19:30 CD 
 , , 
-but IN 
+but CC 
 the DT 
 show NN 
 did VBD 
@@ -3940,13 +3940,13 @@ parfect NN
 
 First NNP 
 of IN 
-al JJ 
+al VB 
 , , 
 in IN 
 my PRP 
 opinion NN 
 , , 
-TV NNP 
+TV CD 
 has VBZ 
 a DT 
 great JJ 
@@ -3962,7 +3962,7 @@ become VBD
 small JJ 
 . . 
 
-this DT 
+this RB 
 lesson NN 
 techer JJ 
 you PRP 
@@ -4002,7 +4002,7 @@ organize VB
 the DT 
 next JJ 
 year NN 
-'s IN 
+'s POS 
 international NN 
 arts NNS 
 festival NN 
@@ -4017,7 +4017,7 @@ films NNS
 . . 
 
 But CC 
-after IN 
+after RB 
 all DT 
 the DT 
 party NN 
@@ -4144,7 +4144,7 @@ Surfing VBG
 in IN 
 my PRP 
 life NN 
-but IN 
+but CC 
 I PRP 
 am VB 
 a DT 
@@ -4152,7 +4152,7 @@ very RB
 good JJ 
 Snowboarder NN 
 and CC 
-this DT 
+this RB 
 could MD 
 be VB 
 an DT 
@@ -4169,11 +4169,11 @@ have VB
 to TO 
 write VB 
 you PRP 
-this DT 
+this RB 
 letter NN 
 . . 
 
-One NN 
+One CD 
 of IN 
 my PRP 
 favourite NN 
@@ -4226,7 +4226,7 @@ to TO
 take VB 
 every DT 
 article NN 
-'s IN 
+'s POS 
 note NN 
 by IN 
 hand NN 
@@ -4246,7 +4246,7 @@ party NN
 it PRP 
 'll MD 
 be VB 
-some DT 
+some RB 
 picturs NNS 
 of IN 
 our PRP$ 
@@ -4257,7 +4257,7 @@ In IN
 fact NN 
 if IN 
 I PRP 
-'m VB 
+'m VBP 
 not RB 
 in IN 
 the DT 
@@ -4288,7 +4288,7 @@ am VB
 really RB 
 interested JJ 
 in IN 
-this DT 
+this RB 
 activity NN 
 . . 
 
@@ -4303,14 +4303,14 @@ the DT
 ticket-prices NNS 
 were VBD 
 possible JJ 
-but IN 
+but CC 
 at IN 
 the DT 
 evening NN 
 of IN 
 the DT 
 show NN 
-no DT 
+no RB 
 discounts NNS 
 or CC 
 special JJ 
@@ -4356,7 +4356,7 @@ rights NNS
 to TO 
 keep NN 
 their PRP$ 
-own JJ 
+own VB 
 private NN 
 life NN 
 , , 
@@ -4367,19 +4367,19 @@ are VB
 in IN 
 serious JJ 
 situations NNS 
-such DT 
+such JJ 
 as IN 
 divorce NN 
 and CC 
 a DT 
 family NN 
 member NN 
-'s IN 
+'s POS 
 or CC 
 the DT 
 closest JJS 
 friend NN 
-'s IN 
+'s POS 
 death NN 
 . . 
 
@@ -4394,7 +4394,7 @@ the DT
 discounts NNS 
 were VBD 
 available JJ 
-but IN 
+but CC 
 they PRP 
 were VBD 
 not RB 
@@ -4434,7 +4434,7 @@ start VB
 with IN 
 the DT 
 actor NN 
-- CD 
+- NN 
 was VBD 
 a DT 
 different JJ 
@@ -4477,7 +4477,7 @@ So IN
 I PRP 
 think VB 
 you PRP 
-'d VBD 
+'d MD 
 better RB 
 to TO 
 wear VB 
@@ -4525,16 +4525,16 @@ to TO
 you PRP 
 to TO 
 give VB 
-some DT 
+some RB 
 requiered VBD 
 information NN 
 . . 
 
-That IN 
-'s IN 
+That DT 
+'s POS 
 why WRB 
 I PRP 
-'d VBD 
+'d MD 
 like IN 
 to TO 
 feel NN 
@@ -4564,7 +4564,7 @@ to TO
 be VB 
 able JJ 
 to TO 
-live JJ 
+live VB 
 like IN 
 ordinary JJ 
 people NNS 
@@ -4667,7 +4667,7 @@ my PRP
 home NN 
 life NN 
 and CC 
-neither DT 
+neither RB 
 in IN 
 my PRP 
 school NN 
@@ -4711,7 +4711,7 @@ like IN
 to TO 
 remark NN 
 that IN 
-this DT 
+this RB 
 change VB 
 does VBZ 
 not RB 
@@ -4764,7 +4764,7 @@ really RB
 funny JJ 
 things NNS 
 like IN 
-teeth-bruches NNS 
+teeth-bruches VBZ 
 in IN 
 the DT 
 bags NNS 
@@ -4788,13 +4788,13 @@ Finally RB
 I PRP 
 give VB 
 you PRP 
-some DT 
+some RB 
 suggestions NNS 
 which WDT 
 could MD 
 spend VB 
 for IN 
-about IN 
+about RB 
 3 CD 
 hours NNS 
 in IN 
@@ -4808,7 +4808,7 @@ area NN
 
 Machines NNP 
 , , 
-such DT 
+such JJ 
 as IN 
 a DT 
 dish NN 
@@ -4834,7 +4834,7 @@ necessary JJ
 
 First NNP 
 of IN 
-al JJ 
+al VB 
 , , 
 I PRP 
 want VB 
@@ -4894,7 +4894,7 @@ you PRP
 do VB 
 n't RB 
 know VB 
-about IN 
+about RB 
 all DT 
 the DT 
 others NNS 
@@ -4949,7 +4949,7 @@ to TO
 see VB 
 Danny NNP 
 Brook NNP 
-but IN 
+but CC 
 a DT 
 different JJ 
 actor NN 
@@ -4961,7 +4961,7 @@ explanation NN
 
 After IN 
 all DT 
-this DT 
+this RB 
 , , 
 I PRP 
 want VB 
@@ -4971,7 +4971,7 @@ if IN
 I PRP 
 will NN 
 have VB 
-some DT 
+some RB 
 money NN 
 back NN 
 . . 
@@ -5066,7 +5066,7 @@ home NN
 works VBZ 
 and CC 
 watch VB 
-TV NNP 
+TV CD 
 less RBR 
 and CC 
 not RB 
@@ -5164,7 +5164,7 @@ to TO
 play VB 
 the DT 
 drums NNS 
-but IN 
+but CC 
 I PRP 
 was VBD 
 expelled VBN 
@@ -5187,7 +5187,7 @@ mood NN
 
 She PRP 
 spent VBD 
-this DT 
+this RB 
 only RB 
 for IN 
 a DT 
@@ -5213,7 +5213,7 @@ computer NN
 tidy JJ 
 up IN 
 Madonna NNP 
-'s IN 
+'s POS 
 room NN 
 ! . 
 
@@ -5280,7 +5280,7 @@ to TO
 have VB 
 dinner NN 
 , , 
-but IN 
+but CC 
 the DT 
 restaurant NN 
 was VBD 
@@ -5297,7 +5297,7 @@ like IN
 usual JJ 
 , , 
 it PRP 
-'s IN 
+'s POS 
 a DT 
 pleisure NN 
 to TO 
@@ -5310,7 +5310,7 @@ you PRP
 
 The DT 
 advertisement NN 
-outside IN 
+outside RB 
 the DT 
 theatre NN 
 explained VBD 
@@ -5378,20 +5378,20 @@ Would MD
 you PRP 
 give VB 
 me PRP 
-some DT 
+some RB 
 pocket-money JJ 
 during IN 
 the DT 
 trip NN 
 . . 
 
-i VBP 
+i RB 
 whant JJ 
 to TO 
 know VB 
-some DT 
+some RB 
 questions NNS 
-about IN 
+about RB 
 it PRP 
 . . 
 
@@ -5504,7 +5504,7 @@ them DT
 to TO 
 enjoy VB 
 their PRP$ 
-own JJ 
+own VB 
 time NN 
 . . 
 
@@ -5520,7 +5520,7 @@ house NN
 I PRP 
 hope NN 
 that IN 
-after IN 
+after RB 
 jully RB 
 wo MD 
 n't RB 
@@ -5528,13 +5528,13 @@ disturb VB
 the DT 
 Camp NNP 
 California NNP 
-'s IN 
+'s POS 
 plans NNS 
 for IN 
 me PRP 
 . . 
 
-Functions NNS 
+Functions NNPS 
 ' '' 
 clothes NNS 
 are VB 
@@ -5610,7 +5610,7 @@ suggest VBP
 to TO 
 put VBD 
 it PRP 
-this DT 
+this RB 
 way NN 
 on IN 
 Tuesday NNP 
@@ -5670,11 +5670,11 @@ topics NNS
 , , 
 and CC 
 it PRP 
-'s IN 
+'s POS 
 a DT 
 great JJ 
 opportunity NN 
-while IN 
+while NN 
 we PRP 
 are VB 
 London NNP 
@@ -5741,7 +5741,7 @@ Rigi NNP
 
 If IN 
 you PRP 
-'re VB 
+'re VBP 
 tire NN 
 , , 
 the DT 
@@ -5817,7 +5817,7 @@ n't RB
 need NN 
 to TO 
 go VB 
-out IN 
+out RB 
 just RB 
 for IN 
 shopping NN 
@@ -5845,7 +5845,7 @@ had VBD
 started VBD 
 I PRP 
 found VBD 
-out IN 
+out RB 
 that IN 
 Danny NNP 
 Brook NNP 
@@ -5863,7 +5863,7 @@ qualities NNS
 were VBD 
 good JJ 
 , , 
-but IN 
+but CC 
 quantities NNS 
 were VBD 
 bad JJ 
@@ -5897,7 +5897,7 @@ health NN
 . . 
 
 I PRP 
-'m VB 
+'m VBP 
 writting VBG 
 you PRP 
 because IN 
@@ -5949,7 +5949,7 @@ we PRP
 will NN 
 learn VB 
 next JJ 
-term VB 
+term JJ 
 . . 
 
 The DT 
@@ -5972,7 +5972,7 @@ play VB
 in IN 
 my PRP 
 school NN 
-'s IN 
+'s POS 
 big JJ 
 for IN 
 almoust RB 
@@ -6047,13 +6047,13 @@ to TO
 do VB 
 their PRP$ 
 duties NNS 
-- CD 
+- NN 
 to TO 
 buy VB 
 . . 
 
 I PRP 
-'m VB 
+'m VBP 
 used VBD 
 to TO 
 be VB 
@@ -6094,10 +6094,10 @@ was VBD
 at IN 
 the DT 
 Maria NNP 
-'s IN 
+'s POS 
 party NN 
 and CC 
-'cause NN 
+'cause VBP 
 of IN 
 my PRP 
 distraction NN 
@@ -6111,11 +6111,11 @@ had VBD
 lost VBD 
 the DT 
 Jon NNP 
-'s IN 
+'s POS 
 shirt NN 
 . . 
 
-That IN 
+That DT 
 show NN 
 takes NNS 
 place NN 
@@ -6124,12 +6124,12 @@ on IN
 March NNP 
 from IN 
 10.00 CD 
-- CD 
+- NN 
 19.00 CD 
 . . 
 
 First NNP 
-off IN 
+off NN 
 all DT 
 I PRP 
 'll MD 
@@ -6197,7 +6197,7 @@ I PRP
 had VBD 
 a DT 
 week NN 
-'s IN 
+'s POS 
 holiday NN 
 in IN 
 London NNP 
@@ -6245,7 +6245,7 @@ Then RB
 , , 
 I PRP 
 discovered VBD 
-some DT 
+some RB 
 points NNS 
 and CC 
 I PRP 
@@ -6292,7 +6292,7 @@ train NN
 A DT 
 few JJ 
 days NNS 
-before IN 
+before RB 
 , , 
 I PRP 
 had VBD 
@@ -6311,7 +6311,7 @@ so IN
 I PRP 
 entered VBD 
 by IN 
-this DT 
+this RB 
 way NN 
 and CC 
 by IN 
@@ -6322,7 +6322,7 @@ arrived VBN
 in IN 
 the DT 
 monney NN 
-'s IN 
+'s POS 
 room NN 
 . . 
 
@@ -6399,7 +6399,7 @@ I PRP
 have VB 
 bad JJ 
 experiens NNS 
-about IN 
+about RB 
 tents NNS 
 . . 
 
@@ -6420,11 +6420,11 @@ that IN
 Everyone NN 
 has VBZ 
 is VBZ 
-own JJ 
+own VB 
 style NN 
-but IN 
+but CC 
 it PRP 
-'s IN 
+'s POS 
 obvious JJ 
 that IN 
 many JJ 
@@ -6458,8 +6458,8 @@ advertisement NN
 In IN 
 addition NN 
 to TO 
-this DT 
-some DT 
+this RB 
+some RB 
 concert NN 
 halls VBZ 
 were VBD 
@@ -6502,7 +6502,7 @@ a DT
 fantastic JJ 
 atmosphere NN 
 all DT 
-around IN 
+around RB 
 . . 
 
 Thank VB 
@@ -6527,7 +6527,7 @@ would MD
 not RB 
 have VB 
 been VBD 
-such DT 
+such JJ 
 a DT 
 great JJ 
 problem NN 
@@ -6544,7 +6544,7 @@ good JJ
 as IN 
 they PRP 
 promised VBD 
-but IN 
+but CC 
 it PRP 
 really RB 
 was VBD 
@@ -6564,7 +6564,7 @@ Brook NNP
 as IN 
 we PRP 
 expected VBD 
-but IN 
+but CC 
 an DT 
 unknown JJ 
 , , 
@@ -6586,7 +6586,7 @@ to TO
 give VB 
 my PRP 
 opinion NN 
-about IN 
+about RB 
 the DT 
 International NNP 
 Arts NNS 
@@ -6597,7 +6597,7 @@ held VBD
 21st CD 
 and CC 
 22nd CD 
-November NNP 
+November NN 
 . . 
 
 ( ( 
@@ -6620,8 +6620,8 @@ interested JJ
 me PRP 
 ) ) 
 
-i VBP 
-'d VBD 
+i RB 
+'d MD 
 prefer NN 
 take VB 
 a DT 
@@ -6692,7 +6692,7 @@ games NNS
 computer NN 
 . . 
 
-One NN 
+One CD 
 day NN 
 , , 
 we PRP 
@@ -6714,7 +6714,7 @@ to TO
 have VB 
 the DT 
 medias NNS 
-around IN 
+around RB 
 you PRP 
 days NNS 
 and CC 
@@ -6743,7 +6743,7 @@ the DT
 students NNS 
 will NN 
 enjoy VB 
-this DT 
+this RB 
 sightseeing NN 
 . . 
 
@@ -6824,7 +6824,7 @@ have VB
 set VBD 
 my PRP 
 holidays NNS 
-this DT 
+this RB 
 month NN 
 since IN 
 last JJ 
@@ -6854,7 +6854,7 @@ at IN
 tennis NNS 
 and CC 
 photography NN 
-but IN 
+but CC 
 I PRP 
 would MD 
 prefer NN 
@@ -6872,7 +6872,7 @@ possible JJ
 Finaly NNP 
 , , 
 I PRP 
-'d VBD 
+'d MD 
 like IN 
 to TO 
 practice NN 
@@ -6891,9 +6891,9 @@ archeological NN
 Etruscans NNPS 
 founded VBD 
 and CC 
-some DT 
+some RB 
 remains NNS 
-about IN 
+about RB 
 Etruscans NNPS 
 neoropolis RB 
 . . 
@@ -6956,7 +6956,7 @@ foreward NN
 to TO 
 seeing VBG 
 Danny NNP 
-'s IN 
+'s POS 
 stage NN 
 , , 
 I PRP 
@@ -7019,7 +7019,7 @@ am VB
 writing VBG 
 to TO 
 answer NN 
-about IN 
+about RB 
 your PRP$ 
 invitation NN 
 which WDT 
@@ -7047,7 +7047,7 @@ to TO
 your PRP$ 
 restaurant NN 
 , , 
-but IN 
+but CC 
 we PRP 
 were VBD 
 amazed VBN 
@@ -7074,7 +7074,7 @@ training VBG
 to TO 
 be VB 
 a DT 
-personal JJ 
+personal NN 
 assistance NN 
 to TO 
 Madonna NNP 
@@ -7105,7 +7105,7 @@ never RB
 did VBD 
 surfing VBG 
 , , 
-but IN 
+but CC 
 every DT 
 time NN 
 I PRP 
@@ -7115,13 +7115,13 @@ on IN
 television NN 
 I PRP 
 find VB 
-this DT 
+this RB 
 magic NN 
 . . 
 
 I PRP 
 think VB 
-this DT 
+this RB 
 side NN 
 of IN 
 the DT 
@@ -7129,7 +7129,7 @@ question NN
 is VBZ 
 balanced JJ 
 because IN 
-before IN 
+before RB 
 effect NN 
 on IN 
 our PRP$ 
@@ -7149,12 +7149,12 @@ soon RB
 and CC 
 tell VB 
 me PRP 
-about IN 
+about RB 
 your PRP$ 
 impression NN 
 ( ( 
 I PRP 
-mean JJ 
+mean VB 
 if IN 
 you PRP 
 enjoyed VBD 
@@ -7210,13 +7210,13 @@ not RB
 sing VB 
 very RB 
 well RB 
-but IN 
+but CC 
 I PRP 
 would MD 
 like IN 
 to TO 
 do VB 
-this DT 
+this RB 
 there RB 
 . . 
 
@@ -7262,7 +7262,7 @@ becoming VBG
 essential JJ 
 in IN 
 everybody NN 
-'s IN 
+'s POS 
 life NN 
 . . 
 
@@ -7275,7 +7275,7 @@ can MD
 save VB 
 time NN 
 , , 
-but IN 
+but CC 
 I PRP 
 think VB 
 every DT 
@@ -7323,7 +7323,7 @@ robots NNS
 . . 
 
 I PRP 
-'m VB 
+'m VBP 
 excited VBN 
 to TO 
 go VB 
@@ -7363,7 +7363,7 @@ has VBZ
 abosolutly RB 
 reduced VBD 
 women NNS 
-'s IN 
+'s POS 
 our PRP$ 
 house NN 
 working VBG 
@@ -7391,7 +7391,7 @@ in IN
 London NNP 
 and CC 
 I PRP 
-'ve VB 
+'ve VBP 
 seen VBD 
 your PRP$ 
 musical JJ 
@@ -7416,7 +7416,7 @@ on IN
 our PRP$ 
 first RB 
 question NN 
-about IN 
+about RB 
 where WRB 
 would MD 
 I PRP 
@@ -7441,7 +7441,7 @@ in IN
 sleepping VBG 
 bags NNS 
 ( ( 
-= CD 
+= NN 
 BV NNP 
 bags NNS 
 ) ) 
@@ -7478,7 +7478,7 @@ comfortable JJ
 
 In IN 
 reference NN 
-about IN 
+about RB 
 the DT 
 date NN 
 of IN 
@@ -7514,7 +7514,7 @@ holidays NNS
 . . 
 
 I PRP 
-'m VB 
+'m VBP 
 sure RB 
 that IN 
 if IN 
@@ -7532,7 +7532,7 @@ immediately RB
 , , 
 and CC 
 find VB 
-out IN 
+out RB 
 there RB 
 many JJ 
 challenges NNS 
@@ -7600,7 +7600,7 @@ points NNS
 did VBD 
 n't RB 
 worked VBD 
-out IN 
+out RB 
 as IN 
 promised VBD 
 in IN 
@@ -7617,7 +7617,7 @@ congratulate VB
 you PRP 
 on IN 
 making VBG 
-this DT 
+this RB 
 kind NN 
 of IN 
 event NN 
@@ -7664,14 +7664,14 @@ After IN
 I PRP 
 waited VBD 
 for IN 
-about IN 
+about RB 
 45 CD 
 minutes NNS 
 the DT 
 show NN 
 suddenly RB 
 started VBD 
-but IN 
+but CC 
 I PRP 
 had VBD 
 to TO 
@@ -7706,14 +7706,14 @@ could MD
 n't RB 
 sing VB 
 as IN 
-half DT 
+half NN 
 as IN 
 good JJ 
 then RB 
 Brook NNP 
 . . 
 
-That IN 
+That DT 
 was VBD 
 a DT 
 pop NN 
@@ -7740,14 +7740,14 @@ to TO
 go VB 
 to TO 
 see VB 
-this DT 
+this RB 
 show NN 
 because IN 
 of IN 
 its PRP$ 
 starrings NNS 
 , , 
-but IN 
+but CC 
 at IN 
 the DT 
 day NN 
@@ -7762,7 +7762,7 @@ played VBD
 . . 
 
 I PRP 
-'ve VB 
+'ve VBP 
 just RB 
 helped VBD 
 for IN 
@@ -7862,7 +7862,7 @@ Everyone NN
 likes NNS 
 sale NN 
 , , 
-but IN 
+but CC 
 those DT 
 so-called JJ 
 sale NN 
@@ -7875,7 +7875,7 @@ value NN
 . . 
 
 But CC 
-this DT 
+this RB 
 was VBD 
 also RB 
 the DT 
@@ -7938,7 +7938,7 @@ student NN
 is VBZ 
 making VBG 
 speech NN 
-about IN 
+about RB 
 what WP 
 he PRP 
 or CC 
@@ -7962,22 +7962,22 @@ with IN
 Well RB 
 , , 
 I PRP 
-'m VB 
+'m VBP 
 also RB 
 bothered VBD 
-about IN 
+about RB 
 what WP 
-'s IN 
+'s POS 
 going VBG 
 on IN 
-around IN 
+around RB 
 me PRP 
-but IN 
+but CC 
 why WRB 
 did VBD 
 you PRP 
 forget VB 
-about IN 
+about RB 
 newspapers NNS 
 ? . 
 
@@ -7994,7 +7994,7 @@ and CC
 Tina NNP 
 Truelove NNP 
 , , 
-but IN 
+but CC 
 surprisinggly RB 
 , , 
 it PRP 
@@ -8064,14 +8064,14 @@ July NNP
 , , 
 because IN 
 I PRP 
-'m VB 
+'m VBP 
 free JJ 
 in IN 
-this DT 
+this RB 
 time NN 
 from IN 
 family NN 
-'s IN 
+'s POS 
 duties NNS 
 . . 
 
@@ -8103,7 +8103,7 @@ for IN
 my PRP 
 perfect JJ 
 evening NN 
-out IN 
+out RB 
 . . 
 
 I PRP 
@@ -8164,7 +8164,7 @@ familly RB
 
 It PRP 
 was VBD 
-about IN 
+about RB 
 Marine NNP 
 , , 
 who WP 
@@ -8204,9 +8204,9 @@ You PRP
 ask VB 
 me PRP 
 for IN 
-some DT 
+some RB 
 informations NNS 
-- CD 
+- NN 
 here RB 
 they PRP 
 are VB 
@@ -8239,7 +8239,7 @@ Bye NNP
 and CC 
 think VB 
 on IN 
-this DT 
+this RB 
 . . 
 
 houses NNS 
@@ -8251,7 +8251,7 @@ moderne NN
 and CC 
 more NN 
 practique NN 
-but IN 
+but CC 
 not RB 
 very RB 
 different JJ 
@@ -8296,7 +8296,7 @@ other JJ
 hand NN 
 , , 
 technology NN 
-'s IN 
+'s POS 
 products NNS 
 are VB 
 sometimes RB 
@@ -8360,7 +8360,7 @@ too RB
 By IN 
 problems NNS 
 I PRP 
-mean JJ 
+mean VB 
 , , 
 that IN 
 the DT 
@@ -8375,7 +8375,7 @@ at IN
 or CC 
 why WRB 
 were VBD 
-no DT 
+no RB 
 discounts NNS 
 avaivable JJ 
 ? . 
@@ -8383,7 +8383,7 @@ avaivable JJ
 Secondly RB 
 , , 
 I PRP 
-suppose VB 
+suppose VBP 
 the DT 
 show NN 
 will NN 
@@ -8391,10 +8391,10 @@ start VB
 at IN 
 19:30 CD 
 , , 
-but IN 
+but CC 
 it PRP 
 started VBD 
-t IN 
+t NN 
 20:15 CD 
 . . 
 
@@ -8405,7 +8405,7 @@ alone RB
 all DT 
 the DT 
 day NN 
-but IN 
+but CC 
 I PRP 
 have VB 
 contacts NNS 
@@ -8459,7 +8459,7 @@ the DT
 news NN 
 . . 
 
-- CD 
+- NN 
 Some DT 
 sequences NNS 
 of IN 
@@ -8478,7 +8478,7 @@ children NNS
 at IN 
 work NN 
 , , 
-but IN 
+but CC 
 there RB 
 should MD 
 follow VB 
@@ -8518,7 +8518,7 @@ Maria NNP
 was VBD 
 nervous JJ 
 , , 
-but IN 
+but CC 
 for IN 
 the DT 
 first RB 
@@ -8533,7 +8533,7 @@ as IN
 she PRP 
 never RB 
 did VBD 
-before IN 
+before RB 
 , , 
 and CC 
 at IN 
@@ -8546,7 +8546,7 @@ day NN
 she PRP 
 was VBD 
 the DT 
-happiest JJS 
+happiest NN 
 person NN 
 of IN 
 the DT 
@@ -8561,11 +8561,11 @@ and CC
 she PRP 
 had VBD 
 Pat NNP 
-'s IN 
+'s POS 
 friendship NN 
 back NN 
 , , 
-after IN 
+after RB 
 all DT 
 , , 
 everything NN 
@@ -8575,9 +8575,9 @@ of IN
 her PRP 
 . . 
 
-Furthermore RB 
+Furthermore NNP 
 , , 
-this DT 
+this RB 
 party NN 
 would MD 
 be VB 
@@ -8591,16 +8591,16 @@ years NNS
 . . 
 
 I PRP 
-'m VB 
+'m VBP 
 very RB 
 keen JJ 
 on IN 
 photography NN 
 , , 
 especially RB 
-while IN 
+while NN 
 I PRP 
-'m VB 
+'m VBP 
 staying VBG 
 in IN 
 Sates VBZ 
@@ -8644,7 +8644,7 @@ and CC
 I PRP 
 am VB 
 afraid JJ 
-about IN 
+about RB 
 wild JJ 
 animals NNS 
 . . 
@@ -8657,7 +8657,7 @@ saw VBD
 others NNS 
 versions NNS 
 of IN 
-this DT 
+this RB 
 musical JJ 
 and CC 
 Danny NNP 
@@ -8777,7 +8777,7 @@ for IN
 answering VBG 
 these DT 
 questions NNS 
-but IN 
+but CC 
 we PRP 
 will NN 
 never RB 
@@ -8797,7 +8797,7 @@ the DT
 piano NN 
 for IN 
 children NNS 
-'s IN 
+'s POS 
 choir NN 
 for IN 
 5 CD 
@@ -8827,18 +8827,18 @@ day NN
 I PRP 
 just RB 
 had VBD 
-no DT 
+no RB 
 possibility NN 
 to TO 
 meet VB 
 them DT 
-after IN 
+after RB 
 school NN 
 , , 
 because IN 
 I PRP 
 had VBD 
-no DT 
+no RB 
 vehicle NN 
 to TO 
 get VB 
@@ -8909,7 +8909,7 @@ needed VBD
 Firstly RB 
 , , 
 it PRP 
-'s IN 
+'s POS 
 written JJ 
 that IN 
 it PRP 
@@ -8920,7 +8920,7 @@ by IN
 Danny NNP 
 Brook NNP 
 , , 
-but IN 
+but CC 
 in IN 
 fact NN 
 it PRP 
@@ -8941,7 +8941,7 @@ great JJ
 idea NN 
 to TO 
 have VB 
-this DT 
+this RB 
 international NN 
 arts NNS 
 festival NN 
@@ -9013,8 +9013,8 @@ books NNS
 I PRP 
 never RB 
 stayed VBD 
-out IN 
-after IN 
+out RB 
+after RB 
 dark NN 
 today RB 
 except IN 
@@ -9044,7 +9044,7 @@ You PRP
 choose VB 
 Larry NNP 
 , , 
-but IN 
+but CC 
 I PRP 
 thought NN 
 that IN 
@@ -9097,7 +9097,7 @@ I PRP
 could MD 
 red JJ 
 it PRP 
-before IN 
+before RB 
 at IN 
 your PRP$ 
 notice NN 
@@ -9120,7 +9120,7 @@ visitors NNS
 According VBG 
 to TO 
 all DT 
-this DT 
+this RB 
 , , 
 what WP 
 was VBD 
@@ -9133,7 +9133,7 @@ my PRP
 best RBS 
 nights NNS 
 turned VBD 
-out IN 
+out RB 
 to TO 
 be VB 
 definatly RB 
@@ -9169,7 +9169,7 @@ very RB
 good JJ 
 painting NN 
 , , 
-but IN 
+but CC 
 I PRP 
 like IN 
 it PRP 
@@ -9192,7 +9192,7 @@ very RB
 dissappointed VBN 
 . . 
 
-That IN 
+That DT 
 is VBZ 
 the DT 
 question NN 
@@ -9217,7 +9217,7 @@ very RB
 clever JJ 
 teen-ager NN 
 and CC 
-while IN 
+while NN 
 she PRP 
 was VBD 
 attending VBG 
@@ -9249,7 +9249,7 @@ my PRP
 details NNS 
 and CC 
 ask VB 
-some DT 
+some RB 
 more NN 
 information NN 
 . . 
@@ -9257,7 +9257,7 @@ information NN
 I PRP 
 hope NN 
 I PRP 
-'ve VB 
+'ve VBP 
 answered VBD 
 all DT 
 you PRP 
@@ -9280,9 +9280,9 @@ Then RB
 the DT 
 show NN 
 started VBD 
-t IN 
+t NN 
 20.15 CD 
-pm NN 
+pm VB 
 instead RB 
 of IN 
 19.30 CD 
@@ -9303,14 +9303,14 @@ was VBD
 more NN 
 angry JJ 
 than IN 
-before IN 
+before RB 
 . . 
 
 It PRP 
 is VBZ 
 a DT 
 show NN 
-about IN 
+about RB 
 latest JJS 
 fashions NNS 
 , , 
@@ -9338,7 +9338,7 @@ Have VB
 you PRP 
 ever RB 
 thought NN 
-about IN 
+about RB 
 a DT 
 world NN 
 without IN 
@@ -9387,7 +9387,7 @@ competition NN
 . . 
 
 We PRP 
-live JJ 
+live VB 
 in IN 
 a DT 
 small JJ 
@@ -9411,7 +9411,7 @@ hard RB
 for IN 
 him PRP 
 , , 
-but IN 
+but CC 
 even RB 
 harder NN 
 was VBD 
@@ -9452,11 +9452,11 @@ was VBD
 nearing VBG 
 . . 
 
-One NN 
+One CD 
 of IN 
 them DT 
 was VBD 
-about IN 
+about RB 
 her PRP 
 boss NN 
 ' '' 
@@ -9499,7 +9499,7 @@ can MD
 never RB 
 , , 
 ever RB 
-live JJ 
+live VB 
 without IN 
 it PRP 
 . . 
@@ -9525,7 +9525,7 @@ enjoyed VBD
 it PRP 
 because IN 
 I PRP 
-learnt VB 
+learnt NN 
 a DT 
 lot NN 
 of IN 
@@ -9615,7 +9615,7 @@ Dome NNP
 . . 
 
 Despite IN 
-this DT 
+this RB 
 shopping NN 
 culture NN 
 , , 
@@ -9681,7 +9681,7 @@ great JJ
 opportunity NN 
 to TO 
 learn VB 
-about IN 
+about RB 
 art NN 
 and CC 
 latest JJS 
@@ -9742,7 +9742,7 @@ letters NNS
 to TO 
 her PRP 
 husband NN 
-'s IN 
+'s POS 
 lawyer NN 
 that IN 
 seem VB 
@@ -9869,7 +9869,7 @@ realised VBD
 that IN 
 I PRP 
 had VBD 
-no DT 
+no RB 
 choice NN 
 , , 
 so IN 
@@ -9923,7 +9923,7 @@ headmaster NN
 was VBD 
 extremely RB 
 angry JJ 
-about IN 
+about RB 
 it PRP 
 and CC 
 he PRP 
@@ -9987,7 +9987,7 @@ am VB
 a DT 
 fan NN 
 of IN 
-this DT 
+this RB 
 band NN 
 and CC 
 I PRP 
@@ -10010,14 +10010,14 @@ the DT
 tickets NNS 
 ten CD 
 minutes NNS 
-before IN 
+before RB 
 the DT 
 theatre NN 
 . . 
 
 I PRP 
 am VB 
-satisfied JJ 
+satisfied VBN 
 to TO 
 have VB 
 received VBD 
@@ -10043,7 +10043,7 @@ was VBD
 perfectly RB 
 terrible JJ 
 evening NN 
-out IN 
+out RB 
 . . 
 
 I PRP 

@@ -23,4 +23,4 @@ Execution Instructions:
                    --model StanfordTagger/Stanford1 --train A3DataCleaned/Domain1Train.txt
 
         Note: to train egw4-reut.512.clusters file will be needed and its path needs to be set correctly in 'arch' property of
-            stanfordPropsFile.prop file and also the 'arch' property needs to be set properly for different models to get maximum accuracy
+            stanfordPropsFile.prop file
