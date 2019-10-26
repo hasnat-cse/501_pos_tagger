@@ -87,7 +87,8 @@ def write_output(output_file, test_data, tagger):
 
 
 def get_dictionary(test_file, output_file):
-    unique_tag_list = set()
+    # unique_tag_list = set()
+    unique_tag_list = []
 
     f1 = open(test_file, "r")
 
@@ -117,9 +118,11 @@ def get_dictionary(test_file, output_file):
 
             word_and_tag2 = re.compile("[ ]+").split(line2)
 
-            unique_tag_list.add(word_and_tag1[1])
+            if word_and_tag1[1] not in unique_tag_list:
+                unique_tag_list.append(word_and_tag1[1])
 
-            unique_tag_list.add(word_and_tag2[1])
+            if word_and_tag2[1] not in unique_tag_list:
+                unique_tag_list.append(word_and_tag2[1])
 
     f1.close()
 
