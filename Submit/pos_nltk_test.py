@@ -87,7 +87,8 @@ def write_output(output_file, test_data, tagger):
 
 
 def get_dictionary(test_file, output_file):
-    unique_tag_list = set()
+    # unique_tag_list = set()
+    unique_tag_list = []
 
     f1 = open(test_file, "r")
 
@@ -117,9 +118,11 @@ def get_dictionary(test_file, output_file):
 
             word_and_tag2 = re.compile("[ ]+").split(line2)
 
-            unique_tag_list.add(word_and_tag1[1])
+            if word_and_tag1[1] not in unique_tag_list:
+                unique_tag_list.append(word_and_tag1[1])
 
-            unique_tag_list.add(word_and_tag2[1])
+            if word_and_tag2[1] not in unique_tag_list:
+                unique_tag_list.append(word_and_tag2[1])
 
     f1.close()
 
@@ -138,7 +141,7 @@ def get_dictionary(test_file, output_file):
 
 
 def get_confusion_matrix(mapping, test_file, output_file):
-    confusion_matrix = np.zeros(shape=(len(mapping), len(mapping)))
+    confusion_matrix = np.zeros(shape=(len(mapping)+1, len(mapping)+1))
 
     f1 = open(test_file, "r")
 
@@ -168,7 +171,7 @@ def get_confusion_matrix(mapping, test_file, output_file):
 
             word_and_tag2 = re.compile("[ ]+").split(line2)
 
-            confusion_matrix[mapping[word_and_tag2[1]]][mapping[word_and_tag1[1]]] += 1
+            confusion_matrix[mapping[word_and_tag2[1]]+1][mapping[word_and_tag1[1]]+1] += 1
 
     f1.close()
 
@@ -198,9 +201,9 @@ def main():
     mapping, unique_tag_list = get_dictionary(test_file, output_file)
     confusion_matrix = get_confusion_matrix(mapping, test_file, output_file)
 
-    f = open("matrix.csv", "w")
+    
 
-    np.savetxt("matrix.csv", confusion_matrix, delimiter="\t")
+    np.savetxt("matrices/matrix.csv", confusion_matrix, delimiter="\t")
 
 
     row = ["matrix\t"]
@@ -226,7 +229,7 @@ def main():
 
 
 	
-    with open("matrix.csv", "r") as readFile:
+    with open("matrices/matrix.csv", "r") as readFile:
 
         reader = csv.reader(readFile)
 
@@ -235,7 +238,7 @@ def main():
         lines[0] = row
 
 
-    with open ("matrix.csv", "w") as writeFile:
+    with open ("matrices/matrix.csv", "w") as writeFile:
 
         writer = csv.writer(writeFile)
 
