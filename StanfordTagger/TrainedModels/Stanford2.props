@@ -1,6 +1,6 @@
-## tagger training invoked at Fri Oct 25 02:03:12 MDT 2019 with arguments:
+## tagger training invoked at Fri Oct 25 20:08:50 MDT 2019 with arguments:
                    model = StanfordTagger/TrainedModels/Stanford2
-                    arch = left3words,naacl2003unknowns,wordshapes(-1,1),distsim(StanfordTagger/egw4-reut.512.clusters,-1,1),distsimconjunction(StanfordTagger/egw4-reut.512.clusters,-1,1)
+                    arch = bidirectional5words,naacl2003unknowns,allwordshapes(-1,1),distsim(egw4-reut.512.clusters,-1,1),distsimconjunction(egw4-reut.512.clusters,-1,1)
             wordFunction = 
                trainFile = temp/FormattedTrainFile.txt
          closedClassTags = 

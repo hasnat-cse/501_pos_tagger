@@ -88,13 +88,12 @@ debugPrefix =
 # distsim: Distributional similarity classes can be an added source of information
 # about your words. An English distsim file is included, or you can use your own.
 #arch = bidirectional5words,naacl2003unknowns,allwordshapes(-1,1)
-###### best for Domain1Train.txt and ELLTrain.txt
-arch = bidirectional5words,naacl2003unknowns,allwordshapes(-1,1),distsim(egw4-reut.512.clusters,-1,1),distsimconjunction(egw4-reut.512.clusters,-1,1)
 #arch = left3words,naacl2003unknowns,wordshapes(-1,1)
 ###### best for Domain2Train.txt
 #arch = left3words,naacl2003unknowns,wordshapes(-1,1),distsim(egw4-reut.512.clusters,-1,1),distsimconjunction(egw4-reut.512.clusters,-1,1)
 #arch = words(-1,1),order(2),caselessnaacl2003unknowns,wordshapes(-1,1),distsim(egw4-reut.512.clusters,-1,1),distsimconjunction(egw4-reut.512.clusters,-1,1)
-
+###### best for Domain1Train.txt and ELLTrain.txt
+arch = bidirectional5words,naacl2003unknowns,allwordshapes(-1,1),distsim(egw4-reut.512.clusters,-1,1),distsimconjunction(egw4-reut.512.clusters,-1,1)
 
 # 'wordFunction'.  A function applied to the text before training or tagging.
 # For example, edu.stanford.nlp.util.LowercaseFunction
