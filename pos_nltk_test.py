@@ -180,10 +180,11 @@ def main():
 
     test_data = pre_process(test_file)
 
-    with open(model_file, 'rb') as f:
+    with open('models/hmm2.dill', 'rb') as f:
         hmm_tagger = dill.load(f)
 
-    # print(hmm_tagger.evaluate(test_file))
+    
+
 
     output_file = prepare_output_file_path(model_file, test_file)
     write_output(output_file, test_data, hmm_tagger)
@@ -195,17 +196,47 @@ def main():
 
     np.savetxt("matrix.csv", confusion_matrix, delimiter="\t")
 
-    """Template._cleartemplates() #clear any templates created in earlier tests
 
-    brill_trainer = BrillTaggerTrainer(hmm_tagger, brill.brill24())
+    row = ["matrix\t"]
 
-    brill_tagger = brill_trainer.train(train_data)
+    
 
-    print(brill_tagger.evaluate(test_data))
+    for i in range (0, len(mapping)):
 
-    sentence = ["the", "lone", "wolf", "dies", "but" ,"the", "pack", "survives"]
+        for x in mapping.keys():
 
-    print(brill_tagger.tag(sentence))"""
+        	if (mapping[x] == i):
+
+        		to_append = x
+
+        		if (to_append == ","):
+
+        			row.append("comma\t")
+
+        		else :
+
+        			row.append(to_append + "\t")
+
+
+
+	
+    with open("matrix.csv", "r") as readFile:
+
+        reader = csv.reader(readFile)
+
+        lines = list(reader)
+
+        lines[0] = row
+
+
+    with open ("matrix.csv", "w") as writeFile:
+
+        writer = csv.writer(writeFile)
+
+        writer.writerows(lines)
+
+
+   
 
 
 if __name__ == "__main__":
