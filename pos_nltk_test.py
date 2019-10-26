@@ -54,6 +54,12 @@ def pre_process(filename):
 
             word_and_tag = tuple(word_and_tag)
 
+            if (len(word_and_tag)!=2):
+
+                temp = (word_and_tag[0], word_and_tag[1])
+                word_and_tag = temp
+
+
             data_line.append(word_and_tag)
 
     f.close()
@@ -180,11 +186,11 @@ def main():
 
     test_data = pre_process(test_file)
 
-    with open('models/hmm2.dill', 'rb') as f:
+    with open(model_file, 'rb') as f:
         hmm_tagger = dill.load(f)
 
     
-
+    print(hmm_tagger.evaluate(test_data))
 
     output_file = prepare_output_file_path(model_file, test_file)
     write_output(output_file, test_data, hmm_tagger)
